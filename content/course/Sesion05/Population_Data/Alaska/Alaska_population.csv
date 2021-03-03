@@ -1,0 +1,329 @@
+,city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+184,Anchorage,Anchorage,AK,Alaska,2020,Anchorage,61.1508,-149.1091,247949,65.0,polygon,False,True,America/Anchorage,2,99518 99515 99517 99516 99513 99540 99567 99587 99508 99506 99507 99504 99505 99502 99503 99501 99577 99509 99511 99514 99520 99521 99522 99523 99524 99529 99530 99599,1840023385
+773,Fairbanks,Fairbanks,AK,Alaska,2090,Fairbanks North Star,64.8353,-147.6534,63245,375.0,polygon,False,True,America/Anchorage,3,99701 99703 99707,1840023463
+1916,Juneau,Juneau,AK,Alaska,2110,Juneau,58.4546,-134.1739,25085,4.0,polygon,False,True,America/Juneau,2,99824 99801 99802 99803 99811 99812 99821 99850,1840023306
+2516,Badger,Badger,AK,Alaska,2090,Fairbanks North Star,64.8006,-147.3877,18792,110.0,polygon,False,False,America/Anchorage,3,99705 99711,1840023690
+2674,Knik-Fairview,Knik-Fairview,AK,Alaska,2170,Matanuska-Susitna,61.4964,-149.6535,17513,81.0,polygon,False,True,America/Anchorage,3,99654,1840075080
+3247,College,College,AK,Alaska,2090,Fairbanks North Star,64.8694,-147.8217,13709,282.0,polygon,False,False,America/Anchorage,3,99709 99775,1840023462
+3910,Wasilla,Wasilla,AK,Alaska,2170,Matanuska-Susitna,61.577,-149.466,10838,337.0,polygon,False,True,America/Anchorage,3,99654,1840023371
+3958,Ketchikan,Ketchikan,AK,Alaska,2130,Ketchikan Gateway,55.3556,-131.6698,10652,838.0,polygon,False,True,America/Sitka,3,99901 99950,1840023270
+3995,Tanaina,Tanaina,AK,Alaska,2170,Matanuska-Susitna,61.656,-149.4272,10520,133.0,polygon,False,False,America/Anchorage,3,99654,1840023662
+4513,Kodiak,Kodiak,AK,Alaska,2150,Kodiak Island,57.7934,-152.406,8851,571.0,polygon,False,True,America/Anchorage,3,99615 99619,1840023301
+4819,Kalifornsky,Kalifornsky,AK,Alaska,2122,Kenai Peninsula,60.4417,-151.1972,8134,45.0,polygon,False,False,America/Anchorage,3,99610 99611 99669,1840023406
+5033,Meadow Lakes,Meadow Lakes,AK,Alaska,2170,Matanuska-Susitna,61.638,-149.608,7656,39.0,polygon,False,False,America/Anchorage,3,99688 99654,1840023681
+5124,Palmer,Palmer,AK,Alaska,2170,Matanuska-Susitna,61.5971,-149.1147,7456,567.0,polygon,False,True,America/Anchorage,3,99645,1840023379
+5155,Soldotna,Soldotna,AK,Alaska,2122,Kenai Peninsula,60.4862,-151.0672,7398,261.0,polygon,False,True,America/Anchorage,3,99669,1840023415
+5165,Steele Creek,Steele Creek,AK,Alaska,2090,Fairbanks North Star,64.9295,-147.3955,7380,30.0,polygon,False,True,America/Anchorage,3,99712 99710,1840075216
+5342,Gateway,Gateway,AK,Alaska,2170,Matanuska-Susitna,61.5737,-149.2389,7037,126.0,polygon,False,False,America/Anchorage,3,99645 99654,1840023654
+5499,Sitka,Sitka,AK,Alaska,2220,Sitka,57.2401,-135.3153,6720,1.0,polygon,False,True,America/Sitka,3,99835,1840023319
+5784,Fishhook,Fishhook,AK,Alaska,2170,Matanuska-Susitna,61.711,-149.2657,6203,33.0,polygon,False,True,America/Anchorage,3,99645 99654,1840037578
+5939,Homer,Homer,AK,Alaska,2122,Kenai Peninsula,59.653,-151.5255,5922,165.0,polygon,False,True,America/Anchorage,3,99603,1840023419
+5950,Chena Ridge,Chena Ridge,AK,Alaska,2090,Fairbanks North Star,64.7941,-148.0357,5903,62.0,polygon,False,True,America/Anchorage,3,99709,1840075179
+6190,Farmers Loop,Farmers Loop,AK,Alaska,2090,Fairbanks North Star,64.9061,-147.6957,5535,98.0,polygon,False,True,America/Anchorage,3,99712,1840075181
+6276,Kenai,Kenai,AK,Alaska,2122,Kenai Peninsula,60.5619,-151.1985,5411,103.0,polygon,False,True,America/Anchorage,3,99611,1840023421
+6344,Sterling,Sterling,AK,Alaska,2122,Kenai Peninsula,60.5405,-150.8089,5321,26.0,polygon,False,False,America/Anchorage,3,99672 99669,1840023417
+6726,Bethel,Bethel,AK,Alaska,2050,Bethel,60.7928,-161.7917,4803,57.0,polygon,False,True,America/Anchorage,3,99559,1840023353
+6937,Nikiski,Nikiski,AK,Alaska,2122,Kenai Peninsula,60.7152,-151.2317,4575,25.0,polygon,False,False,America/Anchorage,3,99611 99635,1840023615
+7041,Utqiagvik,Utqiagvik,AK,Alaska,2185,North Slope,71.2728,-156.7575,4467,91.0,polygon,False,True,America/Anchorage,3,99723,1840023481
+7076,Unalaska,Unalaska,AK,Alaska,2016,Aleutians West,53.8984,-166.568,4432,16.0,polygon,False,True,America/Nome,3,99692 99685,1840023260
+7120,Goldstream,Goldstream,AK,Alaska,2090,Fairbanks North Star,64.9339,-148.0083,4389,19.0,polygon,False,True,America/Anchorage,3,99709 99708 99725,1840075196
+7617,Butte,Butte,AK,Alaska,2170,Matanuska-Susitna,61.5539,-149.0035,3929,44.0,polygon,False,False,America/Anchorage,3,99645,1840023368
+7690,Valdez,Valdez,AK,Alaska,2261,Valdez-Cordova,61.0963,-146.2596,3855,6.0,polygon,False,True,America/Anchorage,3,99686,1840023396
+8158,Nome,Nome,AK,Alaska,2180,Nome,64.5213,-165.4053,3466,116.0,polygon,False,True,America/Nome,3,99762,1840023510
+8488,Kotzebue,Kotzebue,AK,Alaska,2188,Northwest Arctic,66.8766,-162.5231,3245,50.0,polygon,False,True,America/Nome,3,99752,1840023494
+8695,Petersburg,Petersburg,AK,Alaska,2195,Petersburg Borough,56.7566,-132.8727,3106,27.0,polygon,False,False,America/Sitka,3,99833,1840023308
+8874,Eielson AFB,Eielson AFB,AK,Alaska,2090,Fairbanks North Star,64.6741,-147.0605,2979,38.0,polygon,True,True,America/Anchorage,3,99702,1840037568
+9166,Seward,Seward,AK,Alaska,2122,Kenai Peninsula,60.1124,-149.3925,2796,77.0,polygon,False,True,America/Anchorage,3,99664,1840023423
+9214,Big Lake,Big Lake,AK,Alaska,2170,Matanuska-Susitna,61.526,-149.972,2765,9.0,polygon,False,False,America/Anchorage,3,99652,1840023666
+9497,Ridgeway,Ridgeway,AK,Alaska,2122,Kenai Peninsula,60.5305,-151.0301,2617,60.0,polygon,False,False,America/Anchorage,3,99611 99669,1840023687
+9507,Deltana,Deltana,AK,Alaska,2240,Southeast Fairbanks,63.8724,-145.2158,2613,1.0,polygon,False,True,America/Anchorage,3,99737 99731,1840075067
+9742,Wrangell,Wrangell,AK,Alaska,2275,Wrangell,56.3317,-132.0223,2502,0.0,polygon,False,True,America/Sitka,3,99903 99929,1840000416
+9927,Houston,Houston,AK,Alaska,2170,Matanuska-Susitna,61.6159,-149.8003,2412,38.0,polygon,False,True,America/Anchorage,3,99694 99652,1840023378
+10034,Dillingham,Dillingham,AK,Alaska,2070,Dillingham,59.055,-158.5379,2360,27.0,polygon,False,True,America/Anchorage,3,99576,1840023279
+10413,Cordova,Cordova,AK,Alaska,2261,Valdez-Cordova,60.5348,-145.6092,2169,13.0,polygon,False,True,America/Anchorage,3,99574,1840023402
+10517,Willow,Willow,AK,Alaska,2170,Matanuska-Susitna,61.8157,-149.753,2126,1.0,polygon,False,False,America/Anchorage,3,99688,1840023377
+10592,North Pole,North Pole,AK,Alaska,2090,Fairbanks North Star,64.753,-147.36,2094,197.0,polygon,False,True,America/Anchorage,3,99705,1840023464
+10593,Anchor Point,Anchor Point,AK,Alaska,2122,Kenai Peninsula,59.7703,-151.7052,2093,8.0,polygon,False,False,America/Anchorage,3,99556,1840023410
+10938,Fritz Creek,Fritz Creek,AK,Alaska,2122,Kenai Peninsula,59.747,-151.2884,1956,13.0,polygon,False,False,America/Anchorage,3,99603,1840023672
+11102,Prudhoe Bay,Prudhoe Bay,AK,Alaska,2185,North Slope,70.3128,-148.6955,1893,1.0,polygon,False,False,America/Anchorage,3,99519 99734,1840023478
+11172,Haines,Haines,AK,Alaska,2100,Haines,59.2417,-135.4549,1870,54.0,polygon,False,False,America/Juneau,3,99827,1840023317
+11384,Lazy Mountain,Lazy Mountain,AK,Alaska,2170,Matanuska-Susitna,61.6516,-148.902,1800,11.0,polygon,False,False,America/Anchorage,3,99645,1840023678
+11892,Metlakatla,Metlakatla,AK,Alaska,2198,Prince of Wales-Hyder,55.1182,-131.5689,1635,273.0,polygon,False,False,America/Metlakatla,3,99926,1840023513
+12051,Sutton-Alpine,Sutton-Alpine,AK,Alaska,2170,Matanuska-Susitna,61.7429,-148.8542,1586,10.0,polygon,False,True,America/Anchorage,3,99674,1840075108
+12476,Bear Creek,Bear Creek,AK,Alaska,2122,Kenai Peninsula,60.2071,-149.3524,1465,14.0,polygon,False,False,America/Anchorage,3,99664,1840023650
+12904,Kodiak Station,Kodiak Station,AK,Alaska,2150,Kodiak Island,57.7451,-152.5443,1354,22.0,polygon,True,True,America/Anchorage,3,99615,1840075081
+13081,Ester,Ester,AK,Alaska,2090,Fairbanks North Star,64.8646,-148.0916,1312,7.0,polygon,False,False,America/Anchorage,3,99709,1840023460
+13211,Diamond Ridge,Diamond Ridge,AK,Alaska,2122,Kenai Peninsula,59.7024,-151.5545,1285,11.0,polygon,False,False,America/Anchorage,3,99603,1840023651
+13325,Craig,Craig,AK,Alaska,2198,Prince of Wales-Hyder,55.4913,-133.1165,1262,72.0,polygon,False,True,America/Sitka,3,99921,1840023520
+13377,Funny River,Funny River,AK,Alaska,2122,Kenai Peninsula,60.4873,-150.7808,1251,18.0,polygon,False,False,America/Anchorage,3,99669,1840023653
+13494,Hooper Bay,Hooper Bay,AK,Alaska,2158,Kusilvak,61.5262,-166.1146,1227,63.0,polygon,False,True,America/Nome,3,99604,1840023324
+13549,Cohoe,Cohoe,AK,Alaska,2122,Kenai Peninsula,60.2681,-151.2843,1217,6.0,polygon,False,False,America/Anchorage,3,99610 99568,1840023413
+13812,Tok,Tok,AK,Alaska,2240,Southeast Fairbanks,63.329,-143.0379,1160,3.0,polygon,False,False,America/Anchorage,3,99780,1840023473
+13941,Farm Loop,Farm Loop,AK,Alaska,2170,Matanuska-Susitna,61.6394,-149.1471,1137,63.0,polygon,False,True,America/Anchorage,3,99645,1840075075
+14218,Chevak,Chevak,AK,Alaska,2158,Kusilvak,61.5295,-165.5943,1077,363.0,polygon,False,True,America/Nome,3,99563,1840023322
+14286,Sand Point,Sand Point,AK,Alaska,2013,Aleutians East,55.3227,-160.4834,1064,51.0,polygon,False,True,America/Anchorage,3,99661,1840023269
+14405,Akutan,Akutan,AK,Alaska,2013,Aleutians East,54.1594,-165.7328,1041,6.0,polygon,False,True,America/Nome,3,99553,1840023265
+14498,Healy,Healy,AK,Alaska,2068,Denali,63.9454,-149.0152,1022,0.0,polygon,False,False,America/Anchorage,3,99755 99743,1840023381
+14544,Salamatof,Salamatof,AK,Alaska,2122,Kenai Peninsula,60.6154,-151.3159,1015,48.0,polygon,False,False,America/Anchorage,3,99611,1840023604
+14605,Skagway,Skagway,AK,Alaska,2230,Skagway,59.4566,-135.2927,1005,41.0,polygon,False,False,America/Juneau,3,99840,1840023311
+14637,King Cove,King Cove,AK,Alaska,2013,Aleutians East,55.0858,-162.2978,1000,15.0,polygon,False,True,America/Nome,3,99612,1840023268
+14674,Salcha,Salcha,AK,Alaska,2090,Fairbanks North Star,64.5272,-146.904,995,5.0,polygon,False,True,America/Anchorage,3,99714,1840037687
+14796,Point MacKenzie,Point MacKenzie,AK,Alaska,2170,Matanuska-Susitna,61.3463,-150.0787,976,2.0,polygon,False,False,America/Anchorage,3,99654,1840023659
+14842,Womens Bay,Womens Bay,AK,Alaska,2150,Kodiak Island,57.696,-152.6276,967,8.0,polygon,False,False,America/Anchorage,3,99615,1840023689
+14859,Talkeetna,Talkeetna,AK,Alaska,2170,Matanuska-Susitna,62.2753,-150.0814,965,13.0,polygon,False,False,America/Anchorage,3,99676,1840023375
+15104,Delta Junction,Delta Junction,AK,Alaska,2240,Southeast Fairbanks,64.0604,-145.7058,928,25.0,polygon,False,True,America/Anchorage,3,99737,1840023474
+15422,Susitna North,Susitna North,AK,Alaska,2170,Matanuska-Susitna,62.1281,-149.8593,882,1.0,polygon,False,True,America/Anchorage,3,99688 99676,1840037713
+15460,Mountain Village,Mountain Village,AK,Alaska,2158,Kusilvak,62.0911,-163.7209,877,80.0,polygon,False,True,America/Nome,3,99632,1840023327
+15499,Buffalo Soapstone,Buffalo Soapstone,AK,Alaska,2170,Matanuska-Susitna,61.7073,-149.1095,871,15.0,polygon,False,True,America/Anchorage,3,99645,1840075101
+15606,Denali Park,Denali Park,AK,Alaska,2068,Denali,63.5909,-148.7107,856,1.0,polygon,False,False,America/Anchorage,3,99755,1840023382
+15716,Togiak,Togiak,AK,Alaska,2070,Dillingham,59.0693,-160.4727,841,7.0,polygon,False,True,America/Anchorage,3,99678,1840023276
+15725,Selawik,Selawik,AK,Alaska,2188,Northwest Arctic,66.5988,-159.9995,840,139.0,polygon,False,True,America/Anchorage,3,99770,1840023496
+15789,Knik River,Knik River,AK,Alaska,2170,Matanuska-Susitna,61.4606,-148.9155,833,3.0,polygon,False,True,America/Anchorage,3,99645,1840075079
+15906,Emmonak,Emmonak,AK,Alaska,2158,Kusilvak,62.7762,-164.5157,819,63.0,polygon,False,True,America/Nome,3,99581,1840023323
+16088,Moose Creek,Moose Creek,AK,Alaska,2090,Fairbanks North Star,64.714,-147.1639,794,198.0,polygon,False,False,America/Anchorage,3,99705,1840023569
+16110,Hoonah,Hoonah,AK,Alaska,2105,Hoonah-Angoon,58.1118,-135.4246,791,52.0,polygon,False,True,America/Juneau,3,99829,1840023314
+16142,Klawock,Klawock,AK,Alaska,2198,Prince of Wales-Hyder,55.5556,-133.0868,787,446.0,polygon,False,True,America/Sitka,3,99925,1840023523
+16253,Alakanuk,Alakanuk,AK,Alaska,2158,Kusilvak,62.6902,-164.6305,774,9.0,polygon,False,True,America/Nome,3,99554,1840023321
+16346,Kwethluk,Kwethluk,AK,Alaska,2050,Bethel,60.7978,-161.4147,762,29.0,polygon,False,True,America/Anchorage,3,99621,1840023358
+16452,Ninilchik,Ninilchik,AK,Alaska,2122,Kenai Peninsula,60.0745,-151.3843,749,1.0,polygon,False,False,America/Anchorage,3,99639,1840023409
+16753,Point Hope,Point Hope,AK,Alaska,2185,North Slope,68.3445,-166.6738,715,55.0,polygon,False,True,America/Nome,3,99766,1840023484
+16823,Quinhagak,Quinhagak,AK,Alaska,2050,Bethel,59.7511,-161.8993,706,66.0,polygon,False,True,America/Anchorage,3,99655,1840023366
+16829,Savoonga,Savoonga,AK,Alaska,2180,Nome,63.6797,-170.4831,705,46.0,polygon,False,True,America/Nome,3,99769,1840023512
+16861,Gambell,Gambell,AK,Alaska,2180,Nome,63.7538,-171.6881,700,25.0,polygon,False,True,America/Nome,3,99742,1840023507
+16899,Unalakleet,Unalakleet,AK,Alaska,2180,Nome,63.8922,-160.786,695,93.0,polygon,False,True,America/Anchorage,3,99684,1840023501
+17059,Noorvik,Noorvik,AK,Alaska,2188,Northwest Arctic,66.8292,-161.0376,675,310.0,polygon,False,True,America/Anchorage,3,99763,1840023495
+17075,Toksook Bay,Toksook Bay,AK,Alaska,2050,Bethel,60.5333,-165.1557,673,9.0,polygon,False,True,America/Nome,3,99637,1840023342
+17141,Yakutat,Yakutat,AK,Alaska,2282,Yakutat,59.567,-139.5966,665,2.0,polygon,False,False,America/Yakutat,3,99689,1840023424
+17228,Happy Valley,Happy Valley,AK,Alaska,2122,Kenai Peninsula,59.9137,-151.6072,656,2.0,polygon,False,False,America/Anchorage,3,99556 99639,1840023404
+17388,Kotlik,Kotlik,AK,Alaska,2158,Kusilvak,63.0305,-163.553,638,82.0,polygon,False,True,America/Nome,3,99620,1840023325
+17500,Pilot Station,Pilot Station,AK,Alaska,2158,Kusilvak,61.9422,-162.8828,625,150.0,polygon,False,True,America/Nome,3,99650,1840023329
+17615,Shishmaref,Shishmaref,AK,Alaska,2180,Nome,66.2372,-166.1027,613,101.0,polygon,False,True,America/Nome,3,99772,1840023498
+17616,Kipnuk,Kipnuk,AK,Alaska,2050,Bethel,59.9373,-164.0616,613,11.0,polygon,False,False,America/Nome,3,99614,1840023334
+17831,Fox River,Fox River,AK,Alaska,2122,Kenai Peninsula,59.8723,-150.9984,594,1.0,polygon,False,False,America/Anchorage,3,99603,1840023671
+17912,Wainwright,Wainwright,AK,Alaska,2185,North Slope,70.638,-159.9713,587,21.0,polygon,False,True,America/Anchorage,3,99782,1840023476
+18020,Stebbins,Stebbins,AK,Alaska,2180,Nome,63.4706,-162.2597,575,6.0,polygon,False,True,America/Nome,3,99671,1840023499
+18032,Kasigluk,Kasigluk,AK,Alaska,2050,Bethel,60.8785,-162.5272,574,18.0,polygon,False,False,America/Nome,3,99609,1840023333
+18082,Pleasant Valley,Pleasant Valley,AK,Alaska,2090,Fairbanks North Star,64.8855,-146.8986,569,7.0,polygon,False,False,America/Anchorage,3,99712 99716,1840023685
+18083,Cooper Landing,Cooper Landing,AK,Alaska,2122,Kenai Peninsula,60.4945,-149.841,569,3.0,polygon,False,False,America/Anchorage,3,99572,1840023414
+18092,St. Mary's,St. Mary's,AK,Alaska,2158,Kusilvak,62.0718,-163.2805,568,4.0,polygon,False,True,America/Nome,3,99658,1840075119
+18100,Akiachak,Akiachak,AK,Alaska,2050,Bethel,60.9209,-161.402,567,31.0,polygon,False,False,America/Anchorage,3,99551,1840023339
+18113,Tuntutuliak,Tuntutuliak,AK,Alaska,2050,Bethel,60.3843,-162.6838,566,1.0,polygon,False,False,America/Nome,3,99680,1840023349
+18114,Fox,Fox,AK,Alaska,2090,Fairbanks North Star,64.9749,-147.609,566,16.0,polygon,False,False,America/Anchorage,3,99712,1840023461
+18286,South Van Horn,South Van Horn,AK,Alaska,2090,Fairbanks North Star,64.8091,-147.7855,552,26.0,polygon,False,True,America/Anchorage,3,99709 99701,1840075206
+18326,Aniak,Aniak,AK,Alaska,2050,Bethel,61.5817,-159.5451,549,34.0,polygon,False,True,America/Anchorage,3,99557,1840023352
+18378,Kake,Kake,AK,Alaska,2198,Prince of Wales-Hyder,56.9727,-133.9145,544,27.0,polygon,False,True,America/Sitka,3,99830,1840023307
+18471,Fort Yukon,Fort Yukon,AK,Alaska,2290,Yukon-Koyukuk,66.5806,-145.2415,534,30.0,polygon,False,True,America/Anchorage,3,99740,1840023446
+18472,Scammon Bay,Scammon Bay,AK,Alaska,2158,Kusilvak,61.842,-165.5833,534,440.0,polygon,False,True,America/Nome,3,99662,1840023332
+18498,Kasilof,Kasilof,AK,Alaska,2122,Kenai Peninsula,60.331,-151.2293,531,19.0,polygon,False,False,America/Anchorage,3,99610,1840023407
+18513,Nunapitchuk,Nunapitchuk,AK,Alaska,2050,Bethel,60.8772,-162.4615,530,29.0,polygon,False,True,America/Nome,3,99641,1840023364
+18743,New Stuyahok,New Stuyahok,AK,Alaska,2070,Dillingham,59.4762,-157.271,509,5.0,polygon,False,True,America/Anchorage,3,99636,1840023282
+18957,Kachemak,Kachemak,AK,Alaska,2122,Kenai Peninsula,59.6745,-151.4364,490,114.0,polygon,False,True,America/Anchorage,3,99603,1840037714
+19085,St. Paul,St. Paul,AK,Alaska,2016,Aleutians West,57.1815,-170.2743,481,4.0,polygon,False,True,America/Nome,3,99660,1840023264
+19207,Chefornak,Chefornak,AK,Alaska,2050,Bethel,60.155,-164.255,471,34.0,polygon,False,True,America/Nome,3,99561,1840023354
+19257,Thorne Bay,Thorne Bay,AK,Alaska,2198,Prince of Wales-Hyder,55.6652,-132.5337,467,6.0,polygon,False,True,America/Sitka,3,99919,1840023517
+19301,Naknek,Naknek,AK,Alaska,2060,Bristol Bay,58.7847,-156.8967,464,2.0,polygon,False,False,America/Anchorage,3,99633,1840023273
+19348,Marshall,Marshall,AK,Alaska,2158,Kusilvak,61.8753,-162.0488,461,43.0,polygon,False,True,America/Nome,3,99585,1840023326
+19381,Angoon,Angoon,AK,Alaska,2105,Hoonah-Angoon,57.455,-134.4978,459,6.0,polygon,False,True,America/Juneau,3,99820,1840023312
+19407,Big Delta,Big Delta,AK,Alaska,2240,Southeast Fairbanks,64.1486,-145.7453,457,3.0,polygon,False,False,America/Anchorage,3,99737,1840023468
+19487,Galena,Galena,AK,Alaska,2290,Yukon-Koyukuk,64.7381,-156.8635,450,9.0,polygon,False,True,America/Anchorage,3,99741,1840023447
+19519,Gustavus,Gustavus,AK,Alaska,2105,Hoonah-Angoon,58.4275,-135.7492,447,4.0,polygon,False,True,America/Juneau,3,99826,1840023313
+19612,Kongiganak,Kongiganak,AK,Alaska,2050,Bethel,59.958,-162.8831,441,89.0,polygon,False,False,America/Nome,3,99559,1840023335
+19625,Manokotak,Manokotak,AK,Alaska,2070,Dillingham,58.893,-158.9109,440,2.0,polygon,False,True,America/Anchorage,3,99628,1840023281
+19826,Nuiqsut,Nuiqsut,AK,Alaska,2185,North Slope,70.2135,-150.9897,425,18.0,polygon,False,True,America/Anchorage,3,99789,1840023483
+19882,Noatak,Noatak,AK,Alaska,2188,Northwest Arctic,67.5987,-163.0309,422,10.0,polygon,False,False,America/Nome,3,99761,1840023486
+19883,Buckland,Buckland,AK,Alaska,2188,Northwest Arctic,65.9784,-161.1341,422,191.0,polygon,False,True,America/Anchorage,3,99727,1840023489
+19975,Tuluksak,Tuluksak,AK,Alaska,2050,Bethel,61.105,-160.9493,415,54.0,polygon,False,False,America/Anchorage,3,99679,1840023348
+19991,St. Michael,St. Michael,AK,Alaska,2180,Nome,63.4664,-162.1324,414,7.0,polygon,False,True,America/Nome,3,99659,1840023511
+20048,Napaskiak,Napaskiak,AK,Alaska,2050,Bethel,60.7018,-161.7616,410,54.0,polygon,False,True,America/Anchorage,3,99559,1840023362
+20178,Brevig Mission,Brevig Mission,AK,Alaska,2180,Nome,65.3413,-166.4953,401,63.0,polygon,False,True,America/Nome,3,99785,1840023504
+20214,Two Rivers,Two Rivers,AK,Alaska,2090,Fairbanks North Star,64.8908,-147.0898,399,5.0,polygon,False,False,America/Anchorage,3,99712,1840023525
+20282,Akiak,Akiak,AK,Alaska,2050,Bethel,60.9061,-161.2122,394,80.0,polygon,False,True,America/Anchorage,3,99552,1840023351
+20405,Saxman,Saxman,AK,Alaska,2130,Ketchikan Gateway,55.3232,-131.589,385,154.0,polygon,False,True,America/Sitka,3,99901,1840023271
+20406,King Salmon,King Salmon,AK,Alaska,2060,Bristol Bay,58.753,-156.5061,385,0.0,polygon,False,False,America/Anchorage,3,99613,1840023272
+20443,Trapper Creek,Trapper Creek,AK,Alaska,2170,Matanuska-Susitna,62.3189,-150.3965,382,0.0,polygon,False,False,America/Anchorage,3,99683,1840023376
+20482,Hydaburg,Hydaburg,AK,Alaska,2198,Prince of Wales-Hyder,55.2061,-132.8208,379,501.0,polygon,False,True,America/Sitka,3,99922,1840023521
+20483,Kwigillingok,Kwigillingok,AK,Alaska,2050,Bethel,59.8767,-163.1717,379,6.0,polygon,False,False,America/Nome,3,99622,1840023336
+20484,Kivalina,Kivalina,AK,Alaska,2188,Northwest Arctic,67.733,-164.5212,379,89.0,polygon,False,True,America/Nome,3,99750,1840023492
+20623,Napakiak,Napakiak,AK,Alaska,2050,Bethel,60.6923,-161.9822,370,71.0,polygon,False,True,America/Anchorage,3,99634,1840023361
+20662,Koyuk,Koyuk,AK,Alaska,2180,Nome,64.9411,-161.1454,367,27.0,polygon,False,True,America/Anchorage,3,99753,1840023509
+20781,Newtok,Newtok,AK,Alaska,2050,Bethel,60.9341,-164.6385,360,104.0,polygon,False,False,America/Nome,3,99559,1840023338
+20828,Nenana,Nenana,AK,Alaska,2290,Yukon-Koyukuk,64.5384,-149.0859,357,23.0,polygon,False,True,America/Anchorage,3,99760,1840023455
+20829,Moose Pass,Moose Pass,AK,Alaska,2122,Kenai Peninsula,60.4997,-149.4464,357,7.0,polygon,False,False,America/Anchorage,3,99631,1840023408
+20880,Tazlina,Tazlina,AK,Alaska,2261,Valdez-Cordova,62.0536,-145.4362,354,16.0,polygon,False,False,America/Anchorage,3,99588 99573,1840023588
+21023,Tyonek,Tyonek,AK,Alaska,2122,Kenai Peninsula,61.0734,-151.3331,344,1.0,polygon,False,False,America/Anchorage,3,99682,1840023418
+21044,Anaktuvuk Pass,Anaktuvuk Pass,AK,Alaska,2185,North Slope,68.15,-151.7162,343,25.0,polygon,False,True,America/Anchorage,3,99721,1840023479
+21045,Russian Mission,Russian Mission,AK,Alaska,2158,Kusilvak,61.7825,-161.3567,343,24.0,polygon,False,True,America/Anchorage,3,99657,1840023330
+21079,Elim,Elim,AK,Alaska,2180,Nome,64.6184,-162.2762,341,49.0,polygon,False,True,America/Nome,3,99739,1840023506
+21098,Anderson,Anderson,AK,Alaska,2068,Denali,64.3074,-149.1562,340,3.0,polygon,False,True,America/Anchorage,3,99704 99760 99744,1840023384
+21107,Tununak,Tununak,AK,Alaska,2050,Bethel,60.579,-165.2077,339,2.0,polygon,False,False,America/Nome,3,99681,1840023350
+21122,Kiana,Kiana,AK,Alaska,2188,Northwest Arctic,66.9726,-160.4344,338,693.0,polygon,False,True,America/Anchorage,3,99749,1840023491
+21297,Adak,Adak,AK,Alaska,2016,Aleutians West,51.8815,-176.6295,326,3.0,polygon,False,True,America/Adak,3,99546,1840023261
+21448,Nightmute,Nightmute,AK,Alaska,2050,Bethel,60.4874,-164.8195,317,1.0,polygon,False,True,America/Nome,3,99690,1840023363
+21465,McGrath,McGrath,AK,Alaska,2290,Yukon-Koyukuk,62.9424,-155.563,316,2.0,polygon,False,True,America/Anchorage,3,99627,1840023454
+21478,Eek,Eek,AK,Alaska,2050,Bethel,60.2164,-162.0331,315,187.0,polygon,False,True,America/Nome,3,99578,1840023356
+21493,Lower Kalskag,Lower Kalskag,AK,Alaska,2050,Bethel,61.5163,-160.3556,314,97.0,polygon,False,True,America/Anchorage,3,99626,1840023359
+21760,Copper Center,Copper Center,AK,Alaska,2261,Valdez-Cordova,61.9845,-145.3544,299,9.0,polygon,False,False,America/Anchorage,3,99573,1840023395
+21935,Glennallen,Glennallen,AK,Alaska,2261,Valdez-Cordova,62.1278,-145.7693,289,0.0,polygon,False,False,America/Anchorage,3,99588,1840023387
+22154,Goodnews Bay,Goodnews Bay,AK,Alaska,2050,Bethel,59.1271,-161.5754,277,32.0,polygon,False,True,America/Anchorage,3,99589,1840023357
+22185,Seldovia,Seldovia,AK,Alaska,2122,Kenai Peninsula,59.4396,-151.7111,275,274.0,polygon,False,True,America/Anchorage,3,99663,1840023422
+22384,Shungnak,Shungnak,AK,Alaska,2188,Northwest Arctic,66.8805,-157.1499,264,12.0,polygon,False,True,America/Anchorage,3,99773,1840023485
+22428,Ambler,Ambler,AK,Alaska,2188,Northwest Arctic,67.0897,-157.8725,262,9.0,polygon,False,True,America/Anchorage,3,99786,1840023488
+22454,Nikolaevsk,Nikolaevsk,AK,Alaska,2122,Kenai Peninsula,59.8295,-151.5964,261,2.0,polygon,False,False,America/Anchorage,3,99556,1840023618
+22491,Shaktoolik,Shaktoolik,AK,Alaska,2180,Nome,64.3567,-161.1972,259,93.0,polygon,False,True,America/Anchorage,3,99771,1840023497
+22506,Huslia,Huslia,AK,Alaska,2290,Yukon-Koyukuk,65.7002,-156.3386,258,6.0,polygon,False,True,America/Anchorage,3,99746,1840023451
+22577,Kaktovik,Kaktovik,AK,Alaska,2185,North Slope,70.123,-143.6262,254,126.0,polygon,False,True,America/Anchorage,3,99747,1840023482
+22645,Point Lay,Point Lay,AK,Alaska,2185,North Slope,69.7442,-162.8678,251,3.0,polygon,False,False,America/Nome,3,99759,1840023477
+22672,Tanana,Tanana,AK,Alaska,2290,Yukon-Koyukuk,65.1746,-152.0686,249,9.0,polygon,False,True,America/Anchorage,3,99777,1840023437
+22706,Atqasuk,Atqasuk,AK,Alaska,2185,North Slope,70.481,-157.3835,248,2.0,polygon,False,True,America/Anchorage,3,99791,1840023480
+22810,Nulato,Nulato,AK,Alaska,2290,Yukon-Koyukuk,64.7052,-158.2383,243,2.0,polygon,False,True,America/Anchorage,3,99765,1840023457
+22844,Chickaloon,Chickaloon,AK,Alaska,2170,Matanuska-Susitna,61.804,-148.4103,241,1.0,polygon,False,False,America/Anchorage,3,99674,1840023370
+22929,Teller,Teller,AK,Alaska,2180,Nome,65.2531,-166.342,237,61.0,polygon,False,True,America/Nome,3,99778,1840023500
+22955,Upper Kalskag,Upper Kalskag,AK,Alaska,2050,Bethel,61.5416,-160.3337,235,25.0,polygon,False,False,America/Anchorage,3,99607,1840023556
+23087,Minto,Minto,AK,Alaska,2290,Yukon-Koyukuk,65.1033,-149.5565,229,0.0,polygon,False,False,America/Anchorage,3,99758,1840023429
+23286,Aleknagik,Aleknagik,AK,Alaska,2070,Dillingham,59.2946,-158.6896,220,3.0,polygon,False,True,America/Anchorage,3,99555 99576,1840023277
+23399,Old Harbor,Old Harbor,AK,Alaska,2150,Kodiak Island,57.2169,-153.3252,215,5.0,polygon,False,True,America/Anchorage,3,99643,1840023303
+23458,Nanwalek,Nanwalek,AK,Alaska,2122,Kenai Peninsula,59.3302,-151.911,212,9.0,polygon,False,False,America/Anchorage,3,99603,1840023599
+23523,Atmautluak,Atmautluak,AK,Alaska,2050,Bethel,60.8622,-162.2858,209,133.0,polygon,False,False,America/Nome,3,99559,1840023340
+23524,Harding-Birch Lakes,Harding-Birch Lakes,AK,Alaska,2090,Fairbanks North Star,64.3711,-146.5999,209,0.0,polygon,False,True,America/Anchorage,3,99714,1840075078
+23548,Glacier View,Glacier View,AK,Alaska,2170,Matanuska-Susitna,61.8511,-147.7764,208,0.0,polygon,False,True,America/Anchorage,3,99674,1840075077
+23570,Nunam Iqua,Nunam Iqua,AK,Alaska,2158,Kusilvak,62.511,-164.8998,207,6.0,polygon,False,True,America/Nome,3,99666,1840023328
+23620,Mekoryuk,Mekoryuk,AK,Alaska,2050,Bethel,60.3704,-166.267,205,11.0,polygon,False,True,America/Nome,3,99630,1840023360
+23621,Mentasta Lake,Mentasta Lake,AK,Alaska,2261,Valdez-Cordova,62.9867,-143.5191,205,0.0,polygon,False,False,America/Anchorage,3,99780 99586,1840023391
+23622,Whittier,Whittier,AK,Alaska,2261,Valdez-Cordova,60.7852,-148.6455,205,6.0,polygon,False,True,America/Anchorage,3,99693 99686,1840023397
+23728,White Mountain,White Mountain,AK,Alaska,2180,Nome,64.6812,-163.4228,201,42.0,polygon,False,True,America/Nome,3,99784,1840023503
+23796,Grayling,Grayling,AK,Alaska,2290,Yukon-Koyukuk,62.8998,-160.1078,198,6.0,polygon,False,True,America/Anchorage,3,99590,1840023448
+23832,Clam Gulch,Clam Gulch,AK,Alaska,2122,Kenai Peninsula,60.2001,-151.3939,197,5.0,polygon,False,False,America/Anchorage,3,99568,1840023412
+23949,Port Graham,Port Graham,AK,Alaska,2122,Kenai Peninsula,59.34,-151.8464,192,11.0,polygon,False,False,America/Anchorage,3,99603,1840023416
+24039,Newhalen,Newhalen,AK,Alaska,2164,Lake and Peninsula,59.727,-154.897,187,11.0,polygon,False,True,America/Anchorage,3,99640 99606,1840023295
+24107,Port Lions,Port Lions,AK,Alaska,2150,Kodiak Island,57.8754,-152.8745,184,14.0,polygon,False,True,America/Anchorage,3,99550,1840023305
+24133,Mosquito Lake,Mosquito Lake,AK,Alaska,2100,Haines,59.471,-136.1458,183,0.0,polygon,False,False,America/Juneau,3,99827,1840023683
+24134,Cantwell,Cantwell,AK,Alaska,2068,Denali,63.379,-148.8158,183,0.0,polygon,False,False,America/Anchorage,3,99729,1840023383
+24278,Alcan Border,Alcan Border,AK,Alaska,2240,Southeast Fairbanks,62.6727,-141.1321,177,0.0,polygon,False,True,America/Anchorage,3,99764,1840075086
+24304,Coffman Cove,Coffman Cove,AK,Alaska,2198,Prince of Wales-Hyder,56.0057,-132.8395,176,6.0,polygon,False,True,America/Sitka,3,99918,1840023519
+24375,Kaltag,Kaltag,AK,Alaska,2290,Yukon-Koyukuk,64.3223,-158.7436,173,3.0,polygon,False,True,America/Anchorage,3,99748,1840023452
+24411,Nelchina,Nelchina,AK,Alaska,2261,Valdez-Cordova,61.9989,-146.8112,171,1.0,polygon,False,False,America/Anchorage,3,99588,1840023658
+24513,Lowell Point,Lowell Point,AK,Alaska,2122,Kenai Peninsula,60.0629,-149.4898,167,5.0,polygon,False,False,America/Anchorage,3,99664,1840023656
+24581,Holy Cross,Holy Cross,AK,Alaska,2290,Yukon-Koyukuk,62.1868,-159.8198,164,2.0,polygon,False,True,America/Anchorage,3,99602,1840023449
+24582,Seldovia Village,Seldovia Village,AK,Alaska,2122,Kenai Peninsula,59.453,-151.5905,164,3.0,polygon,False,False,America/Anchorage,3,99663,1840023661
+24649,Golovin,Golovin,AK,Alaska,2180,Nome,64.564,-162.9989,161,15.0,polygon,False,True,America/Nome,3,99762,1840023508
+24650,Koliganek,Koliganek,AK,Alaska,2070,Dillingham,59.6971,-157.2258,161,3.0,polygon,False,False,America/Anchorage,3,99576,1840023275
+24651,Fort Greely,Fort Greely,AK,Alaska,2240,Southeast Fairbanks,63.9678,-145.7148,161,5.0,polygon,True,True,America/Anchorage,3,99737,1840037586
+24652,Allakaket,Allakaket,AK,Alaska,2290,Yukon-Koyukuk,66.5506,-152.627,161,4.0,polygon,False,True,America/Anchorage,3,99720,1840023443
+24817,Ruby,Ruby,AK,Alaska,2290,Yukon-Koyukuk,64.7233,-155.5006,154,8.0,polygon,False,True,America/Anchorage,3,99768,1840023458
+24818,Lutak,Lutak,AK,Alaska,2100,Haines,59.3997,-135.6314,154,0.0,polygon,False,False,America/Juneau,3,99827,1840023680
+24845,Arctic Village,Arctic Village,AK,Alaska,2290,Yukon-Koyukuk,68.1421,-145.4957,153,0.0,polygon,False,False,America/Anchorage,3,99740 99722,1840023431
+24846,Ouzinkie,Ouzinkie,AK,Alaska,2150,Kodiak Island,57.9222,-152.4674,153,10.0,polygon,False,True,America/Anchorage,3,99644,1840023304
+24847,Kobuk,Kobuk,AK,Alaska,2188,Northwest Arctic,66.931,-156.8939,153,3.0,polygon,False,True,America/Anchorage,3,99751,1840023493
+24896,Wales,Wales,AK,Alaska,2180,Nome,65.6119,-168.0773,151,25.0,polygon,False,True,America/Nome,3,99783,1840023502
+24897,Port Alsworth,Port Alsworth,AK,Alaska,2164,Lake and Peninsula,60.1688,-154.3233,151,2.0,polygon,False,False,America/Anchorage,3,99653,1840023291
+24924,Kokhanok,Kokhanok,AK,Alaska,2164,Lake and Peninsula,59.4158,-154.7456,150,2.0,polygon,False,False,America/Anchorage,3,99606,1840023555
+24952,Mud Bay,Mud Bay,AK,Alaska,2100,Haines,59.1517,-135.3584,149,4.0,polygon,False,False,America/Juneau,3,99827,1840023657
+24982,Gakona,Gakona,AK,Alaska,2261,Valdez-Cordova,62.3609,-145.2657,148,0.0,polygon,False,False,America/Anchorage,3,99586,1840023386
+25087,Tetlin,Tetlin,AK,Alaska,2240,Southeast Fairbanks,63.1481,-142.4947,144,0.0,polygon,False,False,America/Anchorage,3,99780,1840023472
+25174,Tanacross,Tanacross,AK,Alaska,2240,Southeast Fairbanks,63.3523,-143.4318,141,0.0,polygon,False,False,America/Anchorage,3,99780 99776,1840023471
+25175,Venetie,Venetie,AK,Alaska,2290,Yukon-Koyukuk,67.0206,-146.3741,141,2.0,polygon,False,False,America/Anchorage,3,99781,1840023441
+25309,Tenakee Springs,Tenakee Springs,AK,Alaska,2105,Hoonah-Angoon,57.7913,-135.1955,135,3.0,polygon,False,True,America/Juneau,3,99841,1840023310
+25361,Dry Creek,Dry Creek,AK,Alaska,2240,Southeast Fairbanks,63.6255,-144.6364,133,0.0,polygon,False,False,America/Anchorage,3,99737,1840023670
+25362,Nondalton,Nondalton,AK,Alaska,2164,Lake and Peninsula,59.9711,-154.8627,133,7.0,polygon,False,True,America/Anchorage,3,99640,1840023296
+25393,Coldfoot,Coldfoot,AK,Alaska,2290,Yukon-Koyukuk,67.2475,-150.1079,132,1.0,polygon,False,False,America/Anchorage,3,99701,1840023436
+25417,Ekwok,Ekwok,AK,Alaska,2070,Dillingham,59.3462,-157.4861,131,3.0,polygon,False,True,America/Anchorage,3,99580,1840023280
+25527,Hollis,Hollis,AK,Alaska,2198,Prince of Wales-Hyder,55.5113,-132.7023,127,0.0,polygon,False,False,America/Sitka,3,99921,1840023515
+25557,Chuathbaluk,Chuathbaluk,AK,Alaska,2050,Bethel,61.5746,-159.2489,126,10.0,polygon,False,True,America/Anchorage,3,99557,1840023355
+25577,Cold Bay,Cold Bay,AK,Alaska,2013,Aleutians East,55.2122,-162.7475,125,0.0,polygon,False,True,America/Nome,3,99571,1840000464
+25629,Deering,Deering,AK,Alaska,2188,Northwest Arctic,66.0723,-162.7437,123,9.0,polygon,False,True,America/Nome,3,99736,1840023490
+25658,Pitkas Point,Pitkas Point,AK,Alaska,2158,Kusilvak,62.0374,-163.2681,122,29.0,polygon,False,False,America/Nome,3,99658,1840023320
+25716,Silver Springs,Silver Springs,AK,Alaska,2261,Valdez-Cordova,62.0193,-145.3584,120,18.0,polygon,False,True,America/Anchorage,3,99573,1840075105
+25741,Diomede,Diomede,AK,Alaska,2180,Nome,65.7536,-168.9219,119,18.0,polygon,False,True,America/Nome,3,99762,1840023505
+25852,Chalkyitsik,Chalkyitsik,AK,Alaska,2290,Yukon-Koyukuk,66.6468,-143.7822,115,5.0,polygon,False,False,America/Anchorage,3,99788,1840023434
+25926,Naukati Bay,Naukati Bay,AK,Alaska,2198,Prince of Wales-Hyder,55.8801,-133.1993,112,9.0,polygon,False,False,America/Sitka,3,99921,1840023516
+26010,Port Heiden,Port Heiden,AK,Alaska,2164,Lake and Peninsula,56.9426,-158.6047,109,0.0,polygon,False,True,America/Anchorage,3,99549,1840000498
+26075,Egegik,Egegik,AK,Alaska,2164,Lake and Peninsula,58.2181,-157.4036,106,1.0,polygon,False,True,America/Anchorage,3,99579,1840023294
+26182,Northway,Northway,AK,Alaska,2240,Southeast Fairbanks,62.9479,-141.8322,102,2.0,polygon,False,False,America/Anchorage,3,99764,1840023470
+26200,St. George,St. George,AK,Alaska,2016,Aleutians West,56.5791,-169.6114,101,1.0,polygon,False,True,America/Nome,3,99591,1840023263
+26252,Primrose,Primrose,AK,Alaska,2122,Kenai Peninsula,60.3497,-149.3199,99,1.0,polygon,False,False,America/Anchorage,3,99664,1840137265
+26274,Chitina,Chitina,AK,Alaska,2261,Valdez-Cordova,61.5276,-144.2991,98,0.0,polygon,False,False,America/Anchorage,3,99566,1840023394
+26419,Koyukuk,Koyukuk,AK,Alaska,2290,Yukon-Koyukuk,64.9008,-157.6946,92,6.0,polygon,False,True,America/Anchorage,3,99754,1840023453
+26472,Crooked Creek,Crooked Creek,AK,Alaska,2050,Bethel,61.8439,-158.1082,90,0.0,polygon,False,False,America/Anchorage,3,99575,1840023341
+26500,Chignik,Chignik,AK,Alaska,2164,Lake and Peninsula,56.3003,-158.4132,89,3.0,polygon,False,True,America/Anchorage,3,99564,1840023293
+26546,Pelican,Pelican,AK,Alaska,2105,Hoonah-Angoon,57.9577,-136.2177,87,61.0,polygon,False,True,America/Juneau,3,99832,1840023315
+26573,Perryville,Perryville,AK,Alaska,2164,Lake and Peninsula,55.9315,-159.1559,86,2.0,polygon,False,False,America/Anchorage,3,99648,1840023290
+26574,Nikolai,Nikolai,AK,Alaska,2290,Yukon-Koyukuk,63.0095,-154.3763,86,7.0,polygon,False,True,America/Anchorage,3,99691,1840023456
+26602,Chistochina,Chistochina,AK,Alaska,2261,Valdez-Cordova,62.5921,-144.8135,85,0.0,polygon,False,False,America/Anchorage,3,99586,1840023393
+26658,Larsen Bay,Larsen Bay,AK,Alaska,2150,Kodiak Island,57.5404,-154.0056,83,7.0,polygon,False,True,America/Anchorage,3,99624 99615,1840023302
+26659,Eagle,Eagle,AK,Alaska,2240,Southeast Fairbanks,64.7813,-141.1979,83,36.0,polygon,False,True,America/Anchorage,3,99738,1840023475
+26660,Sleetmute,Sleetmute,AK,Alaska,2050,Bethel,61.6516,-157.1251,83,0.0,polygon,False,False,America/Anchorage,3,99668,1840023346
+26661,Hughes,Hughes,AK,Alaska,2290,Yukon-Koyukuk,66.0452,-154.2376,83,10.0,polygon,False,True,America/Anchorage,3,99745,1840023450
+26689,Red Dog Mine,Red Dog Mine,AK,Alaska,2188,Northwest Arctic,68.0645,-162.8667,82,0.0,polygon,False,False,America/Nome,3,99752,1840023487
+26690,Anvik,Anvik,AK,Alaska,2290,Yukon-Koyukuk,62.6541,-160.214,82,3.0,polygon,False,True,America/Anchorage,3,99558,1840023444
+26722,Atka,Atka,AK,Alaska,2016,Aleutians West,52.2301,-174.2133,81,3.0,polygon,False,True,America/Adak,3,99547,1840023262
+26752,Whitestone,Whitestone,AK,Alaska,2240,Southeast Fairbanks,64.1528,-145.9061,80,4.0,polygon,False,True,America/Anchorage,3,99737,1840075218
+26753,Manley Hot Springs,Manley Hot Springs,AK,Alaska,2290,Yukon-Koyukuk,65.0187,-150.6453,80,0.0,polygon,False,False,America/Anchorage,3,99756,1840023428
+26799,Tatitlek,Tatitlek,AK,Alaska,2261,Valdez-Cordova,60.8921,-146.6727,78,4.0,polygon,False,False,America/Anchorage,3,99677,1840023400
+26800,Shageluk,Shageluk,AK,Alaska,2290,Yukon-Koyukuk,62.6684,-159.563,78,2.0,polygon,False,True,America/Anchorage,3,99665,1840023459
+26840,Levelock,Levelock,AK,Alaska,2164,Lake and Peninsula,59.0683,-156.901,76,1.0,polygon,False,False,America/Anchorage,3,99625,1840023287
+26865,Chignik Lagoon,Chignik Lagoon,AK,Alaska,2164,Lake and Peninsula,56.3041,-158.5004,75,2.0,polygon,False,False,America/Anchorage,3,99565,1840023288
+26891,Nelson Lagoon,Nelson Lagoon,AK,Alaska,2013,Aleutians East,55.8451,-161.6103,74,0.0,polygon,False,False,America/Anchorage,3,99571,1840023624
+26892,Circle,Circle,AK,Alaska,2290,Yukon-Koyukuk,65.7936,-144.1813,74,0.0,polygon,False,False,America/Anchorage,3,99733,1840023435
+26962,Halibut Cove,Halibut Cove,AK,Alaska,2122,Kenai Peninsula,59.5744,-151.2296,71,3.0,polygon,False,False,America/Anchorage,3,99603,1840023645
+27049,Akhiok,Akhiok,AK,Alaska,2150,Kodiak Island,56.945,-154.2151,68,3.0,polygon,False,True,America/Anchorage,3,99615,1840023300
+27071,Platinum,Platinum,AK,Alaska,2050,Bethel,58.978,-161.7185,67,0.0,polygon,False,True,America/Anchorage,3,99651,1840000307
+27127,Pilot Point,Pilot Point,AK,Alaska,2164,Lake and Peninsula,57.5585,-157.6798,65,1.0,polygon,False,True,America/Anchorage,3,99649,1840000190
+27158,Oscarville,Oscarville,AK,Alaska,2050,Bethel,60.7288,-161.7728,64,9.0,polygon,False,False,America/Anchorage,3,99559,1840023344
+27190,Iliamna,Iliamna,AK,Alaska,2164,Lake and Peninsula,59.7957,-154.8698,63,0.0,polygon,False,False,America/Anchorage,3,99606,1840023284
+27191,Twin Hills,Twin Hills,AK,Alaska,2070,Dillingham,59.0815,-160.2826,63,1.0,polygon,False,False,America/Anchorage,3,99678,1840023616
+27224,Igiugig,Igiugig,AK,Alaska,2164,Lake and Peninsula,59.3056,-155.8738,62,1.0,polygon,False,False,America/Anchorage,3,99613,1840023283
+27225,Clark's Point,Clark's Point,AK,Alaska,2070,Dillingham,58.8329,-158.5276,62,7.0,polygon,False,True,America/Anchorage,3,99569,1840023537
+27263,Rampart,Rampart,AK,Alaska,2290,Yukon-Koyukuk,65.4087,-149.9915,60,0.0,polygon,False,False,America/Anchorage,3,99767,1840023438
+27310,Crown Point,Crown Point,AK,Alaska,2122,Kenai Peninsula,60.4267,-149.3529,58,6.0,polygon,False,False,America/Anchorage,3,99664 99631,1840023617
+27386,Hope,Hope,AK,Alaska,2122,Kenai Peninsula,60.8925,-149.6352,55,0.0,polygon,False,False,America/Anchorage,3,99605,1840023405
+27454,Gulkana,Gulkana,AK,Alaska,2261,Valdez-Cordova,62.2152,-145.4449,52,0.0,polygon,False,False,America/Anchorage,3,99586 99588,1840023388
+27455,Port Alexander,Port Alexander,AK,Alaska,2198,Prince of Wales-Hyder,56.2346,-134.6532,52,5.0,polygon,False,True,America/Sitka,3,99836,1840023638
+27483,Chignik Lake,Chignik Lake,AK,Alaska,2164,Lake and Peninsula,56.2631,-158.8049,51,1.0,polygon,False,False,America/Anchorage,3,99548,1840023691
+27540,Kasaan,Kasaan,AK,Alaska,2198,Prince of Wales-Hyder,55.5573,-132.4137,48,3.0,polygon,False,True,America/Sitka,3,99919,1840023522
+27541,Chenega,Chenega,AK,Alaska,2261,Valdez-Cordova,60.0757,-148.0194,48,0.0,polygon,False,False,America/Anchorage,3,99574,1840137228
+27563,Klukwan,Klukwan,AK,Alaska,2105,Hoonah-Angoon,59.3987,-135.8886,47,13.0,polygon,False,False,America/Juneau,3,99827,1840023677
+27564,Central,Central,AK,Alaska,2290,Yukon-Koyukuk,65.5213,-144.6409,47,0.0,polygon,False,False,America/Anchorage,3,99730,1840023433
+27589,Beaver,Beaver,AK,Alaska,2290,Yukon-Koyukuk,66.383,-147.3219,46,0.0,polygon,False,False,America/Anchorage,3,99724,1840023432
+27630,Karluk,Karluk,AK,Alaska,2150,Kodiak Island,57.5845,-154.3255,44,0.0,polygon,False,False,America/Anchorage,3,99615 99608,1840023299
+27647,Port Clarence,Port Clarence,AK,Alaska,2180,Nome,65.1108,-166.7683,43,0.0,polygon,False,False,America/Nome,3,99778,1840023578
+27648,False Pass,False Pass,AK,Alaska,2013,Aleutians East,54.8416,-163.348,43,0.0,polygon,False,True,America/Nome,3,99583,1840000481
+27669,Skwentna,Skwentna,AK,Alaska,2170,Matanuska-Susitna,61.9314,-151.2096,42,0.0,polygon,False,False,America/Anchorage,3,99667,1840023373
+27694,Edna Bay,Edna Bay,AK,Alaska,2198,Prince of Wales-Hyder,55.964,-133.6662,41,0.0,polygon,False,True,America/Sitka,3,99921,1840000514
+27695,South Naknek,South Naknek,AK,Alaska,2060,Bristol Bay,58.6638,-156.9908,41,0.0,polygon,False,False,America/Anchorage,3,99670,1840023274
+27696,Stony River,Stony River,AK,Alaska,2050,Bethel,61.7936,-156.586,41,5.0,polygon,False,False,America/Anchorage,3,99557,1840023347
+27719,Sunrise,Sunrise,AK,Alaska,2122,Kenai Peninsula,60.8701,-149.4678,40,1.0,polygon,False,False,America/Anchorage,3,99605,1840023608
+27759,Port Protection,Port Protection,AK,Alaska,2198,Prince of Wales-Hyder,56.3293,-133.594,38,3.0,polygon,False,False,America/Sitka,3,99927,1840023686
+27760,Dot Lake Village,Dot Lake Village,AK,Alaska,2240,Southeast Fairbanks,63.6622,-144.016,38,3.0,polygon,False,False,America/Anchorage,3,99737,1840023652
+27817,Covenant Life,Covenant Life,AK,Alaska,2100,Haines,59.3998,-136.0948,35,0.0,polygon,False,False,America/Juneau,3,99827,1840023668
+27861,Excursion Inlet,Excursion Inlet,AK,Alaska,2100,Haines,58.4355,-135.373,33,0.0,polygon,False,False,America/Juneau,3,99827,1840023316
+27913,Whale Pass,Whale Pass,AK,Alaska,2198,Prince of Wales-Hyder,56.1053,-133.1244,30,0.0,polygon,False,True,America/Sitka,3,99921,1840023644
+27947,Tonsina,Tonsina,AK,Alaska,2261,Valdez-Cordova,61.5617,-145.0656,28,0.0,polygon,False,False,America/Anchorage,3,99573,1840023401
+27969,Aleneva,Aleneva,AK,Alaska,2150,Kodiak Island,58.059,-152.9091,27,0.0,polygon,False,False,America/Anchorage,3,99615,1840023649
+27990,Mendeltna,Mendeltna,AK,Alaska,2261,Valdez-Cordova,62.1359,-146.5388,26,0.0,polygon,False,False,America/Anchorage,3,99588,1840023682
+27991,Kupreanof,Kupreanof,AK,Alaska,2195,Petersburg Borough,56.8089,-132.9889,26,3.0,polygon,False,True,America/Sitka,3,99833,1840023642
+27992,Nikolski,Nikolski,AK,Alaska,2016,Aleutians West,53.0133,-168.7536,26,0.0,polygon,False,False,America/Nome,3,99638,1840023259
+28012,Eagle Village,Eagle Village,AK,Alaska,2240,Southeast Fairbanks,64.7434,-141.1138,25,0.0,polygon,False,False,America/Anchorage,3,99738,1840023467
+28052,Takotna,Takotna,AK,Alaska,2290,Yukon-Koyukuk,62.9823,-156.0841,23,0.0,polygon,False,False,America/Anchorage,3,99627 99675,1840023440
+28099,Red Devil,Red Devil,AK,Alaska,2050,Bethel,61.7735,-157.346,21,0.0,polygon,False,False,America/Anchorage,3,99656,1840023345
+28110,Pedro Bay,Pedro Bay,AK,Alaska,2164,Lake and Peninsula,59.7822,-154.1236,20,0.0,polygon,False,False,America/Anchorage,3,99647,1840023289
+28168,Attu Station,Attu Station,AK,Alaska,2016,Aleutians West,52.8955,173.123,17,0.0,polygon,False,True,America/Adak,3,,1840037663
+28186,Ferry,Ferry,AK,Alaska,2068,Denali,64.0496,-148.9205,16,0.0,polygon,False,False,America/Anchorage,3,99760 99743,1840023692
+28198,Hyder,Hyder,AK,Alaska,2198,Prince of Wales-Hyder,55.9816,-130.0383,15,0.0,polygon,False,False,America/Sitka,3,99923,1840023524
+28220,Lake Minchumina,Lake Minchumina,AK,Alaska,2290,Yukon-Koyukuk,63.798,-152.3448,14,0.0,polygon,False,False,America/Anchorage,3,99757,1840023426
+28236,Chicken,Chicken,AK,Alaska,2240,Southeast Fairbanks,64.0878,-141.8283,13,0.0,polygon,False,False,America/Anchorage,3,99732,1840023469
+28237,Wiseman,Wiseman,AK,Alaska,2290,Yukon-Koyukuk,67.4371,-150.1334,13,0.0,polygon,False,False,America/Anchorage,3,99701,1840023442
+28251,Bettles,Bettles,AK,Alaska,2290,Yukon-Koyukuk,66.9084,-151.5369,12,3.0,polygon,False,True,America/Anchorage,3,99726,1840023445
+28252,Elfin Cove,Elfin Cove,AK,Alaska,2105,Hoonah-Angoon,58.1912,-136.3129,12,0.0,polygon,False,False,America/Juneau,3,99825,1840023309
+28269,Evansville,Evansville,AK,Alaska,2290,Yukon-Koyukuk,66.9205,-151.4203,11,0.0,polygon,False,False,America/Anchorage,3,99726,1840023546
+28270,Stevens Village,Stevens Village,AK,Alaska,2290,Yukon-Koyukuk,66.025,-149.0802,11,0.0,polygon,False,False,America/Anchorage,3,99774,1840023439
+28289,Lake Louise,Lake Louise,AK,Alaska,2170,Matanuska-Susitna,62.3131,-146.5625,9,0.0,polygon,False,False,America/Anchorage,3,99588,1840023655
+28290,Chase,Chase,AK,Alaska,2170,Matanuska-Susitna,62.4624,-149.9371,9,0.0,polygon,False,False,America/Anchorage,3,99676,1840023369
+28291,Kenny Lake,Kenny Lake,AK,Alaska,2261,Valdez-Cordova,61.6644,-144.8662,9,0.0,polygon,False,False,America/Anchorage,3,99573,1840023389
+28302,Lime Village,Lime Village,AK,Alaska,2050,Bethel,61.327,-155.3181,8,0.0,polygon,False,False,America/Anchorage,3,99557,1840023337
+28303,Ugashik,Ugashik,AK,Alaska,2164,Lake and Peninsula,57.5736,-157.1232,8,0.0,polygon,False,False,America/Anchorage,3,99649,1840023292
+28351,Livengood,Livengood,AK,Alaska,2290,Yukon-Koyukuk,65.4817,-148.4171,4,0.0,polygon,False,False,America/Anchorage,3,99790,1840023427
+28352,Healy Lake,Healy Lake,AK,Alaska,2240,Southeast Fairbanks,64.0281,-144.633,4,0.0,polygon,False,False,America/Anchorage,3,99706,1840023693
+28353,Beluga,Beluga,AK,Alaska,2122,Kenai Peninsula,61.1869,-151.1637,4,0.0,polygon,False,False,America/Anchorage,3,99682,1840023411
+28354,Four Mile Road,Four Mile Road,AK,Alaska,2290,Yukon-Koyukuk,64.6045,-149.1222,4,1.0,polygon,False,True,America/Anchorage,3,99760,1840075076
+28355,Alatna,Alatna,AK,Alaska,2290,Yukon-Koyukuk,66.5638,-152.8385,4,0.0,polygon,False,False,America/Anchorage,3,99720,1840023430
+28365,Birch Creek,Birch Creek,AK,Alaska,2290,Yukon-Koyukuk,66.2686,-145.8698,2,0.0,polygon,False,False,America/Anchorage,3,99730,1840023530

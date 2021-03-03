@@ -1,0 +1,430 @@
+,city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+10,Phoenix,Phoenix,AZ,Arizona,4013,Maricopa,33.5722,-112.0891,4219697,1253.0,polygon,False,True,America/Phoenix,1,85008 85009 85006 85007 85004 85083 85086 85087 85085 85383 85033 85304 85306 85308 85020 85021 85022 85023 85024 85027 85028 85029 85353 85019 85018 85013 85012 85015 85014 85017 85016 85254 85003 85044 85045 85042 85043 85040 85041 85048 85054 85037 85035 85034 85032 85031 85307 85310 85051 85050 85053 85001 85002 85005 85010 85011 85026 85030 85036 85038 85046 85060 85061 85062 85063 85064 85065 85066 85067 85068 85069 85070 85071 85072 85073 85074 85075 85076 85078 85079 85080 85082,1840020568
+55,Tucson,Tucson,AZ,Arizona,4019,Pima,32.1545,-110.8782,888486,889.0,polygon,False,True,America/Phoenix,2,85705 85707 85706 85756 85723 85726 85724 85701 85708 85711 85748 85745 85747 85716 85714 85715 85712 85713 85710 85719 85730 85702 85703 85709 85717 85720 85721 85722 85725 85731 85732 85738 85751 85754 85775,1840022101
+83,Mesa,Mesa,AZ,Arizona,4013,Maricopa,33.4017,-111.718,518012,1448.0,polygon,False,True,America/Phoenix,2,85208 85209 85201 85202 85203 85204 85205 85206 85207 85215 85213 85212 85210 85211 85214 85216 85274 85275 85277,1840020566
+173,Chandler,Chandler,AZ,Arizona,4013,Maricopa,33.2826,-111.8516,261165,1548.0,polygon,False,True,America/Phoenix,2,85248 85249 85226 85224 85225 85286 85246,1840019309
+175,Scottsdale,Scottsdale,AZ,Arizona,4013,Maricopa,33.6872,-111.8651,258069,541.0,polygon,False,True,America/Phoenix,2,85259 85258 85251 85250 85257 85255 85254 85266 85262 85260 85252 85261 85267 85271,1840021940
+181,Gilbert,Gilbert,AZ,Arizona,4013,Maricopa,33.3101,-111.7463,254114,1432.0,polygon,False,True,America/Phoenix,2,85233 85234 85297 85296 85295 85298 85236 85244 85299,1840021947
+182,Glendale,Glendale,AZ,Arizona,4013,Maricopa,33.5791,-112.2311,252381,1582.0,polygon,False,True,America/Phoenix,2,85301 85303 85302 85304 85306 85308 85355 85305 85307 85309 85310 85311 85312 85318,1840020563
+200,Avondale,Avondale,AZ,Arizona,4013,Maricopa,33.3858,-112.3236,227289,750.0,polygon,False,True,America/Phoenix,2,85323 85392 85329,1840019310
+230,Tempe,Tempe,AZ,Arizona,4013,Maricopa,33.3881,-111.9318,195805,1891.0,polygon,False,True,America/Phoenix,2,85281 85282 85283 85284 85280 85285 85287,1840021942
+257,Peoria,Peoria,AZ,Arizona,4013,Maricopa,33.7844,-112.2989,175961,386.0,polygon,False,True,America/Phoenix,2,85381 85383 85382 85373 85345 85342 85380 85385,1840020567
+311,Yuma,Yuma,AZ,Arizona,4027,Yuma,32.5992,-114.5488,142847,313.0,polygon,False,True,America/Phoenix,2,85365 85364 85369,1840021998
+312,Surprise,Surprise,AZ,Arizona,4013,Maricopa,33.68,-112.4524,141664,506.0,polygon,False,True,America/Phoenix,2,85361 85379 85388 85387 85374 85375 85378,1840021941
+450,Prescott Valley,Prescott Valley,AZ,Arizona,4025,Yavapai,34.5983,-112.3176,101539,439.0,polygon,False,True,America/Phoenix,2,86327 86315 86314 86312,1840021772
+497,San Tan Valley,San Tan Valley,AZ,Arizona,4021,Pinal,33.1879,-111.5472,93230,981.0,polygon,False,False,America/Phoenix,3,85143 85140,1840027990
+533,Goodyear,Goodyear,AZ,Arizona,4013,Maricopa,33.2613,-112.3622,86840,175.0,polygon,False,True,America/Phoenix,3,85139 85338 85326 85340 85395,1840020564
+564,Flagstaff,Flagstaff,AZ,Arizona,4005,Coconino,35.1872,-111.6195,81974,438.0,polygon,False,True,America/Phoenix,3,86001 86011 86004 86002 86005,1840020335
+587,Buckeye,Buckeye,AZ,Arizona,4013,Maricopa,33.4314,-112.6429,79620,78.0,polygon,False,True,America/Phoenix,3,85326 85396,1840021939
+697,Casas Adobes,Casas Adobes,AZ,Arizona,4019,Pima,32.3423,-111.0114,69615,1008.0,polygon,False,False,America/Phoenix,3,85704 85741 85742 85752,1840018108
+797,Casa Grande,Casa Grande,AZ,Arizona,4021,Pinal,32.9068,-111.7624,61966,204.0,polygon,False,True,America/Phoenix,3,85194 85193 85122 85130,1840019364
+881,Lake Havasu City,Lake Havasu City,AZ,Arizona,4015,Mohave,34.5006,-114.3113,56820,465.0,polygon,False,True,America/Los_Angeles,3,86403 86406 86404 86405,1840021044
+959,Sierra Vista,Sierra Vista,AZ,Arizona,4003,Cochise,31.563,-110.3153,51731,109.0,polygon,False,True,America/Phoenix,3,85650 85635 85613 85670 85671,1840022103
+977,Queen Creek,Queen Creek,AZ,Arizona,4013,Maricopa,33.2386,-111.6343,50890,606.0,polygon,False,True,America/Phoenix,3,85142 85140,1840021944
+980,Maricopa,Maricopa,AZ,Arizona,4021,Pinal,33.0404,-112.0006,50752,470.0,polygon,False,True,America/Phoenix,3,85138 85139,1840020629
+982,Sahuarita,Sahuarita,AZ,Arizona,4019,Pima,31.9323,-110.9654,50616,382.0,polygon,False,True,America/Phoenix,3,85629 85614,1840022102
+986,Catalina Foothills,Catalina Foothills,AZ,Arizona,4019,Pima,32.3041,-110.8835,50426,465.0,polygon,False,False,America/Phoenix,3,85718 85750 85715 85728,1840018110
+990,Bullhead City,Bullhead City,AZ,Arizona,4015,Mohave,35.1205,-114.546,50309,265.0,polygon,False,True,America/Phoenix,3,86442 86429 86430 86439,1840019748
+1018,Marana,Marana,AZ,Arizona,4019,Pima,32.4355,-111.1558,49030,156.0,polygon,False,True,America/Phoenix,3,85653 85741 85743 85742 85658 85652 85740,1840023057
+1072,Kingman,Kingman,AZ,Arizona,4015,Mohave,35.217,-114.0105,46524,318.0,polygon,False,True,America/Phoenix,3,86409 86401,1840021043
+1087,Oro Valley,Oro Valley,AZ,Arizona,4019,Pima,32.4208,-110.9768,46044,509.0,polygon,False,True,America/Phoenix,3,85755 85704 85737,1840023058
+1116,Prescott,Prescott,AZ,Arizona,4025,Yavapai,34.585,-112.4475,44299,380.0,polygon,False,True,America/Phoenix,3,86305 86301 86303 86313 86302 86304,1840020436
+1152,Apache Junction,Apache Junction,AZ,Arizona,4021,Pinal,33.3985,-111.5351,42571,468.0,polygon,False,True,America/Phoenix,3,85119 85120 85117 85178,1840019365
+1247,Sun City,Sun City,AZ,Arizona,4013,Maricopa,33.6165,-112.2819,39348,1053.0,polygon,False,False,America/Phoenix,3,85351 85373 85372,1840019311
+1369,El Mirage,El Mirage,AZ,Arizona,4013,Maricopa,33.5905,-112.3271,35753,1394.0,polygon,False,True,America/Phoenix,3,85335,1840020562
+1488,San Luis,San Luis,AZ,Arizona,4027,Yuma,32.4911,-114.7089,32850,393.0,polygon,False,True,America/Phoenix,3,85350 85349,1840021996
+1560,Nogales,Nogales,AZ,Arizona,4023,Santa Cruz,31.3624,-110.9336,30917,372.0,polygon,False,True,America/Phoenix,3,85621,1840020823
+1635,Drexel Heights,Drexel Heights,AZ,Arizona,4019,Pima,32.1457,-111.0478,29514,585.0,polygon,False,False,America/Phoenix,3,85757 85746,1840027928
+1638,Fortuna Foothills,Fortuna Foothills,AZ,Arizona,4027,Yuma,32.6616,-114.3973,29485,284.0,polygon,False,False,America/Phoenix,3,85367,1840027989
+1883,Sun City West,Sun City West,AZ,Arizona,4013,Maricopa,33.6693,-112.3575,25444,905.0,polygon,False,False,America/Phoenix,3,85375 85376,1840019312
+1905,Fountain Hills,Fountain Hills,AZ,Arizona,4013,Maricopa,33.6073,-111.7398,25200,479.0,polygon,False,True,America/Phoenix,3,85268 85269,1840021945
+2127,Anthem,Anthem,AZ,Arizona,4013,Maricopa,33.856,-112.1168,22570,1101.0,polygon,False,False,America/Phoenix,3,85086,1840022919
+2202,Green Valley,Green Valley,AZ,Arizona,4019,Pima,31.8436,-111.0174,21723,261.0,polygon,False,False,America/Phoenix,3,85622 85614,1840018111
+2389,Safford,Safford,AZ,Arizona,4009,Graham,32.8317,-109.7005,19987,450.0,polygon,False,True,America/Phoenix,3,85546,1840021989
+2429,Somerton,Somerton,AZ,Arizona,4027,Yuma,32.6009,-114.699,19684,861.0,polygon,False,True,America/Phoenix,3,85350,1840021997
+2434,Eloy,Eloy,AZ,Arizona,4021,Pinal,32.747,-111.5991,19625,66.0,polygon,False,True,America/Phoenix,3,85131 85194 85193 85123,1840020628
+2435,Rio Rico,Rio Rico,AZ,Arizona,4023,Santa Cruz,31.4957,-110.9886,19601,121.0,polygon,False,False,America/Phoenix,3,85640 85648,1840027004
+2634,Florence,Florence,AZ,Arizona,4021,Pinal,33.059,-111.4208,17811,169.0,polygon,False,True,America/Phoenix,3,85132,1840021999
+2813,Douglas,Douglas,AZ,Arizona,4003,Cochise,31.3602,-109.5394,16467,626.0,polygon,False,True,America/Phoenix,3,85608 85607 85655,1840019496
+2877,Sierra Vista Southeast,Sierra Vista Southeast,AZ,Arizona,4003,Cochise,31.4525,-110.216,16021,55.0,polygon,False,True,America/Phoenix,3,85650 85615 85636,1840074401
+2905,Tanque Verde,Tanque Verde,AZ,Arizona,4019,Pima,32.2687,-110.7437,15860,189.0,polygon,False,False,America/Phoenix,3,85749 85748,1840019489
+2917,New River,New River,AZ,Arizona,4013,Maricopa,33.8835,-112.0858,15808,108.0,polygon,False,False,America/Phoenix,3,85086 85087,1840019307
+2996,Flowing Wells,Flowing Wells,AZ,Arizona,4019,Pima,32.2937,-111.011,15290,1549.0,polygon,False,False,America/Phoenix,3,85705,1840027988
+3000,Fort Mohave,Fort Mohave,AZ,Arizona,4015,Mohave,35.0004,-114.5748,15228,352.0,polygon,False,True,America/Phoenix,3,86426 86427,1840042961
+3070,Payson,Payson,AZ,Arizona,4007,Gila,34.2434,-111.3195,14684,315.0,polygon,False,True,America/Phoenix,3,85541 85547,1840022857
+3081,Paradise Valley,Paradise Valley,AZ,Arizona,4013,Maricopa,33.5434,-111.9595,14637,367.0,polygon,False,True,America/Phoenix,3,85253,1840022913
+3088,Sun Lakes,Sun Lakes,AZ,Arizona,4013,Maricopa,33.2172,-111.8695,14582,1047.0,polygon,False,False,America/Phoenix,3,85248,1840019313
+3294,New Kingman-Butler,New Kingman-Butler,AZ,Arizona,4015,Mohave,35.2645,-114.0091,13471,1046.0,polygon,False,True,America/Phoenix,3,86409,1840037118
+3352,Globe,Globe,AZ,Arizona,4007,Gila,33.3869,-110.7515,13182,155.0,polygon,False,True,America/Phoenix,3,85501 85502 85532,1840020533
+3502,Verde Village,Verde Village,AZ,Arizona,4025,Yavapai,34.7122,-111.9943,12473,702.0,polygon,False,False,America/Phoenix,3,86326,1840017843
+3535,Chino Valley,Chino Valley,AZ,Arizona,4025,Yavapai,34.7593,-112.4107,12335,75.0,polygon,False,True,America/Phoenix,3,86323,1840022753
+3555,Cottonwood,Cottonwood,AZ,Arizona,4025,Yavapai,34.7192,-112.0014,12253,283.0,polygon,False,True,America/Phoenix,3,86326,1840019168
+3583,Coolidge,Coolidge,AZ,Arizona,4021,Pinal,32.9395,-111.5261,12124,69.0,polygon,False,True,America/Phoenix,3,85194 85128,1840019367
+3602,Vail,Vail,AZ,Arizona,4019,Pima,32.0217,-110.6937,12044,205.0,polygon,False,False,America/Phoenix,3,85641 85744,1840019487
+3639,Valencia West,Valencia West,AZ,Arizona,4019,Pima,32.1355,-111.1123,11919,464.0,polygon,False,True,America/Phoenix,3,85757,1840074666
+3679,Arizona City,Arizona City,AZ,Arizona,4021,Pinal,32.7506,-111.6707,11761,740.0,polygon,False,False,America/Phoenix,3,85193 85123,1840018030
+3680,Tucson Estates,Tucson Estates,AZ,Arizona,4019,Pima,32.1792,-111.1254,11758,349.0,polygon,False,False,America/Phoenix,3,85713 85735,1840027929
+3821,Camp Verde,Camp Verde,AZ,Arizona,4025,Yavapai,34.5699,-111.8573,11187,100.0,polygon,False,True,America/Phoenix,3,86322,1840022752
+3824,Show Low,Show Low,AZ,Arizona,4017,Navajo,34.2671,-110.0384,11173,67.0,polygon,False,True,America/Phoenix,3,85901 85902,1840021582
+3874,Gold Canyon,Gold Canyon,AZ,Arizona,4021,Pinal,33.3715,-111.4369,11038,190.0,polygon,False,False,America/Phoenix,3,85118 85119,1840018032
+3993,Saddlebrooke,Saddlebrooke,AZ,Arizona,4021,Pinal,32.5385,-110.8582,10530,139.0,polygon,False,True,America/Phoenix,3,85739,1840075484
+4296,Picture Rocks,Picture Rocks,AZ,Arizona,4019,Pima,32.3274,-111.2557,9452,51.0,polygon,False,False,America/Phoenix,3,85653 85743,1840019482
+4298,Winslow,Winslow,AZ,Arizona,4017,Navajo,35.0253,-110.7098,9443,293.0,polygon,False,True,America/Phoenix,3,86047,1840021583
+4586,Golden Valley,Golden Valley,AZ,Arizona,4015,Mohave,35.206,-114.2327,8673,42.0,polygon,False,False,America/Phoenix,3,86413,1840018339
+4589,Tuba City,Tuba City,AZ,Arizona,4005,Coconino,36.125,-111.2468,8662,372.0,polygon,False,False,America/Denver,3,86045,1840018972
+4737,Corona de Tucson,Corona de Tucson,AZ,Arizona,4019,Pima,31.9495,-110.7836,8326,528.0,polygon,False,False,America/Phoenix,3,85641,1840018106
+4770,Colorado City,Colorado City,AZ,Arizona,4015,Mohave,36.9774,-112.983,8258,180.0,polygon,False,True,America/Phoenix,3,86021,1840023170
+5045,Catalina,Catalina,AZ,Arizona,4019,Pima,32.4848,-110.8998,7635,207.0,polygon,False,False,America/Phoenix,3,85739,1840018109
+5172,Tolleson,Tolleson,AZ,Arizona,4013,Maricopa,33.4484,-112.2561,7372,493.0,polygon,False,True,America/Phoenix,3,85353,1840021943
+5370,Sedona,Sedona,AZ,Arizona,4005,Coconino,34.8574,-111.7951,6969,209.0,polygon,False,True,America/Phoenix,3,86336 86339 86340,1840021584
+5400,Page,Page,AZ,Arizona,4005,Coconino,36.9426,-111.5071,6924,76.0,polygon,False,True,America/Denver,3,86040 86036,1840020336
+5439,Youngtown,Youngtown,AZ,Arizona,4013,Maricopa,33.5846,-112.3047,6859,1780.0,polygon,False,True,America/Phoenix,3,85363,1840022917
+5493,Snowflake,Snowflake,AZ,Arizona,4017,Navajo,34.5225,-110.0913,6733,68.0,polygon,False,True,America/Phoenix,3,85937,1840022572
+5537,Guadalupe,Guadalupe,AZ,Arizona,4013,Maricopa,33.3664,-111.9633,6631,3184.0,polygon,False,True,America/Phoenix,2,85283,1840021948
+5648,Litchfield Park,Litchfield Park,AZ,Arizona,4013,Maricopa,33.5024,-112.3586,6436,755.0,polygon,False,True,America/Phoenix,3,85340,1840020565
+5801,Eagar,Eagar,AZ,Arizona,4001,Apache,34.1058,-109.2956,6164,169.0,polygon,False,True,America/Phoenix,3,85938 85925,1840021623
+5868,Village of Oak Creek,Village of Oak Creek,AZ,Arizona,4025,Yavapai,34.7813,-111.7606,6057,444.0,polygon,False,True,America/Phoenix,3,86351 86341,1840036808
+5913,Avra Valley,Avra Valley,AZ,Arizona,4019,Pima,32.4195,-111.3393,5966,103.0,polygon,False,False,America/Phoenix,3,85653,1840027985
+6007,Cave Creek,Cave Creek,AZ,Arizona,4013,Maricopa,33.8513,-111.9801,5838,59.0,polygon,False,True,America/Phoenix,3,85087 85331 85327,1840022915
+6085,South Tucson,South Tucson,AZ,Arizona,4019,Pima,32.1955,-110.9692,5715,2148.0,polygon,False,True,America/Phoenix,2,85713,1840022100
+6235,Rincon Valley,Rincon Valley,AZ,Arizona,4019,Pima,32.1101,-110.6889,5469,82.0,polygon,False,True,America/Phoenix,3,85747 85641,1840038089
+6301,Chinle,Chinle,AZ,Arizona,4001,Apache,36.1504,-109.5794,5378,129.0,polygon,False,False,America/Denver,3,86503,1840017672
+6322,Doney Park,Doney Park,AZ,Arizona,4005,Coconino,35.2687,-111.5053,5352,138.0,polygon,False,True,America/Phoenix,3,86004,1840075310
+6366,Williamson,Williamson,AZ,Arizona,4025,Yavapai,34.7082,-112.5342,5297,35.0,polygon,False,False,America/Phoenix,3,86323 86305,1840019166
+6428,Lake Montezuma,Lake Montezuma,AZ,Arizona,4025,Yavapai,34.6414,-111.796,5212,168.0,polygon,False,False,America/Phoenix,3,86335 86342,1840017849
+6436,Thatcher,Thatcher,AZ,Arizona,4009,Graham,32.832,-109.7595,5200,306.0,polygon,False,True,America/Phoenix,3,85552,1840022955
+6440,Bisbee,Bisbee,AZ,Arizona,4003,Cochise,31.4126,-109.9179,5193,389.0,polygon,False,True,America/Phoenix,3,85603,1840019495
+6460,Three Points,Three Points,AZ,Arizona,4019,Pima,32.0596,-111.2866,5161,42.0,polygon,False,False,America/Phoenix,3,85735 85736,1840019486
+6534,Clifton,Clifton,AZ,Arizona,4011,Greenlee,33.0249,-109.2883,5049,98.0,polygon,False,True,America/Phoenix,3,85533,1840022949
+6550,Citrus Park,Citrus Park,AZ,Arizona,4013,Maricopa,33.5304,-112.444,5033,335.0,polygon,False,False,America/Phoenix,3,85355 85340,1840022921
+6554,Summit,Summit,AZ,Arizona,4019,Pima,32.0619,-110.9483,5027,523.0,polygon,False,False,America/Phoenix,3,85756,1840019488
+6599,Parker,Parker,AZ,Arizona,4012,La Paz,34.0286,-114.2224,4959,56.0,polygon,False,True,America/Phoenix,3,85344 85346,1840022875
+6659,Kayenta,Kayenta,AZ,Arizona,4017,Navajo,36.7144,-110.2589,4889,143.0,polygon,False,False,America/Denver,3,86033,1840017658
+6897,Wickenburg,Wickenburg,AZ,Arizona,4013,Maricopa,33.9837,-112.7668,4609,120.0,polygon,False,True,America/Phoenix,3,85390 85358,1840022916
+6954,Paulden,Paulden,AZ,Arizona,4025,Yavapai,34.8899,-112.4938,4559,30.0,polygon,False,False,America/Phoenix,3,86323 86334,1840019162
+7036,Pinetop-Lakeside,Pinetop-Lakeside,AZ,Arizona,4017,Navajo,34.1486,-109.9658,4469,154.0,polygon,False,True,America/Phoenix,3,85935 85929,1840022571
+7117,Clarkdale,Clarkdale,AZ,Arizona,4025,Yavapai,34.7503,-112.055,4391,163.0,polygon,False,True,America/Phoenix,3,86326 86324,1840022754
+7197,Taylor,Taylor,AZ,Arizona,4017,Navajo,34.4393,-110.1018,4321,51.0,polygon,False,True,America/Phoenix,3,85939,1840022573
+7285,San Carlos,San Carlos,AZ,Arizona,4007,Gila,33.35,-110.4654,4247,191.0,polygon,False,False,America/Phoenix,3,85550,1840019263
+7325,Fort Defiance,Fort Defiance,AZ,Arizona,4001,Apache,35.7469,-109.0685,4209,267.0,polygon,False,False,America/Denver,3,86504,1840017675
+7350,Whiteriver,Whiteriver,AZ,Arizona,4017,Navajo,33.8358,-109.9616,4185,103.0,polygon,False,False,America/Phoenix,3,85941,1840018966
+7398,Dewey-Humboldt,Dewey-Humboldt,AZ,Arizona,4025,Yavapai,34.5175,-112.2498,4137,85.0,polygon,False,True,America/Phoenix,3,86329 86327,1840021771
+7621,Carefree,Carefree,AZ,Arizona,4013,Maricopa,33.8234,-111.9161,3927,172.0,polygon,False,True,America/Phoenix,3,85377,1840022914
+7623,Oracle,Oracle,AZ,Arizona,4021,Pinal,32.6085,-110.7826,3920,95.0,polygon,False,False,America/Phoenix,3,85623,1840019359
+7684,Benson,Benson,AZ,Arizona,4003,Cochise,31.9157,-110.3257,3858,45.0,polygon,False,True,America/Phoenix,3,85602 85630,1840019494
+7723,Holbrook,Holbrook,AZ,Arizona,4017,Navajo,34.9044,-110.1672,3823,113.0,polygon,False,True,America/Phoenix,3,86025,1840020334
+7780,Red Rock,Red Rock,AZ,Arizona,4021,Pinal,32.561,-111.3745,3775,30.0,polygon,False,False,America/Phoenix,3,85131 85145 85658,1840022985
+7809,San Manuel,San Manuel,AZ,Arizona,4021,Pinal,32.6091,-110.6415,3753,69.0,polygon,False,False,America/Phoenix,3,85631,1840019362
+7867,Avenue B and C,Avenue B and C,AZ,Arizona,4027,Yuma,32.7192,-114.6599,3708,1948.0,polygon,False,True,America/Phoenix,3,85364,1840075233
+7905,Lake of the Woods,Lake of the Woods,AZ,Arizona,4017,Navajo,34.1547,-109.9936,3671,357.0,polygon,False,False,America/Phoenix,3,85929,1840022579
+8179,Willcox,Willcox,AZ,Arizona,4003,Cochise,32.2514,-109.8359,3451,221.0,polygon,False,True,America/Phoenix,3,85643 85644,1840022105
+8236,Quartzsite,Quartzsite,AZ,Arizona,4012,La Paz,33.6675,-114.217,3420,40.0,polygon,False,True,America/Phoenix,3,85346 85359,1840021913
+8411,Swift Trail Junction,Swift Trail Junction,AZ,Arizona,4009,Graham,32.7305,-109.7147,3292,346.0,polygon,False,False,America/Phoenix,3,85546,1840019341
+8435,Ajo,Ajo,AZ,Arizona,4019,Pima,32.3923,-112.8839,3279,37.0,polygon,False,False,America/Phoenix,3,85321,1840018107
+8557,Cornville,Cornville,AZ,Arizona,4025,Yavapai,34.7389,-111.9086,3192,93.0,polygon,False,False,America/Phoenix,3,86325,1840017842
+8570,Superior,Superior,AZ,Arizona,4021,Pinal,33.2851,-111.1109,3185,625.0,polygon,False,True,America/Phoenix,3,85173,1840022981
+8590,Black Canyon City,Black Canyon City,AZ,Arizona,4025,Yavapai,34.0709,-112.122,3172,50.0,polygon,False,False,America/Phoenix,3,85324,1840017847
+8778,Wellton,Wellton,AZ,Arizona,4027,Yuma,32.64,-114.214,3044,40.0,polygon,False,True,America/Phoenix,3,85356,1840022976
+8917,Window Rock,Window Rock,AZ,Arizona,4001,Apache,35.6705,-109.0639,2952,215.0,polygon,False,False,America/Denver,3,86515,1840019005
+9081,Linden,Linden,AZ,Arizona,4017,Navajo,34.2625,-110.1424,2848,36.0,polygon,False,False,America/Phoenix,3,85901,1840022580
+9099,Central Heights-Midland City,Central Heights-Midland City,AZ,Arizona,4007,Gila,33.4,-110.8153,2838,572.0,polygon,False,True,America/Phoenix,3,85501,1840073906
+9106,Williams,Williams,AZ,Arizona,4005,Coconino,35.2476,-112.1833,2835,28.0,polygon,False,True,America/Phoenix,3,86046,1840021585
+9240,Sells,Sells,AZ,Arizona,4019,Pima,31.9202,-111.8775,2749,111.0,polygon,False,False,America/Phoenix,3,85634,1840019485
+9324,Desert Hills,Desert Hills,AZ,Arizona,4015,Mohave,34.5506,-114.3754,2703,242.0,polygon,False,False,America/Los_Angeles,3,86404,1840027987
+9383,Mohave Valley,Mohave Valley,AZ,Arizona,4015,Mohave,34.9008,-114.5732,2674,73.0,polygon,False,False,America/Phoenix,3,86440,1840019745
+9528,White Mountain Lake,White Mountain Lake,AZ,Arizona,4017,Navajo,34.3441,-109.9879,2605,41.0,polygon,False,False,America/Phoenix,3,85912 85901,1840022587
+9578,Kachina Village,Kachina Village,AZ,Arizona,4005,Coconino,35.0949,-111.6927,2581,815.0,polygon,False,False,America/Phoenix,3,86001,1840017663
+9597,St. Johns,St. Johns,AZ,Arizona,4001,Apache,34.5018,-109.3784,2573,52.0,polygon,False,True,America/Phoenix,3,85936,1840021622
+9635,Pima,Pima,AZ,Arizona,4009,Graham,32.8886,-109.8437,2558,135.0,polygon,False,True,America/Phoenix,3,85543,1840022954
+9664,Heber-Overgaard,Heber-Overgaard,AZ,Arizona,4017,Navajo,34.4141,-110.5696,2542,143.0,polygon,False,True,America/Phoenix,3,85933 85928,1840074050
+9934,Cordes Lakes,Cordes Lakes,AZ,Arizona,4025,Yavapai,34.3103,-112.1073,2410,86.0,polygon,False,False,America/Phoenix,3,86333,1840017841
+10135,Star Valley,Star Valley,AZ,Arizona,4007,Gila,34.2611,-111.2197,2308,24.0,polygon,False,True,America/Phoenix,3,85541,1840022858
+10380,Cibecue,Cibecue,AZ,Arizona,4017,Navajo,34.0333,-110.4854,2187,141.0,polygon,False,False,America/Phoenix,3,85911,1840017654
+10396,Dolan Springs,Dolan Springs,AZ,Arizona,4015,Mohave,35.5905,-114.2852,2180,14.0,polygon,False,False,America/Phoenix,3,86441,1840019744
+10416,Kearny,Kearny,AZ,Arizona,4021,Pinal,33.0564,-110.9074,2168,310.0,polygon,False,True,America/Phoenix,3,85137,1840022000
+10472,Whetstone,Whetstone,AZ,Arizona,4003,Cochise,31.7011,-110.3398,2146,69.0,polygon,False,False,America/Phoenix,3,85616,1840027991
+10500,Valle Vista,Valle Vista,AZ,Arizona,4015,Mohave,35.4109,-113.8627,2132,68.0,polygon,False,True,America/Phoenix,3,86401,1840075499
+10506,Grand Canyon Village,Grand Canyon Village,AZ,Arizona,4005,Coconino,36.0492,-112.1566,2130,61.0,polygon,False,True,America/Phoenix,3,86023,1840074025
+10557,Rio Verde,Rio Verde,AZ,Arizona,4013,Maricopa,33.7278,-111.674,2107,187.0,polygon,False,False,America/Phoenix,3,85263,1840019308
+10578,Mayer,Mayer,AZ,Arizona,4025,Yavapai,34.4233,-112.2408,2101,40.0,polygon,False,False,America/Phoenix,3,86333,1840017848
+10583,Gila Bend,Gila Bend,AZ,Arizona,4013,Maricopa,32.9662,-112.7155,2100,12.0,polygon,False,True,America/Phoenix,3,85337,1840021946
+10706,Sacaton,Sacaton,AZ,Arizona,4021,Pinal,33.0793,-111.7683,2051,97.0,polygon,False,False,America/Phoenix,3,85147,1840019361
+10881,First Mesa,First Mesa,AZ,Arizona,4017,Navajo,35.8389,-110.3665,1981,48.0,polygon,False,False,America/Phoenix,3,86042,1840027978
+10889,Springerville,Springerville,AZ,Arizona,4001,Apache,34.156,-109.2989,1978,66.0,polygon,False,True,America/Phoenix,3,85938,1840022616
+11137,Cienega Springs,Cienega Springs,AZ,Arizona,4012,La Paz,34.2008,-114.2089,1882,205.0,polygon,False,False,America/Phoenix,3,85344,1840022877
+11338,Bagdad,Bagdad,AZ,Arizona,4025,Yavapai,34.5771,-113.1771,1814,87.0,polygon,False,False,America/Phoenix,3,86321,1840017845
+11407,Scenic,Scenic,AZ,Arizona,4015,Mohave,36.7931,-114.0151,1792,42.0,polygon,False,True,America/Phoenix,3,86432,1840075488
+11418,North Fork,North Fork,AZ,Arizona,4017,Navajo,33.9965,-109.9593,1787,11.0,polygon,False,True,America/Phoenix,3,85941,1840075412
+11433,Miami,Miami,AZ,Arizona,4007,Gila,33.3951,-110.8721,1780,783.0,polygon,False,True,America/Phoenix,3,85539,1840022856
+11496,Mescal,Mescal,AZ,Arizona,4003,Cochise,31.9675,-110.4368,1760,138.0,polygon,False,False,America/Phoenix,3,85602,1840023088
+11557,Huachuca City,Huachuca City,AZ,Arizona,4003,Cochise,31.6308,-110.3422,1736,237.0,polygon,False,True,America/Phoenix,3,85616,1840022106
+11558,Second Mesa,Second Mesa,AZ,Arizona,4017,Navajo,35.8222,-110.4884,1736,16.0,polygon,False,False,America/Phoenix,3,86043,1840018965
+11588,Pine,Pine,AZ,Arizona,4007,Gila,34.3788,-111.4574,1727,20.0,polygon,False,False,America/Phoenix,3,85544,1840019262
+11620,Bylas,Bylas,AZ,Arizona,4009,Graham,33.1292,-110.1163,1719,158.0,polygon,False,False,America/Phoenix,3,85530,1840022957
+11719,Mammoth,Mammoth,AZ,Arizona,4021,Pinal,32.6853,-110.7292,1687,24.0,polygon,False,True,America/Phoenix,3,85623,1840022980
+11867,Peridot,Peridot,AZ,Arizona,4007,Gila,33.3015,-110.4554,1643,123.0,polygon,False,False,America/Phoenix,3,85542,1840019261
+11888,Spring Valley,Spring Valley,AZ,Arizona,4025,Yavapai,34.3531,-112.1513,1636,59.0,polygon,False,False,America/Phoenix,3,86333,1840019161
+11897,Pinetop Country Club,Pinetop Country Club,AZ,Arizona,4017,Navajo,34.1163,-109.8909,1634,93.0,polygon,False,True,America/Phoenix,3,85935,1840075441
+11987,Wagon Wheel,Wagon Wheel,AZ,Arizona,4017,Navajo,34.1976,-110.0273,1602,243.0,polygon,False,True,America/Phoenix,3,85929 85901,1840075510
+12039,LeChee,LeChee,AZ,Arizona,4005,Coconino,36.871,-111.4328,1589,36.0,polygon,False,False,America/Denver,3,86040,1840027980
+12096,Pirtleville,Pirtleville,AZ,Arizona,4003,Cochise,31.3613,-109.5661,1572,325.0,polygon,False,False,America/Phoenix,3,85626 85607,1840019492
+12122,Blackwater,Blackwater,AZ,Arizona,4021,Pinal,33.0396,-111.5798,1566,33.0,polygon,False,False,America/Phoenix,3,85128,1840018031
+12140,Joseph City,Joseph City,AZ,Arizona,4017,Navajo,34.9614,-110.3274,1557,81.0,polygon,False,False,America/Phoenix,3,86032,1840022578
+12165,Fort Valley,Fort Valley,AZ,Arizona,4005,Coconino,35.2554,-111.7253,1549,78.0,polygon,False,True,America/Phoenix,3,86001,1840075372
+12172,Beaver Dam,Beaver Dam,AZ,Arizona,4015,Mohave,36.9071,-113.9363,1547,70.0,polygon,False,False,America/Phoenix,3,86432,1840023172
+12201,Congress,Congress,AZ,Arizona,4025,Yavapai,34.1526,-112.8642,1540,15.0,polygon,False,False,America/Phoenix,3,85332,1840017840
+12202,Tonto Basin,Tonto Basin,AZ,Arizona,4007,Gila,33.8361,-111.3003,1540,18.0,polygon,False,False,America/Phoenix,3,85553,1840019264
+12263,Kaibito,Kaibito,AZ,Arizona,4005,Coconino,36.592,-111.1071,1522,36.0,polygon,False,False,America/Denver,3,86053,1840017664
+12306,Morenci,Morenci,AZ,Arizona,4011,Greenlee,33.0531,-109.3307,1510,606.0,polygon,False,False,America/Phoenix,3,85540,1840019339
+12472,Canyon Day,Canyon Day,AZ,Arizona,4007,Gila,33.7826,-110.0328,1466,112.0,polygon,False,False,America/Phoenix,3,85941,1840017945
+12625,Lukachukai,Lukachukai,AZ,Arizona,4001,Apache,36.4112,-109.2267,1430,25.0,polygon,False,False,America/Denver,3,86507,1840017673
+12770,Parks,Parks,AZ,Arizona,4005,Coconino,35.2939,-111.9771,1392,3.0,polygon,False,False,America/Phoenix,3,86046 86018,1840018970
+12821,Cactus Flats,Cactus Flats,AZ,Arizona,4009,Graham,32.7642,-109.7205,1378,86.0,polygon,False,True,America/Phoenix,3,85546 85548,1840001823
+13006,Peach Springs,Peach Springs,AZ,Arizona,4015,Mohave,35.5315,-113.4319,1333,65.0,polygon,False,False,America/Phoenix,3,86434,1840019746
+13008,St. David,St. David,AZ,Arizona,4003,Cochise,31.8992,-110.2251,1332,96.0,polygon,False,False,America/Phoenix,3,85630,1840019493
+13071,Leupp,Leupp,AZ,Arizona,4005,Coconino,35.2966,-111.0027,1314,37.0,polygon,False,False,America/Denver,3,86035 86004,1840017665
+13133,Tombstone,Tombstone,AZ,Arizona,4003,Cochise,31.7234,-110.0798,1303,54.0,polygon,False,True,America/Phoenix,3,85638,1840022104
+13149,Moenkopi,Moenkopi,AZ,Arizona,4005,Coconino,36.1124,-111.2212,1300,333.0,polygon,False,False,America/Phoenix,3,86045,1840018967
+13164,Tsaile,Tsaile,AZ,Arizona,4001,Apache,36.3033,-109.2157,1296,84.0,polygon,False,False,America/Denver,3,86556 86507,1840136753
+13200,Arizona Village,Arizona Village,AZ,Arizona,4015,Mohave,34.8548,-114.5893,1288,312.0,polygon,False,False,America/Phoenix,3,86440,1840018338
+13201,Many Farms,Many Farms,AZ,Arizona,4001,Apache,36.3532,-109.6271,1288,60.0,polygon,False,False,America/Denver,3,86538 86503,1840017674
+13231,Fredonia,Fredonia,AZ,Arizona,4005,Coconino,36.9617,-112.5195,1281,55.0,polygon,False,True,America/Phoenix,3,86022,1840021586
+13245,Claypool,Claypool,AZ,Arizona,4007,Gila,33.406,-110.8421,1278,420.0,polygon,False,False,America/Phoenix,3,85539,1840017944
+13252,Donovan Estates,Donovan Estates,AZ,Arizona,4027,Yuma,32.7094,-114.6782,1276,4061.0,polygon,False,True,America/Tijuana,2,85364,1840075311
+13450,Centennial Park,Centennial Park,AZ,Arizona,4015,Mohave,36.9538,-112.9813,1236,220.0,polygon,False,True,America/Phoenix,3,86021 86022,1840075272
+13463,Arivaca Junction,Arivaca Junction,AZ,Arizona,4019,Pima,31.739,-111.0738,1233,162.0,polygon,False,False,America/Phoenix,3,85645,1840023065
+13479,Tubac,Tubac,AZ,Arizona,4023,Santa Cruz,31.6111,-111.0585,1230,43.0,polygon,False,False,America/Phoenix,3,85640 85646,1840019537
+13544,St. Michaels,St. Michaels,AZ,Arizona,4001,Apache,35.6606,-109.0962,1218,123.0,polygon,False,False,America/Denver,3,86511,1840019002
+13559,Dilkon,Dilkon,AZ,Arizona,4017,Navajo,35.3606,-110.3155,1215,28.0,polygon,False,False,America/Denver,3,86047,1840018960
+13560,Salome,Salome,AZ,Arizona,4012,La Paz,33.7778,-113.6061,1215,14.0,polygon,False,False,America/Phoenix,3,85348,1840019269
+13699,Ak-Chin Village,Ak-Chin Village,AZ,Arizona,4021,Pinal,33.0197,-112.0808,1185,43.0,polygon,False,False,America/Phoenix,3,85139,1840018029
+13791,Aguila,Aguila,AZ,Arizona,4013,Maricopa,33.9376,-113.1665,1164,286.0,polygon,False,False,America/Phoenix,3,85320,1840022918
+13839,Komatke,Komatke,AZ,Arizona,4013,Maricopa,33.2953,-112.1615,1156,199.0,polygon,False,False,America/Phoenix,3,85339,1840022923
+14099,Hotevilla-Bacavi,Hotevilla-Bacavi,AZ,Arizona,4017,Navajo,35.9225,-110.6569,1102,36.0,polygon,False,True,America/Phoenix,3,86030,1840027979
+14100,Shongopovi,Shongopovi,AZ,Arizona,4017,Navajo,35.8195,-110.5331,1102,268.0,polygon,False,False,America/Phoenix,3,86043,1840136204
+14213,Bouse,Bouse,AZ,Arizona,4012,La Paz,33.8984,-113.9962,1078,3.0,polygon,False,False,America/Phoenix,3,85325,1840017957
+14223,Cameron,Cameron,AZ,Arizona,4005,Coconino,35.8537,-111.4269,1077,22.0,polygon,False,False,America/Denver,3,86020,1840017662
+14284,Six Shooter Canyon,Six Shooter Canyon,AZ,Arizona,4007,Gila,33.3568,-110.772,1065,141.0,polygon,False,True,America/Phoenix,3,85501,1840075490
+14290,Golden Shores,Golden Shores,AZ,Arizona,4015,Mohave,34.7819,-114.4777,1064,50.0,polygon,False,True,America/Phoenix,3,86440 86436,1840075379
+14392,Casa Blanca,Casa Blanca,AZ,Arizona,4021,Pinal,33.1154,-111.9081,1044,25.0,polygon,False,False,America/Phoenix,3,85121,1840025877
+14434,Ganado,Ganado,AZ,Arizona,4001,Apache,35.7016,-109.5504,1035,43.0,polygon,False,False,America/Denver,3,86505,1840017676
+14439,Hondah,Hondah,AZ,Arizona,4017,Navajo,34.086,-109.915,1034,32.0,polygon,False,True,America/Phoenix,3,85935 85930,1840075391
+14588,Rainbow City,Rainbow City,AZ,Arizona,4017,Navajo,33.8731,-109.9763,1008,178.0,polygon,False,True,America/Phoenix,3,85941,1840038035
+14614,Bluewater,Bluewater,AZ,Arizona,4012,La Paz,34.1681,-114.2667,1004,186.0,polygon,False,False,America/Phoenix,3,85344,1840027986
+14705,Seven Mile,Seven Mile,AZ,Arizona,4017,Navajo,33.7882,-109.9576,990,168.0,polygon,False,True,America/Phoenix,3,85941 85926,1840027934
+14942,Cactus Forest,Cactus Forest,AZ,Arizona,4021,Pinal,32.9578,-111.317,955,134.0,polygon,False,False,America/Phoenix,3,85132,1840022982
+15025,Meadview,Meadview,AZ,Arizona,4015,Mohave,35.9531,-114.0789,940,11.0,polygon,False,False,America/Phoenix,3,86444,1840023182
+15032,Ehrenberg,Ehrenberg,AZ,Arizona,4012,La Paz,33.6174,-114.4883,939,30.0,polygon,False,False,America/Phoenix,3,85334 85346,1840017958
+15070,Wilhoit,Wilhoit,AZ,Arizona,4025,Yavapai,34.4083,-112.6156,933,22.0,polygon,False,False,America/Phoenix,3,86332,1840019165
+15364,Chilchinbito,Chilchinbito,AZ,Arizona,4017,Navajo,36.5027,-110.0512,892,14.0,polygon,False,False,America/Denver,3,86033,1840017655
+15476,Patagonia,Patagonia,AZ,Arizona,4023,Santa Cruz,31.5436,-110.7477,874,262.0,polygon,False,True,America/Phoenix,3,85624,1840023118
+15518,Munds Park,Munds Park,AZ,Arizona,4005,Coconino,34.9382,-111.6318,868,15.0,polygon,False,False,America/Phoenix,3,86017 86336,1840018969
+15555,Kykotsmovi Village,Kykotsmovi Village,AZ,Arizona,4017,Navajo,35.8576,-110.6338,863,19.0,polygon,False,False,America/Phoenix,3,86039 86030,1840017660
+15556,Houck,Houck,AZ,Arizona,4001,Apache,35.2714,-109.2236,863,7.0,polygon,False,False,America/Denver,3,86512 86506,1840017677
+15601,Willow Valley,Willow Valley,AZ,Arizona,4015,Mohave,34.9296,-114.6159,857,67.0,polygon,False,False,America/Phoenix,3,86440,1840019747
+15823,Naco,Naco,AZ,Arizona,4003,Cochise,31.3431,-109.9336,830,99.0,polygon,False,False,America/Phoenix,3,85603 85620,1840019491
+15926,Mesa del Caballo,Mesa del Caballo,AZ,Arizona,4007,Gila,34.286,-111.2952,816,1000.0,polygon,False,False,America/Phoenix,3,85541,1840027967
+15933,Ash Fork,Ash Fork,AZ,Arizona,4025,Yavapai,35.2172,-112.4912,814,136.0,polygon,False,False,America/Phoenix,3,86320,1840017844
+15983,Sonoita,Sonoita,AZ,Arizona,4023,Santa Cruz,31.6645,-110.6426,808,29.0,polygon,False,False,America/Phoenix,3,85637,1840019536
+16036,Whitecone,Whitecone,AZ,Arizona,4017,Navajo,35.6037,-110.0791,801,6.0,polygon,False,True,America/Denver,3,86031 86034,1840027881
+16093,Elephant Head,Elephant Head,AZ,Arizona,4019,Pima,31.7659,-110.9921,794,41.0,polygon,False,True,America/Phoenix,3,85645,1840075344
+16098,Teec Nos Pos,Teec Nos Pos,AZ,Arizona,4001,Apache,36.9221,-109.0753,793,21.0,polygon,False,False,America/Denver,3,86514,1840019007
+16139,Duncan,Duncan,AZ,Arizona,4011,Greenlee,32.7344,-109.0972,788,141.0,polygon,False,True,America/Phoenix,3,85534,1840021986
+16212,Dennehotso,Dennehotso,AZ,Arizona,4001,Apache,36.8209,-109.879,779,30.0,polygon,False,False,America/Denver,3,86535,1840018995
+16221,Miracle Valley,Miracle Valley,AZ,Arizona,4003,Cochise,31.3829,-110.1484,778,548.0,polygon,False,False,America/Phoenix,3,85615,1840023089
+16239,Pimaco Two,Pimaco Two,AZ,Arizona,4019,Pima,31.9666,-110.4664,776,66.0,polygon,False,False,America/Phoenix,3,85602,1840027975
+16240,Mountainaire,Mountainaire,AZ,Arizona,4005,Coconino,35.0921,-111.6493,776,29.0,polygon,False,False,America/Phoenix,3,86001,1840018968
+16281,Queen Valley,Queen Valley,AZ,Arizona,4021,Pinal,33.283,-111.305,771,30.0,polygon,False,False,America/Phoenix,3,85118,1840019360
+16282,Sawmill,Sawmill,AZ,Arizona,4001,Apache,35.8924,-109.1538,771,51.0,polygon,False,False,America/Denver,3,86504,1840019003
+16303,Round Rock,Round Rock,AZ,Arizona,4001,Apache,36.5044,-109.4616,769,20.0,polygon,False,False,America/Denver,3,86547,1840019001
+16349,La Paz Valley,La Paz Valley,AZ,Arizona,4012,La Paz,33.5582,-114.2434,762,10.0,polygon,False,False,America/Phoenix,3,85346,1840022878
+16359,Tacna,Tacna,AZ,Arizona,4027,Yuma,32.7004,-113.9618,761,152.0,polygon,False,False,America/Phoenix,3,85352 85347,1840019357
+16365,Strawberry,Strawberry,AZ,Arizona,4007,Gila,34.4018,-111.5002,760,31.0,polygon,False,False,America/Phoenix,3,85544,1840019266
+16378,Gila Crossing,Gila Crossing,AZ,Arizona,4013,Maricopa,33.273,-112.1627,758,336.0,polygon,False,False,America/Phoenix,3,85339,1840025866
+16468,Parker Strip,Parker Strip,AZ,Arizona,4012,La Paz,34.2803,-114.1269,748,92.0,polygon,False,False,America/Phoenix,3,85344,1840019267
+16556,Pinon,Pinon,AZ,Arizona,4017,Navajo,36.0992,-110.2209,738,43.0,polygon,False,False,America/Denver,3,86510,1840018964
+16614,Low Mountain,Low Mountain,AZ,Arizona,4017,Navajo,35.9481,-110.0981,732,7.0,polygon,False,False,America/Denver,3,86520 86510 86034,1840022581
+16650,Maricopa Colony,Maricopa Colony,AZ,Arizona,4013,Maricopa,33.3626,-112.2268,727,51.0,polygon,False,True,America/Phoenix,3,85339,1840042770
+16664,York,York,AZ,Arizona,4011,Greenlee,32.9175,-109.196,725,149.0,polygon,False,False,America/Phoenix,3,85534,1840022951
+16866,Yarnell,Yarnell,AZ,Arizona,4025,Yavapai,34.2283,-112.7631,700,30.0,polygon,False,False,America/Phoenix,3,85362,1840019167
+16950,Walnut Creek,Walnut Creek,AZ,Arizona,4015,Mohave,35.1312,-114.1267,689,173.0,polygon,False,True,America/Phoenix,3,86413,1840075545
+17133,Winslow West,Winslow West,AZ,Arizona,4017,Navajo,34.9923,-110.7069,666,14.0,polygon,False,False,America/Phoenix,3,86047,1840027984
+17177,Dudleyville,Dudleyville,AZ,Arizona,4021,Pinal,32.9128,-110.7345,662,38.0,polygon,False,False,America/Phoenix,3,85192,1840019358
+17226,McNary,McNary,AZ,Arizona,4001,Apache,34.0923,-109.8541,657,46.0,polygon,False,False,America/Phoenix,3,85935 85930,1840018996
+17313,Arivaca,Arivaca,AZ,Arizona,4019,Pima,31.575,-111.2926,646,8.0,polygon,False,False,America/Phoenix,3,85601,1840023064
+17354,Wittmann,Wittmann,AZ,Arizona,4013,Maricopa,33.7749,-112.5251,641,256.0,polygon,False,False,America/Phoenix,3,85361,1840022928
+17373,Round Valley,Round Valley,AZ,Arizona,4007,Gila,34.1877,-111.3018,640,51.0,polygon,False,True,America/Phoenix,3,85541,1840075483
+17427,Cedar Creek,Cedar Creek,AZ,Arizona,4007,Gila,33.903,-110.1929,633,14.0,polygon,False,False,America/Phoenix,3,85941,1840022861
+17448,Hayden,Hayden,AZ,Arizona,4007,Gila,32.9995,-110.7814,631,192.0,polygon,False,True,America/Phoenix,3,85135 85192,1840021911
+17464,Rancho Mesa Verde,Rancho Mesa Verde,AZ,Arizona,4027,Yuma,32.5944,-114.6551,629,2162.0,polygon,False,True,America/Phoenix,2,85350,1840038041
+17548,Vicksburg,Vicksburg,AZ,Arizona,4012,La Paz,33.7293,-113.8254,621,1.0,polygon,False,False,America/Phoenix,3,85325 85348,1840022880
+17621,East Fork,East Fork,AZ,Arizona,4017,Navajo,33.8081,-109.9227,613,114.0,polygon,False,False,America/Phoenix,3,85941,1840018961
+17644,Gisela,Gisela,AZ,Arizona,4007,Gila,34.1015,-111.2895,611,82.0,polygon,False,False,America/Phoenix,3,85541,1840017946
+17698,Shonto,Shonto,AZ,Arizona,4017,Navajo,36.5893,-110.6607,605,51.0,polygon,False,False,America/Denver,3,86054,1840018963
+17739,Burnside,Burnside,AZ,Arizona,4001,Apache,35.7534,-109.6247,602,25.0,polygon,False,False,America/Denver,3,86505,1840027977
+17871,Nelson,Nelson,AZ,Arizona,4019,Pima,32.4298,-111.2649,591,478.0,polygon,False,False,America/Phoenix,3,85653,1840137559
+17893,San Jose,San Jose,AZ,Arizona,4009,Graham,32.8169,-109.5957,589,54.0,polygon,False,False,America/Phoenix,3,85546,1840022960
+17981,Tusayan,Tusayan,AZ,Arizona,4005,Coconino,35.955,-112.1202,580,13.0,polygon,False,True,America/Phoenix,3,86023,1840018973
+18038,Tees Toh,Tees Toh,AZ,Arizona,4017,Navajo,35.4849,-110.3989,574,13.0,polygon,False,False,America/Denver,3,86047,1840022585
+18059,Stanfield,Stanfield,AZ,Arizona,4021,Pinal,32.8794,-111.9636,572,56.0,polygon,False,False,America/Phoenix,3,85172,1840019366
+18149,Icehouse Canyon,Icehouse Canyon,AZ,Arizona,4007,Gila,33.3553,-110.7965,563,44.0,polygon,False,True,America/Phoenix,3,85501,1840075398
+18283,Young,Young,AZ,Arizona,4007,Gila,34.1189,-110.9559,553,4.0,polygon,False,False,America/Phoenix,3,85554,1840019265
+18357,El Prado Estates,El Prado Estates,AZ,Arizona,4027,Yuma,32.7062,-114.5215,547,218.0,polygon,False,True,America/Phoenix,3,85365,1840075355
+18474,Peeples Valley,Peeples Valley,AZ,Arizona,4025,Yavapai,34.2773,-112.7654,534,13.0,polygon,False,False,America/Phoenix,3,85362 86332,1840019163
+18485,Sanders,Sanders,AZ,Arizona,4001,Apache,35.2095,-109.3224,533,85.0,polygon,False,False,America/Denver,3,86512,1840022626
+18562,Drysdale,Drysdale,AZ,Arizona,4027,Yuma,32.6452,-114.7067,526,1241.0,polygon,False,True,America/Phoenix,3,85365,1840075320
+18786,Sacaton Flats Village,Sacaton Flats Village,AZ,Arizona,4021,Pinal,33.0559,-111.659,506,31.0,polygon,False,True,America/Phoenix,3,85147 85128,1840042786
+18912,Seligman,Seligman,AZ,Arizona,4025,Yavapai,35.3256,-112.8573,495,29.0,polygon,False,False,America/Phoenix,3,86337,1840019164
+18922,Santa Rosa,Santa Rosa,AZ,Arizona,4019,Pima,32.3326,-112.0464,494,29.0,polygon,False,False,America/Phoenix,3,85634,1840019484
+18977,Upper Santan Village,Upper Santan Village,AZ,Arizona,4021,Pinal,33.1152,-111.7418,489,26.0,polygon,False,True,America/Phoenix,3,85147,1840042802
+18992,Dateland,Dateland,AZ,Arizona,4027,Yuma,32.8212,-113.5417,488,8.0,polygon,False,False,America/Phoenix,3,85333 85347,1840022978
+19018,Pinal,Pinal,AZ,Arizona,4007,Gila,33.3799,-110.7571,486,457.0,polygon,False,False,America/Phoenix,3,85501,1840027956
+19186,Mesquite Creek,Mesquite Creek,AZ,Arizona,4015,Mohave,34.9606,-114.5714,473,180.0,polygon,False,False,America/Phoenix,3,86440,1840027981
+19211,Rough Rock,Rough Rock,AZ,Arizona,4001,Apache,36.4106,-109.8691,471,14.0,polygon,False,False,America/Denver,3,86503,1840019000
+19359,Rock Point,Rock Point,AZ,Arizona,4001,Apache,36.7173,-109.6287,461,12.0,polygon,False,False,America/Denver,3,86545,1840018999
+19413,Nazlini,Nazlini,AZ,Arizona,4001,Apache,35.9155,-109.4726,457,23.0,polygon,False,False,America/Denver,3,86540,1840018997
+19437,Jerome,Jerome,AZ,Arizona,4025,Yavapai,34.7466,-112.1072,455,203.0,polygon,False,True,America/Phoenix,3,86331,1840021773
+19618,Gadsden,Gadsden,AZ,Arizona,4027,Yuma,32.5564,-114.781,441,87.0,polygon,False,False,America/Phoenix,3,85336,1840018027
+19619,Greasewood,Greasewood,AZ,Arizona,4017,Navajo,35.5279,-109.8614,441,31.0,polygon,False,False,America/Denver,3,86505,1840017656
+19783,Turkey Creek,Turkey Creek,AZ,Arizona,4017,Navajo,33.8011,-109.9461,429,201.0,polygon,False,True,America/Phoenix,3,85941,1840075498
+19820,Bitter Springs,Bitter Springs,AZ,Arizona,4005,Coconino,36.6118,-111.6475,426,20.0,polygon,False,False,America/Denver,3,86040 86036,1840017661
+19957,Central,Central,AZ,Arizona,4009,Graham,32.8692,-109.7908,417,96.0,polygon,False,False,America/Phoenix,3,85531 85543,1840022958
+20064,Elfrida,Elfrida,AZ,Arizona,4003,Cochise,31.6858,-109.6896,409,41.0,polygon,False,False,America/Phoenix,3,85610,1840023086
+20108,Brenda,Brenda,AZ,Arizona,4012,La Paz,33.6721,-113.9379,406,22.0,polygon,False,False,America/Phoenix,3,85348,1840022876
+20189,Picacho,Picacho,AZ,Arizona,4021,Pinal,32.709,-111.4908,401,25.0,polygon,False,False,America/Phoenix,3,85141,1840022984
+20260,Littlefield,Littlefield,AZ,Arizona,4015,Mohave,36.8663,-113.9358,396,12.0,polygon,False,False,America/Phoenix,3,86432,1840023180
+20356,Solomon,Solomon,AZ,Arizona,4009,Graham,32.8137,-109.6289,389,721.0,polygon,False,False,America/Phoenix,3,85546 85551,1840022961
+20396,Red Mesa,Red Mesa,AZ,Arizona,4001,Apache,36.9664,-109.3828,386,11.0,polygon,False,False,America/Denver,3,86514,1840018998
+20414,Chloride,Chloride,AZ,Arizona,4015,Mohave,35.4097,-114.1973,385,98.0,polygon,False,False,America/Phoenix,3,86431,1840023175
+20549,Wall Lane,Wall Lane,AZ,Arizona,4027,Yuma,32.6573,-114.7105,375,331.0,polygon,False,True,America/Tijuana,3,85365,1840075541
+20550,Fort Thomas,Fort Thomas,AZ,Arizona,4009,Graham,33.0222,-109.9665,375,16.0,polygon,False,False,America/Phoenix,3,85536,1840022959
+20628,Tolani Lake,Tolani Lake,AZ,Arizona,4005,Coconino,35.4309,-110.8431,370,334.0,polygon,False,False,America/Denver,3,86047,1840022591
+20722,Steamboat,Steamboat,AZ,Arizona,4001,Apache,35.7535,-109.8504,364,58.0,polygon,False,False,America/Denver,3,86505,1840019006
+20741,Bowie,Bowie,AZ,Arizona,4003,Cochise,32.3247,-109.4843,363,82.0,polygon,False,False,America/Phoenix,3,85605,1840023084
+20884,Wheatfields,Wheatfields,AZ,Arizona,4007,Gila,33.4805,-110.8366,354,16.0,polygon,False,True,America/Phoenix,3,85501,1840075566
+20925,Winkelman,Winkelman,AZ,Arizona,4007,Gila,32.9853,-110.7651,351,176.0,polygon,False,True,America/Phoenix,3,85192,1840022859
+20956,Clay Springs,Clay Springs,AZ,Arizona,4017,Navajo,34.3592,-110.3043,349,47.0,polygon,False,False,America/Phoenix,3,85923,1840022574
+21069,Stotonic Village,Stotonic Village,AZ,Arizona,4021,Pinal,33.1528,-111.8167,342,26.0,polygon,False,True,America/Phoenix,3,85248 85147,1840042796
+21118,Pisinemo,Pisinemo,AZ,Arizona,4019,Pima,32.0349,-112.3192,339,57.0,polygon,False,False,America/Phoenix,3,85634,1840019483
+21322,Top-of-the-World,Top-of-the-World,AZ,Arizona,4021,Pinal,33.3477,-110.9997,325,20.0,polygon,False,False,America/Phoenix,3,85539 85501,1840027983
+21335,Chuichu,Chuichu,AZ,Arizona,4021,Pinal,32.7403,-111.7821,324,18.0,polygon,False,False,America/Phoenix,3,85193,1840018028
+21371,Poston,Poston,AZ,Arizona,4012,La Paz,33.9921,-114.4046,322,91.0,polygon,False,False,America/Phoenix,3,85371,1840019268
+21372,Pinedale,Pinedale,AZ,Arizona,4017,Navajo,34.3208,-110.2599,322,12.0,polygon,False,False,America/Phoenix,3,85934,1840022582
+21428,Cane Beds,Cane Beds,AZ,Arizona,4015,Mohave,36.9342,-112.9118,319,14.0,polygon,False,False,America/Phoenix,3,86022,1840023173
+21484,Wenden,Wenden,AZ,Arizona,4012,La Paz,33.8324,-113.5433,315,8.0,polygon,False,False,America/Phoenix,3,85357,1840019270
+21499,Kino Springs,Kino Springs,AZ,Arizona,4023,Santa Cruz,31.3642,-110.8096,314,469.0,polygon,False,False,America/Phoenix,3,85621,1840023120
+21520,Cornfields,Cornfields,AZ,Arizona,4001,Apache,35.6515,-109.6756,313,312.0,polygon,False,False,America/Denver,3,86505,1840022619
+21560,Wellton Hills,Wellton Hills,AZ,Arizona,4027,Yuma,32.6232,-114.1453,310,187.0,polygon,False,True,America/Phoenix,3,85356,1840075560
+21783,South Komelik,South Komelik,AZ,Arizona,4019,Pima,31.7144,-111.7744,298,29.0,polygon,False,False,America/Phoenix,3,85634,1840023077
+21867,Cibola,Cibola,AZ,Arizona,4012,La Paz,33.3733,-114.6792,293,5.0,polygon,False,False,America/Phoenix,3,85334 85328,1840017956
+22013,Lazy Y U,Lazy Y U,AZ,Arizona,4015,Mohave,35.1369,-113.9684,285,7.0,polygon,False,True,America/Phoenix,3,86401,1840075406
+22032,Indian Wells,Indian Wells,AZ,Arizona,4017,Navajo,35.4089,-110.1061,284,10.0,polygon,False,False,America/Denver,3,86031,1840022577
+22047,Clacks Canyon,Clacks Canyon,AZ,Arizona,4015,Mohave,35.2203,-114.0723,283,32.0,polygon,False,True,America/Phoenix,3,86413 86409 86402,1840075276
+22283,Goodyear Village,Goodyear Village,AZ,Arizona,4021,Pinal,33.1973,-111.8724,270,31.0,polygon,False,True,America/Phoenix,3,85248 85121,1840042768
+22364,San Miguel,San Miguel,AZ,Arizona,4019,Pima,31.6295,-111.7801,266,18.0,polygon,False,False,America/Phoenix,3,85634,1840023076
+22397,Tonalea,Tonalea,AZ,Arizona,4005,Coconino,36.3218,-110.9667,264,10.0,polygon,False,False,America/Denver,3,86044,1840018971
+22513,Jeddito,Jeddito,AZ,Arizona,4017,Navajo,35.7697,-110.1305,258,18.0,polygon,False,False,America/Denver,3,86034,1840017657
+22614,Del Muerto,Del Muerto,AZ,Arizona,4001,Apache,36.187,-109.4348,253,98.0,polygon,False,False,America/Denver,3,86503,1840027931
+22652,Beaver Valley,Beaver Valley,AZ,Arizona,4007,Gila,34.3409,-111.2987,251,64.0,polygon,False,True,America/Phoenix,3,85541,1840075250
+22905,Tonto Village,Tonto Village,AZ,Arizona,4007,Gila,34.3198,-111.1394,239,276.0,polygon,False,False,America/Phoenix,3,85541,1840022868
+22933,Topawa,Topawa,AZ,Arizona,4019,Pima,31.8078,-111.8305,237,17.0,polygon,False,False,America/Phoenix,3,85634 85639,1840023079
+22982,Klagetoh,Klagetoh,AZ,Arizona,4001,Apache,35.5011,-109.5283,234,269.0,polygon,False,False,America/Denver,3,86502 86505,1840022622
+23045,Palominas,Palominas,AZ,Arizona,4003,Cochise,31.3838,-110.1212,231,45.0,polygon,False,False,America/Phoenix,3,85615,1840023090
+23271,White Hills,White Hills,AZ,Arizona,4015,Mohave,35.7242,-114.4004,221,1.0,polygon,False,False,America/Phoenix,3,86445 86441,1840023188
+23341,Wet Camp Village,Wet Camp Village,AZ,Arizona,4021,Pinal,33.1413,-111.9004,218,19.0,polygon,False,True,America/Phoenix,3,85121,1840042806
+23342,Tumacacori-Carmen,Tumacacori-Carmen,AZ,Arizona,4023,Santa Cruz,31.5771,-111.0469,218,42.0,polygon,False,True,America/Phoenix,3,85640,1840074659
+23382,So-Hi,So-Hi,AZ,Arizona,4015,Mohave,35.2527,-114.1416,216,95.0,polygon,False,True,America/Phoenix,3,86413,1840075493
+23515,Dripping Springs,Dripping Springs,AZ,Arizona,4007,Gila,33.105,-110.7551,210,12.0,polygon,False,True,America/Phoenix,3,85192,1840075316
+23608,Lower Santan Village,Lower Santan Village,AZ,Arizona,4021,Pinal,33.1427,-111.7853,206,19.0,polygon,False,True,America/Phoenix,3,85147,1840042769
+23661,Valle,Valle,AZ,Arizona,4005,Coconino,35.6245,-112.135,204,0.0,polygon,False,False,America/Phoenix,3,86046,1840022592
+23785,Woodruff,Woodruff,AZ,Arizona,4017,Navajo,34.7843,-110.0366,199,13.0,polygon,False,False,America/Phoenix,3,85942 86025,1840022588
+23810,Sunizona,Sunizona,AZ,Arizona,4003,Cochise,31.8841,-109.6328,198,9.0,polygon,False,False,America/Phoenix,3,85625,1840023092
+23811,Fort Apache,Fort Apache,AZ,Arizona,4017,Navajo,33.7907,-109.9873,198,67.0,polygon,False,False,America/Phoenix,3,85926,1840022575
+23812,Deer Creek,Deer Creek,AZ,Arizona,4007,Gila,34.0644,-111.3505,198,43.0,polygon,False,True,America/Phoenix,3,85541,1840075296
+23849,Oxbow Estates,Oxbow Estates,AZ,Arizona,4007,Gila,34.1824,-111.343,197,154.0,polygon,False,False,America/Phoenix,3,85541,1840027971
+23850,Oljato-Monument Valley,Oljato-Monument Valley,AZ,Arizona,4017,Navajo,36.9867,-110.191,197,6.0,polygon,False,True,America/Denver,3,84536,1840037122
+24095,Padre Ranchitos,Padre Ranchitos,AZ,Arizona,4027,Yuma,32.6497,-114.6416,185,246.0,polygon,False,True,America/Phoenix,3,85365,1840075422
+24172,Sacate Village,Sacate Village,AZ,Arizona,4021,Pinal,33.1416,-111.9811,182,20.0,polygon,False,True,America/Phoenix,3,85339 85121,1840042772
+24173,Morristown,Morristown,AZ,Arizona,4013,Maricopa,33.8548,-112.6135,182,87.0,polygon,False,False,America/Phoenix,3,85342,1840022924
+24340,Sun Valley,Sun Valley,AZ,Arizona,4017,Navajo,34.9835,-110.0374,175,2.0,polygon,False,False,America/Phoenix,3,86029,1840022584
+24341,Pinion Pines,Pinion Pines,AZ,Arizona,4015,Mohave,35.1466,-113.9058,175,44.0,polygon,False,True,America/Phoenix,3,86401,1840075442
+24447,Haivana Nakya,Haivana Nakya,AZ,Arizona,4019,Pima,32.0051,-111.7124,170,35.0,polygon,False,False,America/Phoenix,3,85634,1840023071
+24473,Maish Vaya,Maish Vaya,AZ,Arizona,4019,Pima,32.1703,-112.1342,169,15.0,polygon,False,False,America/Phoenix,3,85634,1840023073
+24499,Cowlic,Cowlic,AZ,Arizona,4019,Pima,31.8048,-111.9877,168,81.0,polygon,False,False,America/Phoenix,3,85634,1840023069
+24632,Keams Canyon,Keams Canyon,AZ,Arizona,4017,Navajo,35.8229,-110.2011,162,3.0,polygon,False,False,America/Phoenix,3,86034,1840017659
+24666,Wahak Hotrontk,Wahak Hotrontk,AZ,Arizona,4019,Pima,32.1748,-112.3663,161,40.0,polygon,False,False,America/Phoenix,3,85634,1840023081
+24762,Summerhaven,Summerhaven,AZ,Arizona,4019,Pima,32.4416,-110.7766,157,13.0,polygon,False,False,America/Phoenix,3,85619,1840023078
+24856,Washington Park,Washington Park,AZ,Arizona,4007,Gila,34.3978,-111.2731,153,22.0,polygon,False,False,America/Phoenix,3,85541,1840022869
+24910,Why,Why,AZ,Arizona,4019,Pima,32.259,-112.7307,151,6.0,polygon,False,False,America/Phoenix,3,85321,1840023082
+24997,East Globe,East Globe,AZ,Arizona,4007,Gila,33.3511,-110.7061,148,17.0,polygon,False,True,America/Phoenix,3,85550,1840075328
+25204,San Simon,San Simon,AZ,Arizona,4003,Cochise,32.268,-109.2308,140,77.0,polygon,False,False,America/Phoenix,3,85632,1840023091
+25205,Antares,Antares,AZ,Arizona,4015,Mohave,35.4229,-113.8083,140,83.0,polygon,False,False,America/Phoenix,3,86401,1840023171
+25206,McNeal,McNeal,AZ,Arizona,4003,Cochise,31.6079,-109.6699,140,14.0,polygon,False,False,America/Phoenix,3,85617,1840023087
+25320,Freedom Acres,Freedom Acres,AZ,Arizona,4007,Gila,34.3199,-111.3051,135,29.0,polygon,False,False,America/Phoenix,3,85541,1840027968
+25342,Kaibab,Kaibab,AZ,Arizona,4015,Mohave,36.8815,-112.7237,134,8.0,polygon,False,False,America/Phoenix,3,86022,1840018340
+25343,Crystal Beach,Crystal Beach,AZ,Arizona,4015,Mohave,34.5714,-114.3926,134,152.0,polygon,False,True,America/Los_Angeles,3,86404,1840075284
+25376,Campo Bonito,Campo Bonito,AZ,Arizona,4021,Pinal,32.5629,-110.6984,133,12.0,polygon,False,False,America/Phoenix,3,85623,1840027939
+25428,Arlington,Arlington,AZ,Arizona,4013,Maricopa,33.3346,-112.7747,131,22.0,polygon,False,False,America/Phoenix,3,85322,1840022920
+25568,Kohls Ranch,Kohls Ranch,AZ,Arizona,4007,Gila,34.321,-111.0838,126,41.0,polygon,False,False,America/Phoenix,3,85541,1840022865
+25586,Christopher Creek,Christopher Creek,AZ,Arizona,4007,Gila,34.3206,-111.0072,125,15.0,polygon,False,False,America/Phoenix,3,85541,1840022862
+25640,Seba Dalkai,Seba Dalkai,AZ,Arizona,4017,Navajo,35.4816,-110.4562,123,3.0,polygon,False,False,America/Denver,3,86047,1840022583
+25669,Vernon,Vernon,AZ,Arizona,4001,Apache,34.2509,-109.6926,122,83.0,polygon,False,False,America/Phoenix,3,85940,1840022629
+25696,East Verde Estates,East Verde Estates,AZ,Arizona,4007,Gila,34.2983,-111.3645,121,18.0,polygon,False,True,America/Phoenix,3,85541,1840075337
+25727,Anegam,Anegam,AZ,Arizona,4019,Pima,32.3742,-112.035,120,20.0,polygon,False,False,America/Phoenix,3,85634,1840023063
+25751,Alpine,Alpine,AZ,Arizona,4001,Apache,33.846,-109.1431,119,76.0,polygon,False,False,America/Phoenix,3,85920,1840022617
+25752,Kaka,Kaka,AZ,Arizona,4013,Maricopa,32.5113,-112.3167,119,179.0,polygon,False,False,America/Phoenix,3,85321,1840022922
+25753,Carrizo,Carrizo,AZ,Arizona,4007,Gila,33.9867,-110.3314,119,5.0,polygon,False,False,America/Phoenix,3,85941,1840022860
+25781,Wikieup,Wikieup,AZ,Arizona,4015,Mohave,34.6931,-113.5995,118,10.0,polygon,False,False,America/Phoenix,3,85360,1840023189
+25805,Elgin,Elgin,AZ,Arizona,4023,Santa Cruz,31.668,-110.5347,117,7.0,polygon,False,False,America/Phoenix,3,85611,1840018173
+25836,Concho,Concho,AZ,Arizona,4001,Apache,34.4744,-109.6102,116,100.0,polygon,False,False,America/Phoenix,3,85924,1840022618
+25837,Beyerville,Beyerville,AZ,Arizona,4023,Santa Cruz,31.3921,-110.8748,116,134.0,polygon,False,False,America/Phoenix,3,85621,1840023119
+25862,Utting,Utting,AZ,Arizona,4012,La Paz,33.8544,-113.9129,115,1.0,polygon,False,False,America/Phoenix,3,85325,1840022879
+26041,Yucca,Yucca,AZ,Arizona,4015,Mohave,34.863,-114.1461,108,18.0,polygon,False,False,America/Phoenix,3,86438,1840023190
+26042,Ali Chuk,Ali Chuk,AZ,Arizona,4019,Pima,31.8169,-112.5584,108,28.0,polygon,False,False,America/Phoenix,3,85321,1840023060
+26121,Rye,Rye,AZ,Arizona,4007,Gila,34.0978,-111.3543,105,79.0,polygon,False,False,America/Phoenix,3,85541,1840022867
+26146,El Capitan,El Capitan,AZ,Arizona,4007,Gila,33.2383,-110.7833,104,6.0,polygon,False,True,America/Phoenix,3,85192 85501,1840075340
+26334,Ali Chukson,Ali Chukson,AZ,Arizona,4019,Pima,31.9115,-111.8016,96,17.0,polygon,False,False,America/Phoenix,3,85634,1840023061
+26399,Ventana,Ventana,AZ,Arizona,4019,Pima,32.4681,-112.2434,93,34.0,polygon,False,False,America/Phoenix,3,85634 85321,1840023080
+26454,Rock House,Rock House,AZ,Arizona,4007,Gila,33.6318,-110.9456,91,57.0,polygon,False,True,America/Phoenix,3,85501,1840038092
+26559,Theba,Theba,AZ,Arizona,4013,Maricopa,32.9182,-112.8899,87,54.0,polygon,False,False,America/Phoenix,3,85337,1840022925
+26560,Sehili,Sehili,AZ,Arizona,4001,Apache,36.2807,-109.1814,87,51.0,polygon,False,False,America/Denver,3,86556 86507,1840022627
+26588,Whispering Pines,Whispering Pines,AZ,Arizona,4007,Gila,34.3728,-111.2813,86,77.0,polygon,False,False,America/Phoenix,3,85541,1840027969
+26616,Hard Rock,Hard Rock,AZ,Arizona,4017,Navajo,36.0309,-110.5048,85,5.0,polygon,False,True,America/Denver,3,86039,1840075388
+26644,Hackberry,Hackberry,AZ,Arizona,4015,Mohave,35.3401,-113.7256,84,1.0,polygon,False,False,America/Phoenix,3,86411 86401,1840023178
+26676,Nolic,Nolic,AZ,Arizona,4019,Pima,32.0341,-111.955,83,61.0,polygon,False,False,America/Phoenix,3,85634,1840023074
+26738,Moccasin,Moccasin,AZ,Arizona,4015,Mohave,36.9099,-112.7546,81,40.0,polygon,False,False,America/Phoenix,3,86022,1840023183
+26782,Pine Lake,Pine Lake,AZ,Arizona,4015,Mohave,35.0887,-113.8739,79,18.0,polygon,False,True,America/Phoenix,3,86401,1840075424
+26815,Truxton,Truxton,AZ,Arizona,4015,Mohave,35.487,-113.5607,78,7.0,polygon,False,False,America/Phoenix,3,86411 86434,1840023186
+26900,Oak Springs,Oak Springs,AZ,Arizona,4001,Apache,35.476,-109.1318,74,153.0,polygon,False,False,America/Denver,3,86511,1840027932
+26920,Sweet Water Village,Sweet Water Village,AZ,Arizona,4021,Pinal,33.1274,-111.8424,73,35.0,polygon,False,True,America/Phoenix,3,85121,1840042801
+26921,Jakes Corner,Jakes Corner,AZ,Arizona,4007,Gila,34.0083,-111.3202,73,19.0,polygon,False,False,America/Phoenix,3,85541,1840022864
+26949,Roosevelt,Roosevelt,AZ,Arizona,4007,Gila,33.6618,-111.1295,72,10.0,polygon,False,False,America/Phoenix,3,85545,1840022866
+26950,Valentine,Valentine,AZ,Arizona,4015,Mohave,35.3886,-113.6591,72,17.0,polygon,False,False,America/Phoenix,3,86437,1840023187
+27032,Katherine,Katherine,AZ,Arizona,4015,Mohave,35.2206,-114.5615,69,7.0,polygon,False,False,America/Phoenix,3,86429,1840023179
+27145,Martinez Lake,Martinez Lake,AZ,Arizona,4027,Yuma,32.9843,-114.4722,65,16.0,polygon,False,True,America/Phoenix,3,85365,1840075410
+27232,Flowing Springs,Flowing Springs,AZ,Arizona,4007,Gila,34.3131,-111.3379,62,14.0,polygon,False,False,America/Phoenix,3,85541,1840027970
+27233,Gu Oidak,Gu Oidak,AZ,Arizona,4019,Pima,31.9206,-112.0233,62,3.0,polygon,False,False,America/Phoenix,3,85634,1840023070
+27272,Wide Ruins,Wide Ruins,AZ,Arizona,4001,Apache,35.4175,-109.4995,60,59.0,polygon,False,False,America/Denver,3,86502,1840022630
+27420,Franklin,Franklin,AZ,Arizona,4011,Greenlee,32.677,-109.072,54,20.0,polygon,False,False,America/Phoenix,3,85534,1840022950
+27421,Ali Molina,Ali Molina,AZ,Arizona,4019,Pima,31.9025,-111.7805,54,27.0,polygon,False,False,America/Phoenix,3,85634,1840023062
+27441,Amado,Amado,AZ,Arizona,4023,Santa Cruz,31.6968,-111.0583,53,3.0,polygon,False,False,America/Phoenix,3,85645 85646,1840018172
+27465,Tat Momoli,Tat Momoli,AZ,Arizona,4021,Pinal,32.6013,-111.8862,52,21.0,polygon,False,False,America/Phoenix,3,85193,1840022987
+27494,Tonopah,Tonopah,AZ,Arizona,4013,Maricopa,33.488,-112.9308,51,14.0,polygon,False,False,America/Phoenix,3,85354,1840022926
+27529,Dragoon,Dragoon,AZ,Arizona,4003,Cochise,32.0263,-110.0365,49,10.0,polygon,False,False,America/Phoenix,3,85609,1840023085
+27548,Bryce,Bryce,AZ,Arizona,4009,Graham,32.9258,-109.8229,48,22.0,polygon,False,False,America/Phoenix,3,85543,1840022956
+27602,Comobabi,Comobabi,AZ,Arizona,4019,Pima,32.0538,-111.8029,46,15.0,polygon,False,False,America/Phoenix,3,85634,1840023068
+27728,Crozier,Crozier,AZ,Arizona,4015,Mohave,35.4227,-113.6486,40,14.0,polygon,False,False,America/Phoenix,3,86437 86434,1840023176
+27767,Greer,Greer,AZ,Arizona,4001,Apache,34.0054,-109.4611,38,27.0,polygon,False,False,America/Phoenix,3,85927,1840022621
+27768,Nutrioso,Nutrioso,AZ,Arizona,4001,Apache,33.9515,-109.2058,38,47.0,polygon,False,False,America/Phoenix,3,85932,1840022624
+27922,Haigler Creek,Haigler Creek,AZ,Arizona,4007,Gila,34.2163,-110.9719,30,7.0,polygon,False,True,America/Phoenix,3,85554,1840075384
+27957,Charco,Charco,AZ,Arizona,4019,Pima,32.2474,-112.6001,28,11.0,polygon,False,False,America/Phoenix,3,85321,1840023066
+28036,Wintersburg,Wintersburg,AZ,Arizona,4013,Maricopa,33.4187,-112.8666,24,18.0,polygon,False,False,America/Phoenix,3,85354,1840022927
+28037,Buckshot,Buckshot,AZ,Arizona,4027,Yuma,32.7404,-114.4829,24,30.0,polygon,False,True,America/Phoenix,3,85365,1840075263
+28064,Sunwest,Sunwest,AZ,Arizona,4012,La Paz,33.651,-113.4091,23,0.0,polygon,False,True,America/Phoenix,3,85348,1840038121
+28122,Alamo Lake,Alamo Lake,AZ,Arizona,4012,La Paz,34.2588,-113.5079,20,0.0,polygon,False,True,America/Phoenix,3,85357,1840075227
+28137,Hunter Creek,Hunter Creek,AZ,Arizona,4007,Gila,34.3054,-111.0159,19,3.0,polygon,False,True,America/Phoenix,3,85541,1840075397
+28158,Lupton,Lupton,AZ,Arizona,4001,Apache,35.3548,-109.0528,18,19.0,polygon,False,False,America/Denver,3,86508,1840022623
+28174,Mojave Ranch Estates,Mojave Ranch Estates,AZ,Arizona,4015,Mohave,34.9449,-114.5907,17,8.0,polygon,False,False,America/Phoenix,3,86440,1840027982
+28209,Supai,Supai,AZ,Arizona,4005,Coconino,36.2299,-112.6926,15,3.0,polygon,False,False,America/Phoenix,3,86435,1840018974
+28210,Topock,Topock,AZ,Arizona,4015,Mohave,34.7206,-114.478,15,22.0,polygon,False,False,America/Phoenix,3,86436,1840023185
+28310,Ko Vaya,Ko Vaya,AZ,Arizona,4019,Pima,32.0815,-111.8959,8,2.0,polygon,False,False,America/Phoenix,3,85634,1840023072

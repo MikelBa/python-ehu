@@ -1,0 +1,537 @@
+,city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+99,Little Rock,Little Rock,AR,Arkansas,5119,Pulaski,34.7256,-92.3576,439815,634.0,polygon,False,True,America/Chicago,2,72211 72210 72212 72223 72209 72202 72201 72206 72207 72204 72205 72103 72227 72215 72217 72219 72222 72225 72231 72255 72260 72295,1840015509
+121,Fayetteville,Fayetteville,AR,Arkansas,5143,Washington,36.0713,-94.166,351246,625.0,polygon,False,True,America/Chicago,2,72704 72703 72701 72702,1840013368
+353,Fort Smith,Fort Smith,AR,Arkansas,5131,Sebastian,35.3493,-94.3695,125354,536.0,polygon,False,True,America/Chicago,2,72901 72904 72908 72903 72923 72916 72905 72906 72913 72914 72917 72918 72919,1840013456
+572,Springdale,Springdale,AR,Arkansas,5143,Washington,36.1899,-94.1574,81125,668.0,polygon,False,True,America/Chicago,3,72764 72762 72765 72766,1840015336
+621,Jonesboro,Jonesboro,AR,Arkansas,5031,Craighead,35.8212,-90.6791,76247,377.0,polygon,False,True,America/Chicago,3,72467 72404 72401 72402 72403 72405,1840014507
+637,Conway,Conway,AR,Arkansas,5045,Faulkner,35.0754,-92.4694,74951,567.0,polygon,False,True,America/Chicago,3,72032 72035 72034,1840014598
+708,Rogers,Rogers,AR,Arkansas,5007,Benton,36.3172,-94.1526,68669,685.0,polygon,False,True,America/Chicago,3,72758 72756 72718 72716 72757,1840014444
+740,North Little Rock,North Little Rock,AR,Arkansas,5119,Pulaski,34.7808,-92.2371,65903,486.0,polygon,False,True,America/Chicago,3,72113 72116 72114 72118 72117 72115 72124 72190 72199 72214,1840014632
+813,Hot Springs,Hot Springs,AR,Arkansas,5051,Garland,34.4892,-93.0501,60767,400.0,polygon,False,True,America/Chicago,3,71901 71913 71902 71914,1840014670
+912,Bentonville,Bentonville,AR,Arkansas,5007,Benton,36.3546,-94.2306,54909,627.0,polygon,False,True,America/Chicago,3,72712,1840013319
+1098,Pine Bluff,Pine Bluff,AR,Arkansas,5069,Jefferson,34.2116,-92.0178,45204,365.0,polygon,False,True,America/Chicago,3,71602 71601 71603 71611 71612,1840014699
+1330,Benton,Benton,AR,Arkansas,5125,Saline,34.5775,-92.5712,36820,625.0,polygon,False,True,America/Chicago,3,72019 72015 72018 72158,1840013572
+1426,Russellville,Russellville,AR,Arkansas,5115,Pope,35.2763,-93.1383,34205,397.0,polygon,False,True,America/Chicago,3,72802 72801 72811,1840014541
+1538,Sherwood,Sherwood,AR,Arkansas,5119,Pulaski,34.8508,-92.2028,31436,582.0,polygon,False,True,America/Chicago,3,72120 72076 72117 72216,1840015511
+1623,Texarkana,Texarkana,AR,Arkansas,5091,Miller,33.4361,-93.996,29657,273.0,polygon,False,True,America/Chicago,3,71854,1840015708
+1659,Bella Vista,Bella Vista,AR,Arkansas,5007,Benton,36.4667,-94.2707,28872,246.0,polygon,False,True,America/Chicago,3,72714 72715,1840015287
+1692,Jacksonville,Jacksonville,AR,Arkansas,5119,Pulaski,34.8807,-92.1302,28235,381.0,polygon,False,True,America/Chicago,3,72099 72076 72078,1840014633
+1745,Paragould,Paragould,AR,Arkansas,5055,Greene,36.0555,-90.5149,27328,351.0,polygon,False,True,America/Chicago,3,72450 72451,1840014474
+1785,Searcy,Searcy,AR,Arkansas,5145,White,35.2418,-91.7351,26889,498.0,polygon,False,True,America/Chicago,3,72149 72143 72145,1840015429
+1816,Cabot,Cabot,AR,Arkansas,5085,Lonoke,34.9768,-92.0274,26352,490.0,polygon,False,True,America/Chicago,3,72023,1840013530
+1974,West Memphis,West Memphis,AR,Arkansas,5035,Crittenden,35.1531,-90.1995,24402,326.0,polygon,False,True,America/Chicago,3,72301 72364 72303,1840015448
+2036,Van Buren,Van Buren,AR,Arkansas,5033,Crawford,35.448,-94.3528,23683,593.0,polygon,False,True,America/Chicago,3,72956 72957,1840015397
+2180,Siloam Springs,Siloam Springs,AR,Arkansas,5007,Benton,36.1844,-94.5318,21975,580.0,polygon,False,True,America/Chicago,3,72761,1840015288
+2277,Bryant,Bryant,AR,Arkansas,5125,Saline,34.6152,-92.4914,20968,395.0,polygon,False,True,America/Chicago,3,72002 72022 72089,1840013573
+2578,Maumelle,Maumelle,AR,Arkansas,5119,Pulaski,34.8522,-92.4,18199,582.0,polygon,False,True,America/Chicago,3,72113,1840015510
+2651,El Dorado,El Dorado,AR,Arkansas,5139,Union,33.2184,-92.664,17706,420.0,polygon,False,True,America/Chicago,3,71730 71731,1840013773
+2847,Centerton,Centerton,AR,Arkansas,5007,Benton,36.3567,-94.2971,16244,461.0,polygon,False,True,America/Chicago,3,72712 72719,1840014441
+2930,Blytheville,Blytheville,AR,Arkansas,5093,Mississippi,35.9321,-89.9051,15693,250.0,polygon,False,True,America/Chicago,3,72315 72316,1840013390
+3102,Hot Springs Village,Hot Springs Village,AR,Arkansas,5125,Saline,34.6568,-92.9644,14466,98.0,polygon,False,False,America/Chicago,3,71909 71910,1840013587
+3124,Mountain Home,Mountain Home,AR,Arkansas,5005,Baxter,36.3348,-92.3846,14317,407.0,polygon,False,True,America/Chicago,3,72653 72654,1840014452
+3166,Harrison,Harrison,AR,Arkansas,5009,Boone,36.2438,-93.1198,14097,450.0,polygon,False,True,America/Chicago,3,72601 72602,1840013327
+3542,Marion,Marion,AR,Arkansas,5035,Crittenden,35.2041,-90.2061,12310,234.0,polygon,False,True,America/Chicago,3,72364,1840015445
+3543,Forrest City,Forrest City,AR,Arkansas,5123,St. Francis,35.0135,-90.7931,12309,263.0,polygon,False,True,America/Chicago,3,72322 72335 72336,1840013522
+3567,Batesville,Batesville,AR,Arkansas,5063,Independence,35.7687,-91.6226,12220,362.0,polygon,False,True,America/Chicago,3,72501,1840013398
+3651,Malvern,Malvern,AR,Arkansas,5059,Hot Spring,34.3734,-92.8205,11851,427.0,polygon,False,True,America/Chicago,3,72104,1840015563
+3999,Arkadelphia,Arkadelphia,AR,Arkansas,5019,Clark,34.1255,-93.0725,10503,560.0,polygon,False,True,America/Chicago,3,71923 71999 71998,1840013638
+4047,Magnolia,Magnolia,AR,Arkansas,5027,Columbia,33.2774,-93.2261,10339,335.0,polygon,False,True,America/Chicago,3,71753 71754,1840015726
+4117,Camden,Camden,AR,Arkansas,5103,Ouachita,33.5672,-92.8467,10058,251.0,polygon,False,True,America/Chicago,3,71701,1840013736
+4258,Lowell,Lowell,AR,Arkansas,5007,Benton,36.2561,-94.1532,9544,382.0,polygon,False,True,America/Chicago,3,72745,1840015285
+4278,Hope,Hope,AR,Arkansas,5057,Hempstead,33.6682,-93.5895,9499,346.0,polygon,False,True,America/Chicago,3,71801 71802,1840014765
+4282,Helena-West Helena,Helena-West Helena,AR,Arkansas,5107,Phillips,34.5314,-90.6201,9493,303.0,polygon,False,True,America/Chicago,3,72390 72342,1840027858
+4308,Monticello,Monticello,AR,Arkansas,5043,Drew,33.6258,-91.7934,9409,332.0,polygon,False,True,America/Chicago,3,71655 71656 71657,1840014805
+4440,Greenwood,Greenwood,AR,Arkansas,5131,Sebastian,35.2134,-94.2408,9063,335.0,polygon,False,True,America/Chicago,3,72936,1840013457
+4696,Stuttgart,Stuttgart,AR,Arkansas,5001,Arkansas,34.495,-91.5485,8404,437.0,polygon,False,True,America/Chicago,3,72160,1840015556
+4977,Clarksville,Clarksville,AR,Arkansas,5071,Johnson,35.457,-93.4803,7780,203.0,polygon,False,True,America/Chicago,3,72830,1840014533
+5112,Beebe,Beebe,AR,Arkansas,5145,White,35.0712,-91.8996,7497,308.0,polygon,False,True,America/Chicago,3,72012,1840013439
+5154,Farmington,Farmington,AR,Arkansas,5143,Washington,36.037,-94.2537,7400,290.0,polygon,False,True,America/Chicago,3,72730,1840013367
+5285,Wynne,Wynne,AR,Arkansas,5037,Cross,35.2322,-90.7894,7152,331.0,polygon,False,True,America/Chicago,3,72396,1840015443
+5315,Osceola,Osceola,AR,Arkansas,5093,Mississippi,35.6942,-89.9934,7085,272.0,polygon,False,True,America/Chicago,3,72370,1840014501
+5354,East End,East End,AR,Arkansas,5125,Saline,34.5554,-92.3261,7019,135.0,polygon,False,False,America/Chicago,3,72065 72206 72103,1840013086
+5454,Trumann,Trumann,AR,Arkansas,5111,Poinsett,35.6771,-90.5261,6826,463.0,polygon,False,True,America/Chicago,3,72472,1840015406
+5457,Crossett,Crossett,AR,Arkansas,5003,Ashley,33.128,-91.9631,6820,319.0,polygon,False,True,America/Chicago,3,71635,1840014838
+5573,Walnut Ridge,Walnut Ridge,AR,Arkansas,5075,Lawrence,36.0851,-90.9463,6568,118.0,polygon,False,True,America/Chicago,3,72476,1840015327
+5780,Pea Ridge,Pea Ridge,AR,Arkansas,5007,Benton,36.449,-94.1211,6211,336.0,polygon,False,True,America/Chicago,3,72751,1840014443
+5805,Morrilton,Morrilton,AR,Arkansas,5029,Conway,35.1558,-92.7387,6159,290.0,polygon,False,True,America/Chicago,3,72110,1840014564
+5810,De Queen,De Queen,AR,Arkansas,5133,Sevier,34.0426,-94.342,6153,420.0,polygon,False,True,America/Chicago,3,71832,1840014735
+5824,Heber Springs,Heber Springs,AR,Arkansas,5023,Cleburne,35.5003,-92.0332,6136,311.0,polygon,False,True,America/Chicago,3,72543 72545,1840014543
+5914,Newport,Newport,AR,Arkansas,5067,Jackson,35.6234,-91.2322,5965,212.0,polygon,False,True,America/Chicago,3,72112 72075,1840014516
+5965,Pocahontas,Pocahontas,AR,Arkansas,5121,Randolph,36.2637,-90.9706,5887,334.0,polygon,False,True,America/Chicago,3,72455,1840014448
+5987,Alma,Alma,AR,Arkansas,5033,Crawford,35.4919,-94.2165,5864,394.0,polygon,False,True,America/Chicago,3,72921,1840013420
+6286,Warren,Warren,AR,Arkansas,5011,Bradley,33.6113,-92.0677,5399,305.0,polygon,False,True,America/Chicago,3,71671,1840015696
+6317,Ward,Ward,AR,Arkansas,5085,Lonoke,35.0117,-91.9577,5358,478.0,polygon,False,True,America/Chicago,3,72007 72176,1840015504
+6382,Cave Springs,Cave Springs,AR,Arkansas,5007,Benton,36.2701,-94.2225,5276,257.0,polygon,False,True,America/Chicago,3,72712 72718,1840014440
+6389,Mena,Mena,AR,Arkansas,5113,Polk,34.5812,-94.2369,5261,307.0,polygon,False,True,America/Chicago,3,71953,1840015549
+6549,Barling,Barling,AR,Arkansas,5131,Sebastian,35.3284,-94.2792,5036,189.0,polygon,False,True,America/Chicago,3,72941 72923,1840013455
+6589,Berryville,Berryville,AR,Arkansas,5015,Carroll,36.3713,-93.5704,4974,352.0,polygon,False,True,America/Chicago,3,72616,1840013323
+6590,Gibson,Gibson,AR,Arkansas,5119,Pulaski,34.8923,-92.2341,4972,403.0,polygon,False,False,America/Chicago,3,72120,1840013533
+6595,White Hall,White Hall,AR,Arkansas,5069,Jefferson,34.2737,-92.1005,4963,274.0,polygon,False,True,America/Chicago,3,71602,1840015566
+6614,Prairie Grove,Prairie Grove,AR,Arkansas,5143,Washington,35.9858,-94.3048,4943,280.0,polygon,False,True,America/Chicago,3,72753 72730,1840014481
+6646,Greenbrier,Greenbrier,AR,Arkansas,5045,Faulkner,35.2289,-92.3836,4898,275.0,polygon,False,True,America/Chicago,3,72058,1840013477
+6755,Sheridan,Sheridan,AR,Arkansas,5053,Grant,34.2995,-92.4226,4773,160.0,polygon,False,True,America/Chicago,3,72150,1840015565
+6885,Vilonia,Vilonia,AR,Arkansas,5045,Faulkner,35.0807,-92.2088,4623,223.0,polygon,False,True,America/Chicago,3,72173,1840015465
+6901,Rockwell,Rockwell,AR,Arkansas,5051,Garland,34.4641,-93.1341,4607,566.0,polygon,False,False,America/Chicago,3,71913,1840027857
+6904,Haskell,Haskell,AR,Arkansas,5125,Saline,34.5095,-92.6406,4605,361.0,polygon,False,True,America/Chicago,3,72015,1840013571
+6966,Dardanelle,Dardanelle,AR,Arkansas,5149,Yell,35.2263,-93.1649,4541,481.0,polygon,False,True,America/Chicago,3,72834,1840014607
+7129,Piney,Piney,AR,Arkansas,5051,Garland,34.5024,-93.142,4380,260.0,polygon,False,False,America/Chicago,3,71913,1840013589
+7147,Tontitown,Tontitown,AR,Arkansas,5143,Washington,36.1642,-94.2457,4358,93.0,polygon,False,True,America/Chicago,3,72762 72770,1840015337
+7200,Dumas,Dumas,AR,Arkansas,5041,Desha,33.8849,-91.4861,4319,486.0,polygon,False,True,America/Chicago,3,71639,1840013683
+7282,Nashville,Nashville,AR,Arkansas,5061,Howard,33.9418,-93.8516,4253,309.0,polygon,False,True,America/Chicago,3,71852,1840014709
+7460,Austin,Austin,AR,Arkansas,5085,Lonoke,35.0061,-91.9895,4079,517.0,polygon,False,True,America/Chicago,3,72007 72176,1840013528
+7519,Gentry,Gentry,AR,Arkansas,5007,Benton,36.257,-94.4907,4023,303.0,polygon,False,True,America/Chicago,3,72734,1840013317
+7538,Lonoke,Lonoke,AR,Arkansas,5085,Lonoke,34.7908,-91.9069,4003,331.0,polygon,False,True,America/Chicago,3,72086,1840015502
+7552,Shannon Hills,Shannon Hills,AR,Arkansas,5125,Saline,34.6157,-92.4217,3990,583.0,polygon,False,True,America/Chicago,3,72002 72103,1840015541
+7553,Southside,Southside,AR,Arkansas,5063,Independence,35.7149,-91.6329,3989,156.0,polygon,False,True,America/Chicago,3,72501,1840027852
+7676,Ashdown,Ashdown,AR,Arkansas,5081,Little River,33.6746,-94.1264,3862,238.0,polygon,False,True,America/Chicago,3,71822,1840013711
+7819,Johnson,Johnson,AR,Arkansas,5143,Washington,36.1328,-94.1757,3742,399.0,polygon,False,True,America/Chicago,3,72704 72762 72741,1840014482
+7899,Brookland,Brookland,AR,Arkansas,5031,Craighead,35.8991,-90.5767,3674,181.0,polygon,False,True,America/Chicago,3,72417,1840015370
+8084,Gravette,Gravette,AR,Arkansas,5007,Benton,36.4291,-94.3714,3516,88.0,polygon,False,True,America/Chicago,3,72739 72736,1840013318
+8122,Elkins,Elkins,AR,Arkansas,5143,Washington,36.0163,-94.025,3487,332.0,polygon,False,True,America/Chicago,3,72701 72727,1840013365
+8169,Alexander,Alexander,AR,Arkansas,5119,Pulaski,34.6185,-92.4512,3457,592.0,polygon,False,True,America/Chicago,3,72002,1840013537
+8204,Cherokee Village,Cherokee Village,AR,Arkansas,5135,Sharp,36.2959,-91.5696,3435,88.0,polygon,False,True,America/Chicago,3,72529,1840014446
+8256,McGehee,McGehee,AR,Arkansas,5041,Desha,33.628,-91.3953,3403,213.0,polygon,False,True,America/Chicago,3,71654,1840015630
+8367,Pottsville,Pottsville,AR,Arkansas,5115,Pope,35.2314,-93.0652,3327,93.0,polygon,False,True,America/Chicago,3,72858 72802,1840014540
+8390,Fordyce,Fordyce,AR,Arkansas,5039,Dallas,33.8181,-92.4174,3311,209.0,polygon,False,True,America/Chicago,3,71742,1840013679
+8433,Landmark,Landmark,AR,Arkansas,5119,Pulaski,34.607,-92.3206,3279,137.0,polygon,False,False,America/Chicago,3,72206,1840027803
+8571,North Crossett,North Crossett,AR,Arkansas,5003,Ashley,33.171,-91.9367,3184,119.0,polygon,False,False,America/Chicago,3,71635,1840013771
+8602,Booneville,Booneville,AR,Arkansas,5083,Logan,35.1393,-93.9179,3164,370.0,polygon,False,True,America/Chicago,3,72927,1840013466
+8627,Piggott,Piggott,AR,Arkansas,5021,Clay,36.3858,-90.2017,3150,254.0,polygon,False,True,America/Chicago,3,72454,1840014457
+8634,Marianna,Marianna,AR,Arkansas,5077,Lee,34.7736,-90.7674,3145,363.0,polygon,False,True,America/Chicago,3,72360,1840015534
+8652,Manila,Manila,AR,Arkansas,5093,Mississippi,35.8848,-90.1653,3138,347.0,polygon,False,True,America/Chicago,3,72442,1840015363
+8686,Gosnell,Gosnell,AR,Arkansas,5093,Mississippi,35.9645,-89.9721,3116,720.0,polygon,False,True,America/Chicago,3,72315 72319,1840013389
+8696,Waldron,Waldron,AR,Arkansas,5127,Scott,34.902,-94.0953,3104,228.0,polygon,False,True,America/Chicago,3,72958,1840015500
+8737,Ozark,Ozark,AR,Arkansas,5047,Franklin,35.4995,-93.8431,3076,178.0,polygon,False,True,America/Chicago,3,72949 72820,1840014531
+8791,Atkins,Atkins,AR,Arkansas,5115,Pope,35.2414,-92.9465,3037,191.0,polygon,False,True,America/Chicago,3,72823,1840013422
+8814,Dermott,Dermott,AR,Arkansas,5017,Chicot,33.5271,-91.4324,3019,280.0,polygon,False,True,America/Chicago,3,71638,1840014820
+8853,Paris,Paris,AR,Arkansas,5083,Logan,35.2894,-93.7253,2993,284.0,polygon,False,True,America/Chicago,3,72855,1840014586
+9004,DeWitt,DeWitt,AR,Arkansas,5001,Arkansas,34.2873,-91.3383,2906,387.0,polygon,False,True,America/Chicago,3,72042,1840027649
+9041,Corning,Corning,AR,Arkansas,5021,Clay,36.4111,-90.5861,2877,368.0,polygon,False,True,America/Chicago,3,72422,1840014455
+9061,Mountain View,Mountain View,AR,Arkansas,5137,Stone,35.8635,-92.1041,2863,151.0,polygon,False,True,America/Chicago,3,72560,1840014491
+9185,Little Flock,Little Flock,AR,Arkansas,5007,Benton,36.3854,-94.1364,2786,143.0,polygon,False,True,America/Chicago,3,72756,1840015284
+9204,Bethel Heights,Bethel Heights,AR,Arkansas,5007,Benton,36.2262,-94.1282,2771,482.0,polygon,False,True,America/Chicago,3,72764,1840013320
+9428,West Fork,West Fork,AR,Arkansas,5143,Washington,35.9357,-94.1799,2655,277.0,polygon,False,True,America/Chicago,3,72774,1840015338
+9436,Lake City,Lake City,AR,Arkansas,5031,Craighead,35.8202,-90.4546,2650,324.0,polygon,False,True,America/Chicago,3,72437,1840014508
+9453,Green Forest,Green Forest,AR,Arkansas,5015,Carroll,36.3344,-93.4286,2643,477.0,polygon,False,True,America/Chicago,3,72638,1840013322
+9481,England,England,AR,Arkansas,5085,Lonoke,34.546,-91.969,2629,480.0,polygon,False,True,America/Chicago,3,72046,1840013529
+9535,Hoxie,Hoxie,AR,Arkansas,5075,Lawrence,36.036,-90.9736,2601,150.0,polygon,False,True,America/Chicago,3,72433 72476,1840014478
+9603,Huntsville,Huntsville,AR,Arkansas,5087,Madison,36.0985,-93.7363,2569,184.0,polygon,False,True,America/Chicago,3,72740,1840014469
+9711,Clinton,Clinton,AR,Arkansas,5141,Van Buren,35.5796,-92.4543,2520,71.0,polygon,False,True,America/Chicago,3,72031,1840014529
+9722,Prescott,Prescott,AR,Arkansas,5099,Nevada,33.8056,-93.3909,2515,178.0,polygon,False,True,America/Chicago,3,71857,1840014784
+9762,Bald Knob,Bald Knob,AR,Arkansas,5145,White,35.3123,-91.5709,2491,223.0,polygon,False,True,America/Chicago,3,72010,1840013438
+9774,Bono,Bono,AR,Arkansas,5031,Craighead,35.9112,-90.8009,2484,360.0,polygon,False,True,America/Chicago,3,72416,1840013396
+9781,Hamburg,Hamburg,AR,Arkansas,5003,Ashley,33.2248,-91.7972,2482,292.0,polygon,False,True,America/Chicago,3,71646,1840013772
+9782,Lincoln,Lincoln,AR,Arkansas,5143,Washington,35.949,-94.4174,2481,335.0,polygon,False,True,America/Chicago,3,72744,1840015335
+9814,Elm Springs,Elm Springs,AR,Arkansas,5143,Washington,36.2069,-94.2366,2472,166.0,polygon,False,True,America/Chicago,3,72762 72728,1840013366
+9825,Charleston,Charleston,AR,Arkansas,5047,Franklin,35.2954,-94.0461,2467,228.0,polygon,False,True,America/Chicago,3,72933,1840014530
+9896,Lavaca,Lavaca,AR,Arkansas,5131,Sebastian,35.3341,-94.1799,2427,421.0,polygon,False,True,America/Chicago,3,72941,1840014577
+9913,Marked Tree,Marked Tree,AR,Arkansas,5111,Poinsett,35.5251,-90.4251,2420,161.0,polygon,False,True,America/Chicago,3,72365,1840015405
+9946,Prairie Creek,Prairie Creek,AR,Arkansas,5007,Benton,36.34,-94.0613,2404,213.0,polygon,False,False,America/Chicago,3,72756,1840027774
+9968,Danville,Danville,AR,Arkansas,5149,Yell,35.053,-93.3902,2393,215.0,polygon,False,True,America/Chicago,3,72833,1840014606
+9974,Mayflower,Mayflower,AR,Arkansas,5045,Faulkner,34.9686,-92.4225,2391,234.0,polygon,False,True,America/Chicago,3,72106,1840015464
+10133,Harrisburg,Harrisburg,AR,Arkansas,5111,Poinsett,35.5637,-90.7216,2309,368.0,polygon,False,True,America/Chicago,3,72432,1840013426
+10351,Lake Village,Lake Village,AR,Arkansas,5017,Chicot,33.3299,-91.2847,2203,334.0,polygon,False,True,America/Chicago,3,71653,1840014821
+10376,Fairfield Bay,Fairfield Bay,AR,Arkansas,5141,Van Buren,35.605,-92.2658,2189,55.0,polygon,False,True,America/Chicago,3,72088,1840013414
+10398,Earle,Earle,AR,Arkansas,5035,Crittenden,35.2734,-90.4642,2179,259.0,polygon,False,True,America/Chicago,3,72331,1840013462
+10430,Gassville,Gassville,AR,Arkansas,5005,Baxter,36.285,-92.4868,2158,242.0,polygon,False,True,America/Chicago,3,72635,1840013330
+10441,Carlisle,Carlisle,AR,Arkansas,5085,Lonoke,34.7947,-91.7361,2156,171.0,polygon,False,True,America/Chicago,3,72024,1840014628
+10503,Wrightsville,Wrightsville,AR,Arkansas,5119,Pulaski,34.6109,-92.2136,2131,388.0,polygon,False,True,America/Chicago,3,72206 72183,1840015512
+10514,Glenwood,Glenwood,AR,Arkansas,5109,Pike,34.3279,-93.5309,2128,92.0,polygon,False,True,America/Chicago,3,71943,1840013636
+10515,Lake Hamilton,Lake Hamilton,AR,Arkansas,5051,Garland,34.4269,-93.0887,2128,422.0,polygon,False,False,America/Chicago,3,71913,1840013588
+10552,Horseshoe Bend,Horseshoe Bend,AR,Arkansas,5065,Izard,36.2217,-91.7396,2109,61.0,polygon,False,True,America/Chicago,3,72512,1840014476
+10555,Holiday Island,Holiday Island,AR,Arkansas,5015,Carroll,36.4762,-93.7342,2108,75.0,polygon,False,False,America/Chicago,3,72631,1840027804
+10560,Eureka Springs,Eureka Springs,AR,Arkansas,5015,Carroll,36.4105,-93.745,2106,120.0,polygon,False,True,America/Chicago,3,72632,1840013321
+10613,Gurdon,Gurdon,AR,Arkansas,5019,Clark,33.9155,-93.1544,2085,331.0,polygon,False,True,America/Chicago,3,71743,1840013639
+10697,Brinkley,Brinkley,AR,Arkansas,5095,Monroe,34.89,-91.1902,2054,175.0,polygon,False,True,America/Chicago,3,72021,1840013541
+10720,Salem,Salem,AR,Arkansas,5125,Saline,34.631,-92.5608,2047,253.0,polygon,False,False,America/Chicago,3,72019,1840150803
+10755,Star City,Star City,AR,Arkansas,5079,Lincoln,33.9408,-91.84,2030,163.0,polygon,False,True,America/Chicago,3,71667,1840015611
+10790,McAlmont,McAlmont,AR,Arkansas,5119,Pulaski,34.7926,-92.1959,2017,500.0,polygon,False,False,America/Chicago,3,72117,1840013538
+10850,Judsonia,Judsonia,AR,Arkansas,5145,White,35.277,-91.6411,1994,266.0,polygon,False,True,America/Chicago,3,72081,1840014554
+10958,Augusta,Augusta,AR,Arkansas,5147,Woodruff,35.2866,-91.3614,1947,359.0,polygon,False,True,America/Chicago,3,72006,1840013461
+10959,Bull Shoals,Bull Shoals,AR,Arkansas,5089,Marion,36.3747,-92.5903,1946,153.0,polygon,False,True,America/Chicago,3,72619,1840013329
+10971,Goshen,Goshen,AR,Arkansas,5143,Washington,36.1043,-94.0035,1941,65.0,polygon,False,True,America/Chicago,3,72703 72727 72735,1840016153
+11010,Cave City,Cave City,AR,Arkansas,5135,Sharp,35.9481,-91.5468,1927,290.0,polygon,False,True,America/Chicago,3,72521,1840014445
+11065,Eudora,Eudora,AR,Arkansas,5017,Chicot,33.119,-91.264,1903,237.0,polygon,False,True,America/Chicago,3,71640,1840013754
+11179,Melbourne,Melbourne,AR,Arkansas,5065,Izard,36.0638,-91.8819,1868,103.0,polygon,False,True,America/Chicago,3,72573 72556,1840015325
+11196,Leachville,Leachville,AR,Arkansas,5093,Mississippi,35.9042,-90.2622,1864,161.0,polygon,False,True,America/Chicago,3,72438,1840014503
+11319,Bay,Bay,AR,Arkansas,5031,Craighead,35.7456,-90.5547,1821,227.0,polygon,False,True,America/Chicago,3,72411,1840013395
+11355,Lepanto,Lepanto,AR,Arkansas,5111,Poinsett,35.6085,-90.333,1807,446.0,polygon,False,True,America/Chicago,3,72354,1840014545
+11413,Decatur,Decatur,AR,Arkansas,5007,Benton,36.3402,-94.4578,1790,154.0,polygon,False,True,America/Chicago,3,72722,1840014442
+11525,Calico Rock,Calico Rock,AR,Arkansas,5065,Izard,36.1399,-92.1337,1746,143.0,polygon,False,True,America/Chicago,3,72519,1840013352
+11566,Rector,Rector,AR,Arkansas,5021,Clay,36.2642,-90.2935,1732,490.0,polygon,False,True,America/Chicago,3,72461,1840014459
+11607,Lamar,Lamar,AR,Arkansas,5071,Johnson,35.4436,-93.3951,1722,144.0,polygon,False,True,America/Chicago,3,72846,1840014535
+11704,Mulberry,Mulberry,AR,Arkansas,5033,Crawford,35.5102,-94.0734,1692,85.0,polygon,False,True,America/Chicago,3,72947,1840014538
+11717,Smackover,Smackover,AR,Arkansas,5139,Union,33.3636,-92.7314,1688,149.0,polygon,False,True,America/Chicago,3,71762,1840015732
+11734,Tuckerman,Tuckerman,AR,Arkansas,5067,Jackson,35.724,-91.2025,1682,218.0,polygon,False,True,America/Chicago,3,72473,1840015378
+11942,Kensett,Kensett,AR,Arkansas,5145,White,35.2354,-91.6706,1617,341.0,polygon,False,True,America/Chicago,3,72082,1840014555
+12016,Monette,Monette,AR,Arkansas,5031,Craighead,35.8931,-90.3442,1595,108.0,polygon,False,True,America/Chicago,3,72447,1840014506
+12056,Murfreesboro,Murfreesboro,AR,Arkansas,5109,Pike,34.0546,-93.6834,1586,162.0,polygon,False,True,America/Chicago,3,71958,1840014711
+12063,Des Arc,Des Arc,AR,Arkansas,5117,Prairie,34.9777,-91.5068,1582,290.0,polygon,False,True,America/Chicago,3,72040,1840014624
+12292,Redfield,Redfield,AR,Arkansas,5069,Jefferson,34.4429,-92.1843,1514,188.0,polygon,False,True,America/Chicago,3,72132,1840014700
+12386,McCrory,McCrory,AR,Arkansas,5147,Woodruff,35.2572,-91.1974,1488,243.0,polygon,False,True,America/Chicago,3,72101,1840015444
+12479,Stamps,Stamps,AR,Arkansas,5073,Lafayette,33.3567,-93.4956,1465,185.0,polygon,False,True,America/Chicago,3,71860,1840015724
+12513,Perryville,Perryville,AR,Arkansas,5105,Perry,35.012,-92.803,1458,131.0,polygon,False,True,America/Chicago,3,72126,1840014622
+12582,Dover,Dover,AR,Arkansas,5115,Pope,35.391,-93.1143,1440,196.0,polygon,False,True,America/Chicago,3,72837,1840013423
+12689,Cedarville,Cedarville,AR,Arkansas,5033,Crawford,35.583,-94.3615,1410,61.0,polygon,False,True,America/Chicago,3,72932,1840014536
+12718,Greenland,Greenland,AR,Arkansas,5143,Washington,35.9965,-94.1903,1403,137.0,polygon,False,True,America/Chicago,3,72701 72737,1840013369
+12877,Clarendon,Clarendon,AR,Arkansas,5095,Monroe,34.6935,-91.3062,1361,287.0,polygon,False,True,America/Chicago,3,72029,1840014634
+12954,Hazen,Hazen,AR,Arkansas,5117,Prairie,34.7966,-91.5725,1344,147.0,polygon,False,True,America/Chicago,3,72064,1840014625
+12988,Marshall,Marshall,AR,Arkansas,5129,Searcy,35.9083,-92.6459,1336,126.0,polygon,False,True,America/Chicago,3,72650,1840015352
+13041,Flippin,Flippin,AR,Arkansas,5089,Marion,36.2774,-92.5935,1322,271.0,polygon,False,True,America/Chicago,3,72634,1840013328
+13226,Caraway,Caraway,AR,Arkansas,5031,Craighead,35.7598,-90.3224,1282,214.0,polygon,False,True,America/Chicago,3,72419,1840014505
+13272,Avilla,Avilla,AR,Arkansas,5125,Saline,34.6988,-92.5813,1273,83.0,polygon,False,False,America/Chicago,3,72002,1840025843
+13313,Waldo,Waldo,AR,Arkansas,5027,Columbia,33.3528,-93.2949,1265,209.0,polygon,False,True,America/Chicago,3,71770,1840015729
+13343,Hampton,Hampton,AR,Arkansas,5013,Calhoun,33.5363,-92.4661,1258,160.0,polygon,False,True,America/Chicago,3,71744,1840013741
+13379,Marmaduke,Marmaduke,AR,Arkansas,5055,Greene,36.1901,-90.3851,1251,345.0,polygon,False,True,America/Chicago,3,72443,1840015322
+13555,Hughes,Hughes,AR,Arkansas,5123,St. Francis,34.9483,-90.4707,1216,207.0,polygon,False,True,America/Chicago,3,72348,1840014621
+13567,Rison,Rison,AR,Arkansas,5025,Cleveland,33.96,-92.1937,1212,142.0,polygon,False,True,America/Chicago,3,71665,1840014761
+13583,Ola,Ola,AR,Arkansas,5149,Yell,35.031,-93.2244,1209,274.0,polygon,False,True,America/Chicago,3,72853,1840014608
+13587,Diaz,Diaz,AR,Arkansas,5067,Jackson,35.6478,-91.262,1208,78.0,polygon,False,True,America/Chicago,3,72112 72043,1840014515
+13628,Newark,Newark,AR,Arkansas,5063,Independence,35.7083,-91.4432,1199,268.0,polygon,False,True,America/Chicago,3,72562,1840014511
+13710,West Crossett,West Crossett,AR,Arkansas,5003,Ashley,33.1488,-92.0221,1181,38.0,polygon,False,False,America/Chicago,3,71635,1840013770
+13837,Yellville,Yellville,AR,Arkansas,5089,Marion,36.2289,-92.686,1156,179.0,polygon,False,True,America/Chicago,3,72687,1840015300
+13887,Mineral Springs,Mineral Springs,AR,Arkansas,5061,Howard,33.8767,-93.9218,1148,197.0,polygon,False,True,America/Chicago,3,71851,1840014708
+14044,Lewisville,Lewisville,AR,Arkansas,5073,Lafayette,33.3643,-93.5751,1114,200.0,polygon,False,True,America/Chicago,3,71845,1840014835
+14045,Wooster,Wooster,AR,Arkansas,5045,Faulkner,35.1998,-92.4503,1113,149.0,polygon,False,True,America/Chicago,3,72058,1840016418
+14071,Highland,Highland,AR,Arkansas,5135,Sharp,36.2657,-91.5186,1107,48.0,polygon,False,True,America/Chicago,3,72542,1840014447
+14115,Ash Flat,Ash Flat,AR,Arkansas,5135,Sharp,36.2365,-91.6067,1098,67.0,polygon,False,True,America/Chicago,3,72513,1840013324
+14122,Mansfield,Mansfield,AR,Arkansas,5131,Sebastian,35.0634,-94.2375,1096,183.0,polygon,False,True,America/Chicago,3,72944,1840015442
+14191,Dierks,Dierks,AR,Arkansas,5061,Howard,34.12,-94.0173,1082,217.0,polygon,False,True,America/Chicago,3,71833,1840014707
+14246,Oak Grove Heights,Oak Grove Heights,AR,Arkansas,5055,Greene,36.1271,-90.5085,1074,138.0,polygon,False,True,America/Chicago,3,72450,1840016122
+14271,London,London,AR,Arkansas,5115,Pope,35.328,-93.2417,1067,129.0,polygon,False,True,America/Chicago,3,72847 72802,1840015402
+14463,Horatio,Horatio,AR,Arkansas,5133,Sevier,33.941,-94.3554,1030,222.0,polygon,False,True,America/Chicago,3,71842,1840014736
+14473,Kibler,Kibler,AR,Arkansas,5033,Crawford,35.4265,-94.2368,1028,84.0,polygon,False,True,America/Chicago,3,72956 72921,1840014539
+14477,Luxora,Luxora,AR,Arkansas,5093,Mississippi,35.7576,-89.9298,1027,465.0,polygon,False,True,America/Chicago,3,72358,1840015362
+14568,Coal Hill,Coal Hill,AR,Arkansas,5071,Johnson,35.4375,-93.6647,1011,133.0,polygon,False,True,America/Chicago,3,72840 72832,1840014534
+14606,Mount Ida,Mount Ida,AR,Arkansas,5097,Montgomery,34.5509,-93.6309,1005,247.0,polygon,False,True,America/Chicago,3,71957,1840014671
+14701,Parkin,Parkin,AR,Arkansas,5037,Cross,35.2629,-90.553,990,149.0,polygon,False,True,America/Chicago,3,72373,1840014579
+14862,Midway,Midway,AR,Arkansas,5005,Baxter,36.3916,-92.4724,965,67.0,polygon,False,False,America/Chicago,3,72651,1840150886
+14900,Mammoth Spring,Mammoth Spring,AR,Arkansas,5049,Fulton,36.4924,-91.5413,960,287.0,polygon,False,True,America/Chicago,3,72554,1840015291
+14973,Cotter,Cotter,AR,Arkansas,5005,Baxter,36.2819,-92.5212,950,152.0,polygon,False,True,America/Chicago,3,72635 72626,1840014451
+15121,Foreman,Foreman,AR,Arkansas,5081,Little River,33.7198,-94.3979,926,180.0,polygon,False,True,America/Chicago,3,71836,1840013712
+15198,Marvell,Marvell,AR,Arkansas,5107,Phillips,34.5563,-90.9153,916,246.0,polygon,False,True,America/Chicago,3,72366,1840015552
+15295,Dyer,Dyer,AR,Arkansas,5033,Crawford,35.4944,-94.1388,902,118.0,polygon,False,True,America/Chicago,3,72921 72935,1840013421
+15455,Fouke,Fouke,AR,Arkansas,5091,Miller,33.2622,-93.8852,878,250.0,polygon,False,True,America/Chicago,3,71837,1840013752
+15466,Tumbling Shoals,Tumbling Shoals,AR,Arkansas,5023,Cleburne,35.5479,-91.9688,876,34.0,polygon,False,False,America/Chicago,3,72581,1840025808
+15590,Bearden,Bearden,AR,Arkansas,5103,Ouachita,33.7276,-92.6187,858,205.0,polygon,False,True,America/Chicago,3,71720,1840013735
+15608,Greers Ferry,Greers Ferry,AR,Arkansas,5023,Cleburne,35.5674,-92.1688,856,45.0,polygon,False,True,America/Chicago,3,72067,1840013424
+15676,Kirby,Kirby,AR,Arkansas,5109,Pike,34.2556,-93.6522,846,22.0,polygon,False,False,America/Chicago,3,71921 71950,1840025860
+15697,Hackett,Hackett,AR,Arkansas,5131,Sebastian,35.1878,-94.4106,844,226.0,polygon,False,True,America/Chicago,3,72937,1840013458
+15822,Magazine,Magazine,AR,Arkansas,5083,Logan,35.1534,-93.8078,830,176.0,polygon,False,True,America/Chicago,3,72943,1840015450
+15912,East Camden,East Camden,AR,Arkansas,5103,Ouachita,33.6082,-92.7436,818,458.0,polygon,False,True,America/Chicago,3,71701,1840016808
+15929,Wilson,Wilson,AR,Arkansas,5093,Mississippi,35.5661,-90.043,815,300.0,polygon,False,True,America/Chicago,3,72395,1840015367
+15955,Altheimer,Altheimer,AR,Arkansas,5069,Jefferson,34.3242,-91.8481,811,152.0,polygon,False,True,America/Chicago,3,72004,1840013615
+16044,Diamond City,Diamond City,AR,Arkansas,5009,Boone,36.4575,-92.9129,800,109.0,polygon,False,True,America/Chicago,3,72630 72644,1840014450
+16117,Sulphur Springs,Sulphur Springs,AR,Arkansas,5069,Jefferson,34.1708,-92.1299,790,54.0,polygon,False,False,America/Chicago,3,71603,1840145348
+16138,Guy,Guy,AR,Arkansas,5045,Faulkner,35.3272,-92.3366,788,45.0,polygon,False,True,America/Chicago,3,72058 72061,1840016416
+16146,Stephens,Stephens,AR,Arkansas,5103,Ouachita,33.4221,-93.067,787,110.0,polygon,False,True,America/Chicago,3,71764,1840015675
+16176,Mountain Pine,Mountain Pine,AR,Arkansas,5051,Garland,34.5693,-93.1726,783,182.0,polygon,False,True,America/Chicago,3,71956,1840014669
+16187,Norphlet,Norphlet,AR,Arkansas,5139,Union,33.3199,-92.662,782,147.0,polygon,False,True,America/Chicago,3,71730 71759,1840014842
+16271,Plumerville,Plumerville,AR,Arkansas,5029,Conway,35.16,-92.6424,772,277.0,polygon,False,True,America/Chicago,3,72127,1840014566
+16278,Hermitage,Hermitage,AR,Arkansas,5011,Bradley,33.4471,-92.1712,771,275.0,polygon,False,True,America/Chicago,3,71647,1840015697
+16326,Hardy,Hardy,AR,Arkansas,5135,Sharp,36.3187,-91.4791,765,57.0,polygon,False,True,America/Chicago,3,72542 72525,1840013326
+16392,Knoxville,Knoxville,AR,Arkansas,5071,Johnson,35.378,-93.3632,756,91.0,polygon,False,True,America/Chicago,3,72845,1840016299
+16477,Wickes,Wickes,AR,Arkansas,5113,Polk,34.2988,-94.3331,747,124.0,polygon,False,True,America/Chicago,3,71973,1840016609
+16515,Oppelo,Oppelo,AR,Arkansas,5029,Conway,35.1003,-92.7733,743,118.0,polygon,False,True,America/Chicago,3,72110,1840014565
+16578,Bradford,Bradford,AR,Arkansas,5145,White,35.422,-91.4552,736,327.0,polygon,False,True,America/Chicago,3,72020,1840013440
+16596,Swifton,Swifton,AR,Arkansas,5067,Jackson,35.8245,-91.1294,734,513.0,polygon,False,True,America/Chicago,3,72471,1840015377
+16620,Higginson,Higginson,AR,Arkansas,5145,White,35.1968,-91.7152,731,222.0,polygon,False,True,America/Chicago,3,72143 72068,1840015430
+16632,Altus,Altus,AR,Arkansas,5047,Franklin,35.4465,-93.7643,729,150.0,polygon,False,True,America/Chicago,3,72821 72949,1840013417
+16674,Gould,Gould,AR,Arkansas,5079,Lincoln,33.9872,-91.564,724,180.0,polygon,False,True,America/Chicago,3,71643,1840013664
+16675,Lockesburg,Lockesburg,AR,Arkansas,5133,Sevier,33.9716,-94.1761,724,80.0,polygon,False,True,America/Chicago,3,71846,1840015607
+16702,Tyronza,Tyronza,AR,Arkansas,5111,Poinsett,35.4868,-90.3559,721,180.0,polygon,False,True,America/Chicago,3,72386,1840015407
+16723,Cammack Village,Cammack Village,AR,Arkansas,5119,Pulaski,34.7808,-92.3449,719,981.0,polygon,False,True,America/Chicago,3,72207,1840013539
+16724,Lakeview,Lakeview,AR,Arkansas,5005,Baxter,36.3739,-92.5387,719,266.0,polygon,False,True,America/Chicago,3,72642,1840014454
+16725,Quitman,Quitman,AR,Arkansas,5023,Cleburne,35.382,-92.2142,719,143.0,polygon,False,True,America/Chicago,3,72131,1840014542
+16767,Sweet Home,Sweet Home,AR,Arkansas,5119,Pulaski,34.6707,-92.2465,714,70.0,polygon,False,False,America/Chicago,3,72206 72164,1840013535
+16836,Rockport,Rockport,AR,Arkansas,5059,Hot Spring,34.4069,-92.8078,704,86.0,polygon,False,True,America/Chicago,3,72104,1840014698
+16971,Madison,Madison,AR,Arkansas,5123,St. Francis,35.0188,-90.7299,686,151.0,polygon,False,True,America/Chicago,3,72359 72335,1840015492
+16979,Amity,Amity,AR,Arkansas,5019,Clark,34.2662,-93.4634,685,82.0,polygon,False,True,America/Chicago,3,71921 71920,1840013637
+17021,Gillett,Gillett,AR,Arkansas,5001,Arkansas,34.1193,-91.3789,680,263.0,polygon,False,True,America/Chicago,3,72055,1840013606
+17030,Oxford,Oxford,AR,Arkansas,5065,Izard,36.2092,-91.919,679,38.0,polygon,False,True,America/Chicago,3,72517 72565,1840014475
+17055,Keiser,Keiser,AR,Arkansas,5093,Mississippi,35.674,-90.0958,676,702.0,polygon,False,True,America/Chicago,3,72351,1840014502
+17072,Weiner,Weiner,AR,Arkansas,5111,Poinsett,35.6197,-90.9054,674,190.0,polygon,False,True,America/Chicago,3,72479,1840015408
+17107,McRae,McRae,AR,Arkansas,5145,White,35.1119,-91.8253,669,383.0,polygon,False,True,America/Chicago,3,72102,1840015428
+17344,Caddo Valley,Caddo Valley,AR,Arkansas,5019,Clark,34.1897,-93.0679,642,80.0,polygon,False,True,America/Chicago,3,71923,1840015584
+17413,Highfill,Highfill,AR,Arkansas,5007,Benton,36.2767,-94.3237,635,13.0,polygon,False,True,America/Chicago,3,72734 72712,1840015290
+17463,Hartford,Hartford,AR,Arkansas,5131,Sebastian,35.0236,-94.3799,629,128.0,polygon,False,True,America/Chicago,3,72938,1840013459
+17545,Imboden,Imboden,AR,Arkansas,5075,Lawrence,36.2021,-91.1823,621,249.0,polygon,False,True,America/Chicago,3,72434,1840016132
+17546,Huntington,Huntington,AR,Arkansas,5131,Sebastian,35.0813,-94.2665,621,358.0,polygon,False,True,America/Chicago,3,72940,1840014576
+17618,Mountainburg,Mountainburg,AR,Arkansas,5033,Crawford,35.6361,-94.1679,613,155.0,polygon,False,True,America/Chicago,3,72946,1840014537
+17737,Black Rock,Black Rock,AR,Arkansas,5075,Lawrence,36.107,-91.1074,602,70.0,polygon,False,True,America/Chicago,3,72415 72476,1840013354
+17744,College Station,College Station,AR,Arkansas,5119,Pulaski,34.705,-92.2296,601,222.0,polygon,False,False,America/Chicago,3,72206 72053,1840013083
+17878,Summit,Summit,AR,Arkansas,5089,Marion,36.2522,-92.6883,590,188.0,polygon,False,True,America/Chicago,3,72687 72677,1840015299
+17952,Cherry Valley,Cherry Valley,AR,Arkansas,5037,Cross,35.4021,-90.7545,583,258.0,polygon,False,True,America/Chicago,3,72324,1840014578
+17986,Plainview,Plainview,AR,Arkansas,5149,Yell,34.9899,-93.2979,579,153.0,polygon,False,True,America/Chicago,3,72857,1840014609
+17987,Pangburn,Pangburn,AR,Arkansas,5145,White,35.4261,-91.8394,579,410.0,polygon,False,True,America/Chicago,3,72121,1840014553
+18003,Garfield,Garfield,AR,Arkansas,5007,Benton,36.4554,-93.9757,578,72.0,polygon,False,True,America/Chicago,3,72732,1840016074
+18009,Holland,Holland,AR,Arkansas,5045,Faulkner,35.166,-92.277,577,33.0,polygon,False,True,America/Chicago,3,72173 72032,1840014599
+18014,Palestine,Palestine,AR,Arkansas,5123,St. Francis,34.9689,-90.9062,576,70.0,polygon,False,True,America/Chicago,3,72372,1840014620
+18035,Grannis,Grannis,AR,Arkansas,5113,Polk,34.2398,-94.322,574,27.0,polygon,False,True,America/Chicago,3,71944,1840013592
+18036,Cotton Plant,Cotton Plant,AR,Arkansas,5147,Woodruff,35.0059,-91.252,574,213.0,polygon,False,True,America/Chicago,3,72036,1840014581
+18049,Magnet Cove,Magnet Cove,AR,Arkansas,5059,Hot Spring,34.4492,-92.8379,573,107.0,polygon,False,False,America/Chicago,3,72104,1840016651
+18050,Fountain Lake,Fountain Lake,AR,Arkansas,5051,Garland,34.6121,-92.9233,573,45.0,polygon,False,True,America/Chicago,3,71901,1840016598
+18108,Taylor,Taylor,AR,Arkansas,5027,Columbia,33.0998,-93.4618,567,220.0,polygon,False,True,America/Chicago,3,71861,1840015728
+18138,Bonanza,Bonanza,AR,Arkansas,5131,Sebastian,35.2335,-94.4168,564,77.0,polygon,False,True,America/Chicago,3,72916,1840013460
+18198,Subiaco,Subiaco,AR,Arkansas,5083,Logan,35.2982,-93.6385,558,113.0,polygon,False,True,America/Chicago,3,72855 72865,1840016393
+18238,Hartman,Hartman,AR,Arkansas,5071,Johnson,35.4353,-93.6235,556,135.0,polygon,False,True,America/Chicago,3,72840,1840013419
+18248,De Valls Bluff,De Valls Bluff,AR,Arkansas,5117,Prairie,34.7859,-91.4602,555,209.0,polygon,False,True,America/Chicago,3,72041,1840014623
+18249,Turrell,Turrell,AR,Arkansas,5035,Crittenden,35.3763,-90.2704,555,40.0,polygon,False,True,America/Chicago,3,72384,1840015447
+18344,Bauxite,Bauxite,AR,Arkansas,5125,Saline,34.5602,-92.4988,548,69.0,polygon,False,True,America/Chicago,3,72011,1840015540
+18345,Traskwood,Traskwood,AR,Arkansas,5125,Saline,34.4533,-92.6642,548,37.0,polygon,False,True,America/Chicago,3,72167,1840015542
+18443,Roland,Roland,AR,Arkansas,5119,Pulaski,34.9005,-92.5186,537,25.0,polygon,False,False,America/Chicago,3,72135,1840022810
+18457,Norfork,Norfork,AR,Arkansas,5005,Baxter,36.2099,-92.2801,536,91.0,polygon,False,True,America/Chicago,3,72658 72659,1840014453
+18533,Holly Grove,Holly Grove,AR,Arkansas,5095,Monroe,34.6003,-91.1963,528,201.0,polygon,False,True,America/Chicago,3,72069,1840014635
+18534,Huttig,Huttig,AR,Arkansas,5139,Union,33.0418,-92.1818,528,68.0,polygon,False,True,America/Chicago,3,71747,1840014843
+18546,Bradley,Bradley,AR,Arkansas,5073,Lafayette,33.0993,-93.6569,527,222.0,polygon,False,True,America/Chicago,3,71826,1840013765
+18583,Junction City,Junction City,AR,Arkansas,5139,Union,33.022,-92.7236,523,177.0,polygon,False,True,America/Chicago,3,71749,1840014844
+18651,Avoca,Avoca,AR,Arkansas,5007,Benton,36.398,-94.071,517,106.0,polygon,False,True,America/Chicago,3,72756,1840015286
+18735,Bergman,Bergman,AR,Arkansas,5009,Boone,36.3128,-93.0115,510,150.0,polygon,False,True,America/Chicago,3,72601,1840015298
+18801,Strong,Strong,AR,Arkansas,5139,Union,33.1079,-92.3598,504,175.0,polygon,False,True,America/Chicago,3,71765,1840015733
+18822,Central City,Central City,AR,Arkansas,5131,Sebastian,35.33,-94.2347,502,87.0,polygon,False,True,America/Chicago,3,72941,1840016378
+18854,Joiner,Joiner,AR,Arkansas,5093,Mississippi,35.5056,-90.15,500,313.0,polygon,False,True,America/Chicago,3,72350,1840027747
+18855,Leola,Leola,AR,Arkansas,5053,Grant,34.1701,-92.5914,500,225.0,polygon,False,True,America/Chicago,3,72084,1840016656
+18868,Elaine,Elaine,AR,Arkansas,5107,Phillips,34.3086,-90.8535,499,376.0,polygon,False,True,America/Chicago,3,72389 72333,1840013594
+18945,Wilmot,Wilmot,AR,Arkansas,5003,Ashley,33.0588,-91.5749,492,107.0,polygon,False,True,America/Chicago,3,71676,1840015731
+18988,Jasper,Jasper,AR,Arkansas,5101,Newton,36.0125,-93.1874,488,199.0,polygon,False,True,America/Chicago,3,72641,1840014492
+18989,Rose Bud,Rose Bud,AR,Arkansas,5145,White,35.3249,-92.0811,488,31.0,polygon,False,True,America/Chicago,3,72137,1840017838
+19033,Wilmar,Wilmar,AR,Arkansas,5043,Drew,33.6264,-91.9294,485,122.0,polygon,False,True,America/Chicago,3,71675,1840015684
+19111,Humphrey,Humphrey,AR,Arkansas,5001,Arkansas,34.4224,-91.7025,479,141.0,polygon,False,True,America/Chicago,3,72073,1840014685
+19123,Bellefonte,Bellefonte,AR,Arkansas,5009,Boone,36.1998,-93.047,478,296.0,polygon,False,True,America/Chicago,3,72601,1840015297
+19140,Gateway,Gateway,AR,Arkansas,5007,Benton,36.4854,-93.9365,477,28.0,polygon,False,True,America/Chicago,3,72732 72733,1840016075
+19221,McNeil,McNeil,AR,Arkansas,5027,Columbia,33.3479,-93.2083,470,143.0,polygon,False,True,America/Chicago,3,71752,1840015727
+19261,Sulphur Rock,Sulphur Rock,AR,Arkansas,5063,Independence,35.7516,-91.5003,467,144.0,polygon,False,True,America/Chicago,3,72579,1840016249
+19279,Hector,Hector,AR,Arkansas,5115,Pope,35.4644,-92.976,466,78.0,polygon,False,True,America/Chicago,3,72843,1840015403
+19338,Tull,Tull,AR,Arkansas,5053,Grant,34.441,-92.5779,462,44.0,polygon,False,True,America/Chicago,3,72015,1840016657
+19354,Lafe,Lafe,AR,Arkansas,5055,Greene,36.2092,-90.5043,461,87.0,polygon,False,True,America/Chicago,3,72436 72443,1840016120
+19355,Emmet,Emmet,AR,Arkansas,5099,Nevada,33.7227,-93.4657,461,123.0,polygon,False,True,America/Chicago,3,71835,1840013710
+19369,Salesville,Salesville,AR,Arkansas,5005,Baxter,36.241,-92.2769,460,39.0,polygon,False,True,America/Chicago,3,72653,1840015302
+19386,Cushman,Cushman,AR,Arkansas,5063,Independence,35.8658,-91.7781,459,43.0,polygon,False,True,America/Chicago,3,72501 72526,1840014510
+19419,Crawfordsville,Crawfordsville,AR,Arkansas,5035,Crittenden,35.2267,-90.3241,456,315.0,polygon,False,True,America/Chicago,3,72327,1840016383
+19420,Caldwell,Caldwell,AR,Arkansas,5123,St. Francis,35.0788,-90.8136,456,55.0,polygon,False,True,America/Chicago,3,72326 72322 72335,1840015493
+19478,Reyno,Reyno,AR,Arkansas,5121,Randolph,36.3609,-90.759,451,172.0,polygon,False,True,America/Chicago,3,72462 72413,1840014449
+19479,Ravenden,Ravenden,AR,Arkansas,5075,Lawrence,36.2417,-91.2511,451,82.0,polygon,False,True,America/Chicago,3,72459,1840017732
+19557,Calion,Calion,AR,Arkansas,5139,Union,33.3285,-92.5402,445,156.0,polygon,False,True,America/Chicago,3,71724 71730,1840013774
+19571,Evening Shade,Evening Shade,AR,Arkansas,5135,Sharp,36.0701,-91.6218,444,102.0,polygon,False,True,America/Chicago,3,72532,1840013325
+19645,Natural Steps,Natural Steps,AR,Arkansas,5119,Pulaski,34.8669,-92.4881,439,60.0,polygon,False,False,America/Chicago,3,72135,1840022809
+19767,Yarborough Landing,Yarborough Landing,AR,Arkansas,5081,Little River,33.7126,-94.0108,430,74.0,polygon,False,False,America/Chicago,3,71822,1840027800
+19849,Winslow,Winslow,AR,Arkansas,5143,Washington,35.8008,-94.1305,424,89.0,polygon,False,True,America/Chicago,3,72959,1840015339
+19944,Belleville,Belleville,AR,Arkansas,5149,Yell,35.0915,-93.4458,418,86.0,polygon,False,True,America/Chicago,3,72824,1840013487
+19954,Maynard,Maynard,AR,Arkansas,5121,Randolph,36.4214,-90.9018,417,137.0,polygon,False,True,America/Chicago,3,72444,1840016079
+19979,Mount Pleasant,Mount Pleasant,AR,Arkansas,5065,Izard,35.9818,-91.7771,415,45.0,polygon,False,True,America/Chicago,3,72561,1840016126
+19980,Leslie,Leslie,AR,Arkansas,5129,Searcy,35.8294,-92.5563,415,211.0,polygon,False,True,America/Chicago,3,72645,1840014494
+20120,Portia,Portia,AR,Arkansas,5075,Lawrence,36.0849,-91.0711,405,120.0,polygon,False,True,America/Chicago,3,72433 72457,1840017730
+20202,Kingsland,Kingsland,AR,Arkansas,5025,Cleveland,33.8658,-92.2911,400,137.0,polygon,False,True,America/Chicago,3,71652,1840014762
+20250,Alpena,Alpena,AR,Arkansas,5009,Boone,36.2896,-93.3037,397,115.0,polygon,False,True,America/Chicago,3,72611,1840015296
+20272,Oak Grove,Oak Grove,AR,Arkansas,5015,Carroll,36.4642,-93.4302,395,52.0,polygon,False,True,America/Chicago,3,72638 72660,1840027765
+20325,Edmondson,Edmondson,AR,Arkansas,5035,Crittenden,35.1041,-90.3052,391,47.0,polygon,False,True,America/Chicago,3,72376 72332,1840016384
+20326,Grady,Grady,AR,Arkansas,5079,Lincoln,34.079,-91.6981,391,81.0,polygon,False,True,America/Chicago,3,71644,1840013665
+20327,Patterson,Patterson,AR,Arkansas,5147,Woodruff,35.259,-91.2349,391,133.0,polygon,False,True,America/Chicago,3,72123 72101,1840014582
+20363,Hatfield,Hatfield,AR,Arkansas,5113,Polk,34.4859,-94.3793,388,116.0,polygon,False,True,America/Chicago,3,71945,1840016607
+20364,Portland,Portland,AR,Arkansas,5003,Ashley,33.2379,-91.511,388,139.0,polygon,False,True,America/Chicago,3,71663,1840014841
+20432,Damascus,Damascus,AR,Arkansas,5141,Van Buren,35.3671,-92.4108,383,79.0,polygon,False,True,America/Chicago,3,72039,1840016294
+20433,Thornton,Thornton,AR,Arkansas,5013,Calhoun,33.7756,-92.4889,383,76.0,polygon,False,True,America/Chicago,3,71766,1840015682
+20504,Center Ridge,Center Ridge,AR,Arkansas,5029,Conway,35.3806,-92.5702,378,16.0,polygon,False,False,America/Chicago,3,72027,1840025825
+20545,Sparkman,Sparkman,AR,Arkansas,5039,Dallas,33.9171,-92.85,375,112.0,polygon,False,True,America/Chicago,3,71763,1840015619
+20575,Cove,Cove,AR,Arkansas,5113,Polk,34.4366,-94.416,373,90.0,polygon,False,True,America/Chicago,3,71937,1840016606
+20626,New Edinburg,New Edinburg,AR,Arkansas,5025,Cleveland,33.7565,-92.2401,370,45.0,polygon,False,False,America/Chicago,3,71660,1840022909
+20718,Pleasant Plains,Pleasant Plains,AR,Arkansas,5063,Independence,35.5545,-91.6274,364,138.0,polygon,False,True,America/Chicago,3,72568,1840016251
+20738,Dyess,Dyess,AR,Arkansas,5093,Mississippi,35.5894,-90.2133,363,145.0,polygon,False,True,America/Chicago,3,72330 72391,1840016227
+20739,Dennard,Dennard,AR,Arkansas,5141,Van Buren,35.7498,-92.5394,363,6.0,polygon,False,False,America/Chicago,3,72645 72629,1840025804
+20740,Havana,Havana,AR,Arkansas,5149,Yell,35.1098,-93.526,363,233.0,polygon,False,True,America/Chicago,3,72842,1840014610
+20752,Norman,Norman,AR,Arkansas,5097,Montgomery,34.4584,-93.6791,362,124.0,polygon,False,True,America/Chicago,3,71960,1840016601
+20770,Western Grove,Western Grove,AR,Arkansas,5101,Newton,36.1011,-92.9546,361,129.0,polygon,False,True,America/Chicago,3,72685,1840016186
+20785,Cash,Cash,AR,Arkansas,5031,Craighead,35.8013,-90.9315,360,378.0,polygon,False,True,America/Chicago,3,72421,1840016237
+20786,Clarkedale,Clarkedale,AR,Arkansas,5035,Crittenden,35.297,-90.2103,360,12.0,polygon,False,True,America/Chicago,3,72325 72384 72364,1840014583
+20833,Viola,Viola,AR,Arkansas,5049,Fulton,36.3968,-91.9863,357,87.0,polygon,False,True,America/Chicago,3,72583,1840016076
+20867,Enola,Enola,AR,Arkansas,5045,Faulkner,35.1958,-92.2068,355,50.0,polygon,False,True,America/Chicago,3,72047,1840016415
+20897,Grubbs,Grubbs,AR,Arkansas,5067,Jackson,35.654,-91.0755,353,240.0,polygon,False,True,America/Chicago,3,72431 72112,1840013402
+20921,Lost Bridge Village,Lost Bridge Village,AR,Arkansas,5007,Benton,36.3898,-93.9156,351,41.0,polygon,False,False,America/Chicago,3,72732,1840027751
+20954,Fredonia,Fredonia,AR,Arkansas,5117,Prairie,34.8197,-91.4102,349,140.0,polygon,False,True,America/Chicago,3,72017,1840073884
+20975,Wilton,Wilton,AR,Arkansas,5081,Little River,33.7388,-94.148,347,104.0,polygon,False,True,America/Chicago,3,71822 71865,1840015653
+21007,Bigelow,Bigelow,AR,Arkansas,5105,Perry,34.9975,-92.6315,345,139.0,polygon,False,True,America/Chicago,3,72016,1840015499
+21048,Emerson,Emerson,AR,Arkansas,5027,Columbia,33.0973,-93.196,343,133.0,polygon,False,True,America/Chicago,3,71740,1840016871
+21084,Branch,Branch,AR,Arkansas,5047,Franklin,35.3075,-93.9556,341,42.0,polygon,False,True,America/Chicago,3,72928,1840013418
+21113,Mitchellville,Mitchellville,AR,Arkansas,5041,Desha,33.9053,-91.4983,339,1086.0,polygon,False,True,America/Chicago,3,71639,1840014751
+21114,Biggers,Biggers,AR,Arkansas,5121,Randolph,36.3319,-90.8052,339,130.0,polygon,False,True,America/Chicago,3,72413,1840015295
+21140,Twin Groves,Twin Groves,AR,Arkansas,5045,Faulkner,35.3187,-92.4253,337,28.0,polygon,False,True,America/Chicago,3,72039,1840016417
+21259,Colt,Colt,AR,Arkansas,5123,St. Francis,35.1329,-90.813,329,100.0,polygon,False,True,America/Chicago,3,72326,1840014619
+21353,Midland,Midland,AR,Arkansas,5131,Sebastian,35.0927,-94.3531,323,360.0,polygon,False,True,America/Chicago,3,72945 72937,1840016377
+21452,Etowah,Etowah,AR,Arkansas,5093,Mississippi,35.7225,-90.232,317,20.0,polygon,False,True,America/Chicago,3,72370 72428,1840016228
+21453,Menifee,Menifee,AR,Arkansas,5029,Conway,35.1493,-92.5544,317,54.0,polygon,False,True,America/Chicago,3,72107,1840016372
+21480,Arkansas City,Arkansas City,AR,Arkansas,5041,Desha,33.609,-91.2048,315,247.0,polygon,False,True,America/Chicago,3,71630,1840013682
+21612,Maysville,Maysville,AR,Arkansas,5007,Benton,36.4019,-94.5889,307,50.0,polygon,False,False,America/Chicago,3,72736,1840022677
+21635,Prattsville,Prattsville,AR,Arkansas,5053,Grant,34.3172,-92.5429,306,73.0,polygon,False,True,America/Chicago,3,72129,1840017948
+21673,Montrose,Montrose,AR,Arkansas,5003,Ashley,33.2989,-91.4965,304,310.0,polygon,False,True,America/Chicago,3,71658,1840014839
+21729,Blevins,Blevins,AR,Arkansas,5057,Hempstead,33.8716,-93.5778,301,116.0,polygon,False,True,America/Chicago,3,71825,1840013696
+21750,Donaldson,Donaldson,AR,Arkansas,5059,Hot Spring,34.235,-92.9195,300,196.0,polygon,False,True,America/Chicago,3,71941,1840016653
+21782,Wheatley,Wheatley,AR,Arkansas,5123,St. Francis,34.9211,-91.1063,298,37.0,polygon,False,True,America/Chicago,3,72392,1840015494
+21829,Carthage,Carthage,AR,Arkansas,5039,Dallas,34.0726,-92.5553,295,115.0,polygon,False,True,America/Chicago,3,71725 72084,1840014747
+22009,Garner,Garner,AR,Arkansas,5145,White,35.1418,-91.781,285,174.0,polygon,False,True,America/Chicago,3,72143,1840016340
+22067,Poyen,Poyen,AR,Arkansas,5053,Grant,34.3243,-92.642,282,355.0,polygon,False,True,America/Chicago,3,72128,1840017947
+22085,Perry,Perry,AR,Arkansas,5105,Perry,35.0458,-92.7948,281,154.0,polygon,False,True,America/Chicago,3,72125,1840016491
+22104,Strawberry,Strawberry,AR,Arkansas,5075,Lawrence,35.9665,-91.3211,280,46.0,polygon,False,True,America/Chicago,3,72469,1840016135
+22189,Shirley,Shirley,AR,Arkansas,5141,Van Buren,35.6442,-92.3137,275,44.0,polygon,False,True,America/Chicago,3,72153,1840017827
+22202,Humnoke,Humnoke,AR,Arkansas,5085,Lonoke,34.5422,-91.7596,274,336.0,polygon,False,True,America/Chicago,3,72072,1840014629
+22203,Oil Trough,Oil Trough,AR,Arkansas,5063,Independence,35.6292,-91.4612,274,462.0,polygon,False,True,America/Chicago,3,72564,1840016250
+22249,Horseshoe Lake,Horseshoe Lake,AR,Arkansas,5035,Crittenden,34.9136,-90.3079,272,685.0,polygon,False,True,America/Chicago,3,72348,1840016380
+22264,Delight,Delight,AR,Arkansas,5109,Pike,34.0299,-93.5057,271,232.0,polygon,False,True,America/Chicago,3,71940,1840014710
+22338,Woodson,Woodson,AR,Arkansas,5119,Pulaski,34.538,-92.2212,267,23.0,polygon,False,False,America/Chicago,3,72065 72206 72180,1840013536
+22371,Lead Hill,Lead Hill,AR,Arkansas,5009,Boone,36.4128,-92.9068,265,160.0,polygon,False,True,America/Chicago,3,72644 72643,1840016081
+22392,Black Oak,Black Oak,AR,Arkansas,5031,Craighead,35.8365,-90.3677,264,243.0,polygon,False,True,America/Chicago,3,72414,1840015369
+22393,Lynn,Lynn,AR,Arkansas,5075,Lawrence,36.0042,-91.252,264,44.0,polygon,False,True,America/Chicago,3,72469 72440,1840016133
+22435,Almyra,Almyra,AR,Arkansas,5001,Arkansas,34.4057,-91.4108,262,260.0,polygon,False,True,America/Chicago,3,72003,1840015555
+22456,Knobel,Knobel,AR,Arkansas,5021,Clay,36.32,-90.6022,261,239.0,polygon,False,True,America/Chicago,3,72435,1840014460
+22472,Chidester,Chidester,AR,Arkansas,5103,Ouachita,33.702,-93.0238,260,18.0,polygon,False,True,America/Chicago,3,71726,1840014799
+22494,Perrytown,Perrytown,AR,Arkansas,5057,Hempstead,33.6973,-93.5342,259,71.0,polygon,False,True,America/Chicago,3,71801,1840016765
+22632,Parkdale,Parkdale,AR,Arkansas,5003,Ashley,33.1212,-91.5464,252,95.0,polygon,False,True,America/Chicago,3,71661,1840014840
+22649,Keo,Keo,AR,Arkansas,5085,Lonoke,34.6088,-92.0104,251,19.0,polygon,False,True,America/Chicago,3,72083 72046,1840016496
+22659,Tollette,Tollette,AR,Arkansas,5061,Howard,33.8182,-93.8969,250,100.0,polygon,False,True,America/Chicago,3,71851,1840016690
+22709,Harrell,Harrell,AR,Arkansas,5013,Calhoun,33.5102,-92.4011,248,152.0,polygon,False,True,America/Chicago,3,71744 71745,1840016810
+22710,Denning,Denning,AR,Arkansas,5047,Franklin,35.4252,-93.7568,248,88.0,polygon,False,True,America/Chicago,3,72821 72949,1840016298
+22729,Perla,Perla,AR,Arkansas,5059,Hot Spring,34.3647,-92.7762,247,99.0,polygon,False,True,America/Chicago,3,72104,1840016655
+22750,Widener,Widener,AR,Arkansas,5123,St. Francis,35.0233,-90.6817,246,174.0,polygon,False,True,America/Chicago,3,72394,1840016480
+22751,Gilmore,Gilmore,AR,Arkansas,5035,Crittenden,35.4131,-90.2973,246,7.0,polygon,False,True,America/Chicago,3,72384 72339,1840013463
+22791,Letona,Letona,AR,Arkansas,5145,White,35.3635,-91.8296,244,242.0,polygon,False,True,America/Chicago,3,72085 72143,1840016339
+22851,Hickory Ridge,Hickory Ridge,AR,Arkansas,5037,Cross,35.403,-90.9946,241,143.0,polygon,False,True,America/Chicago,3,72347,1840014580
+22878,Briarcliff,Briarcliff,AR,Arkansas,5005,Baxter,36.2721,-92.2824,240,41.0,polygon,False,True,America/Chicago,3,72653,1840013331
+22918,Lexa,Lexa,AR,Arkansas,5107,Phillips,34.5982,-90.7519,238,223.0,polygon,False,True,America/Chicago,3,72355,1840016614
+22930,Rosston,Rosston,AR,Arkansas,5099,Nevada,33.5877,-93.2798,237,20.0,polygon,False,True,America/Chicago,3,71858,1840017997
+22946,Garland,Garland,AR,Arkansas,5091,Miller,33.3609,-93.7142,236,103.0,polygon,False,True,America/Chicago,3,71839,1840016838
+22994,Concord,Concord,AR,Arkansas,5023,Cleburne,35.6625,-91.849,233,31.0,polygon,False,True,America/Chicago,3,72523,1840016305
+23063,Pyatt,Pyatt,AR,Arkansas,5089,Marion,36.2509,-92.8443,230,70.0,polygon,False,True,America/Chicago,3,72672,1840017715
+23064,Scranton,Scranton,AR,Arkansas,5083,Logan,35.3606,-93.5394,230,175.0,polygon,False,True,America/Chicago,3,72863,1840015452
+23091,Campbell Station,Campbell Station,AR,Arkansas,5067,Jackson,35.6678,-91.2538,229,51.0,polygon,False,True,America/Chicago,3,72112 72473,1840013403
+23092,Buckner,Buckner,AR,Arkansas,5073,Lafayette,33.3572,-93.4358,229,75.0,polygon,False,True,America/Chicago,3,71827,1840013766
+23113,St. Francis,St. Francis,AR,Arkansas,5021,Clay,36.4556,-90.1428,228,238.0,polygon,False,True,America/Chicago,3,72464 72454,1840032229
+23175,Griffithville,Griffithville,AR,Arkansas,5145,White,35.1233,-91.6447,225,158.0,polygon,False,True,America/Chicago,3,72060,1840016342
+23226,Pineville,Pineville,AR,Arkansas,5065,Izard,36.1612,-92.1065,223,47.0,polygon,False,True,America/Chicago,3,72519 72566,1840016129
+23335,Wabbaseka,Wabbaseka,AR,Arkansas,5069,Jefferson,34.3591,-91.7926,218,244.0,polygon,False,True,America/Chicago,3,72175,1840016658
+23357,Russell,Russell,AR,Arkansas,5145,White,35.3621,-91.5101,217,403.0,polygon,False,True,America/Chicago,3,72010 72139,1840017839
+23406,Oden,Oden,AR,Arkansas,5097,Montgomery,34.6215,-93.7862,215,101.0,polygon,False,True,America/Chicago,3,71961,1840016602
+23444,Fisher,Fisher,AR,Arkansas,5111,Poinsett,35.4915,-90.9725,213,271.0,polygon,False,True,America/Chicago,3,72429,1840013425
+23466,Tillar,Tillar,AR,Arkansas,5043,Drew,33.7109,-91.4517,212,104.0,polygon,False,True,America/Chicago,3,71670,1840015683
+23467,St. Charles,St. Charles,AR,Arkansas,5001,Arkansas,34.3732,-91.1373,212,91.0,polygon,False,True,America/Chicago,3,72140,1840017934
+23486,Magness,Magness,AR,Arkansas,5063,Independence,35.703,-91.4821,211,132.0,polygon,False,True,America/Chicago,3,72562 72501 72553,1840016247
+23530,Caulksville,Caulksville,AR,Arkansas,5083,Logan,35.3017,-93.868,209,59.0,polygon,False,True,America/Chicago,3,72951 72855,1840016392
+23601,Adona,Adona,AR,Arkansas,5105,Perry,35.0399,-92.8991,206,83.0,polygon,False,True,America/Chicago,3,72001,1840013524
+23680,Pollard,Pollard,AR,Arkansas,5021,Clay,36.4296,-90.267,203,264.0,polygon,False,True,America/Chicago,3,72456,1840014458
+23782,Jacksonport,Jacksonport,AR,Arkansas,5067,Jackson,35.6422,-91.3079,199,204.0,polygon,False,True,America/Chicago,3,72112,1840016255
+23843,O'Kean,O'Kean,AR,Arkansas,5121,Randolph,36.1715,-90.8183,197,74.0,polygon,False,True,America/Chicago,3,72449 72476,1840016080
+23891,Fulton,Fulton,AR,Arkansas,5057,Hempstead,33.6126,-93.8137,195,431.0,polygon,False,True,America/Chicago,3,71838,1840016761
+23912,Reader,Reader,AR,Arkansas,5103,Ouachita,33.7518,-93.1009,194,32.0,polygon,False,False,America/Chicago,3,71857 71726,1840025875
+23976,Franklin,Franklin,AR,Arkansas,5065,Izard,36.1727,-91.7697,191,34.0,polygon,False,True,America/Chicago,3,72536,1840016127
+23985,Sunset,Sunset,AR,Arkansas,5035,Crittenden,35.224,-90.2057,190,280.0,polygon,False,True,America/Chicago,3,72364,1840016385
+23986,Friendship,Friendship,AR,Arkansas,5059,Hot Spring,34.2243,-93.0037,190,103.0,polygon,False,True,America/Chicago,3,71923,1840016654
+24007,Sidney,Sidney,AR,Arkansas,5135,Sharp,36.0044,-91.6583,189,34.0,polygon,False,True,America/Chicago,3,72577 72521,1840017712
+24008,Greenway,Greenway,AR,Arkansas,5021,Clay,36.3406,-90.2223,189,280.0,polygon,False,True,America/Chicago,3,72430,1840013332
+24046,Dell,Dell,AR,Arkansas,5093,Mississippi,35.8592,-90.026,187,48.0,polygon,False,True,America/Chicago,3,72426 72315,1840016226
+24066,Woodlawn,Woodlawn,AR,Arkansas,5025,Cleveland,33.9668,-92.0452,186,30.0,polygon,False,True,America/Chicago,3,71665,1840075576
+24144,Ratcliff,Ratcliff,AR,Arkansas,5083,Logan,35.3066,-93.8887,183,38.0,polygon,False,True,America/Chicago,3,72951,1840014587
+24193,Rye,Rye,AR,Arkansas,5025,Cleveland,33.7505,-91.9985,181,16.0,polygon,False,False,America/Chicago,3,71671 71665,1840022910
+24222,Winthrop,Winthrop,AR,Arkansas,5081,Little River,33.8308,-94.3542,180,66.0,polygon,False,True,America/Chicago,3,71866,1840015654
+24223,Watson,Watson,AR,Arkansas,5041,Desha,33.8939,-91.2572,180,373.0,polygon,False,True,America/Chicago,3,71674,1840015631
+24261,Moro,Moro,AR,Arkansas,5077,Lee,34.7919,-90.988,178,71.0,polygon,False,True,America/Chicago,3,72368,1840016545
+24262,West Point,West Point,AR,Arkansas,5145,White,35.2034,-91.6099,178,159.0,polygon,False,True,America/Chicago,3,72143,1840016343
+24335,Houston,Houston,AR,Arkansas,5105,Perry,35.0349,-92.6945,175,66.0,polygon,False,True,America/Chicago,3,72070,1840016488
+24357,Fifty-Six,Fifty-Six,AR,Arkansas,5137,Stone,35.962,-92.2301,174,32.0,polygon,False,True,America/Chicago,3,72533,1840073878
+24382,Omaha,Omaha,AR,Arkansas,5009,Boone,36.4583,-93.191,173,171.0,polygon,False,True,America/Chicago,3,72662,1840016085
+24466,Valley Springs,Valley Springs,AR,Arkansas,5009,Boone,36.1537,-92.9896,169,127.0,polygon,False,True,America/Chicago,3,72601,1840016083
+24467,Tupelo,Tupelo,AR,Arkansas,5067,Jackson,35.391,-91.2298,169,208.0,polygon,False,True,America/Chicago,3,72169,1840016256
+24496,Washington,Washington,AR,Arkansas,5057,Hempstead,33.773,-93.6833,168,64.0,polygon,False,True,America/Chicago,3,71862,1840015639
+24516,McDougal,McDougal,AR,Arkansas,5021,Clay,36.4365,-90.3907,167,173.0,polygon,False,True,America/Chicago,3,72456 72441 72422,1840016086
+24517,Burdette,Burdette,AR,Arkansas,5093,Mississippi,35.8153,-89.9457,167,87.0,polygon,False,True,America/Chicago,3,72321 72358,1840015366
+24518,Casa,Casa,AR,Arkansas,5105,Perry,35.0253,-93.0448,167,59.0,polygon,False,True,America/Chicago,3,72025,1840016489
+24519,Sedgwick,Sedgwick,AR,Arkansas,5075,Lawrence,35.9753,-90.8678,167,245.0,polygon,False,True,America/Chicago,3,72476,1840017733
+24542,Rondo,Rondo,AR,Arkansas,5077,Lee,34.6575,-90.8208,166,63.0,polygon,False,True,America/Chicago,3,72355,1840017911
+24708,Bassett,Bassett,AR,Arkansas,5093,Mississippi,35.5356,-90.1294,159,250.0,polygon,False,True,America/Chicago,3,72350,1840015364
+24709,Winchester,Winchester,AR,Arkansas,5043,Drew,33.7741,-91.4737,159,123.0,polygon,False,True,America/Chicago,3,71677,1840016813
+24730,Fountain Hill,Fountain Hill,AR,Arkansas,5003,Ashley,33.3576,-91.8511,158,107.0,polygon,False,True,America/Chicago,3,71642,1840016877
+24755,Gillham,Gillham,AR,Arkansas,5133,Sevier,34.1686,-94.3145,157,66.0,polygon,False,True,America/Chicago,3,71841,1840016735
+24756,Chester,Chester,AR,Arkansas,5033,Crawford,35.6778,-94.1778,157,118.0,polygon,False,True,America/Chicago,3,72934,1840016300
+24795,Ogden,Ogden,AR,Arkansas,5081,Little River,33.5859,-94.0469,155,155.0,polygon,False,True,America/Chicago,3,71853 71822,1840014785
+24796,Ulm,Ulm,AR,Arkansas,5117,Prairie,34.5762,-91.4617,155,229.0,polygon,False,True,America/Chicago,3,72170,1840016493
+24824,Hagarville,Hagarville,AR,Arkansas,5071,Johnson,35.5151,-93.3335,154,14.0,polygon,False,False,America/Chicago,3,72839 72846,1840025805
+24905,Louann,Louann,AR,Arkansas,5103,Ouachita,33.3915,-92.7923,151,244.0,polygon,False,True,America/Chicago,3,71751,1840016807
+24958,Mount Vernon,Mount Vernon,AR,Arkansas,5045,Faulkner,35.2236,-92.124,149,56.0,polygon,False,True,America/Chicago,3,72111,1840016414
+24959,Rudy,Rudy,AR,Arkansas,5033,Crawford,35.5285,-94.241,149,42.0,polygon,False,True,America/Chicago,3,72921 72952,1840017828
+25017,Anthonyville,Anthonyville,AR,Arkansas,5035,Crittenden,35.0398,-90.3403,147,740.0,polygon,False,True,America/Chicago,3,72376,1840015446
+25018,Reed,Reed,AR,Arkansas,5041,Desha,33.7017,-91.4458,147,280.0,polygon,False,True,America/Chicago,3,71670,1840017978
+25153,Staves,Staves,AR,Arkansas,5025,Cleveland,34.031,-92.278,142,22.0,polygon,False,False,America/Chicago,3,71665,1840022911
+25154,Ben Lomond,Ben Lomond,AR,Arkansas,5133,Sevier,33.8335,-94.1177,142,13.0,polygon,False,True,America/Chicago,3,71823 71846,1840015608
+25178,Willisville,Willisville,AR,Arkansas,5099,Nevada,33.5194,-93.2949,141,34.0,polygon,False,True,America/Chicago,3,71770 71858,1840016786
+25179,Felsenthal,Felsenthal,AR,Arkansas,5139,Union,33.0588,-92.1533,141,36.0,polygon,False,True,America/Chicago,3,71747,1840016878
+25244,Aubrey,Aubrey,AR,Arkansas,5077,Lee,34.7193,-90.8976,138,160.0,polygon,False,True,America/Chicago,3,72360 72311,1840015535
+25263,Okolona,Okolona,AR,Arkansas,5019,Clark,34.0005,-93.3376,137,66.0,polygon,False,True,America/Chicago,3,71962,1840016694
+25315,Moorefield,Moorefield,AR,Arkansas,5063,Independence,35.7672,-91.5708,135,46.0,polygon,False,True,America/Chicago,3,72501,1840016248
+25316,Everton,Everton,AR,Arkansas,5009,Boone,36.1541,-92.9095,135,110.0,polygon,False,True,America/Chicago,3,72633,1840016082
+25369,Success,Success,AR,Arkansas,5021,Clay,36.4545,-90.7226,133,229.0,polygon,False,True,America/Chicago,3,72470,1840016088
+25401,Georgetown,Georgetown,AR,Arkansas,5145,White,35.1267,-91.4539,132,176.0,polygon,False,True,America/Chicago,3,72143,1840016341
+25506,Bodcaw,Bodcaw,AR,Arkansas,5099,Nevada,33.5607,-93.4013,128,16.0,polygon,False,True,America/Chicago,3,71858,1840015651
+25507,Alicia,Alicia,AR,Arkansas,5075,Lawrence,35.8929,-91.0835,128,114.0,polygon,False,True,America/Chicago,3,72410,1840015326
+25562,New Blaine,New Blaine,AR,Arkansas,5083,Logan,35.2929,-93.4202,126,29.0,polygon,False,False,America/Chicago,3,72851 72835,1840025827
+25581,Haynes,Haynes,AR,Arkansas,5077,Lee,34.8909,-90.7927,125,138.0,polygon,False,True,America/Chicago,3,72341,1840015536
+25582,St. Joe,St. Joe,AR,Arkansas,5129,Searcy,36.029,-92.8078,125,38.0,polygon,False,True,America/Chicago,3,72675,1840017757
+25583,Peach Orchard,Peach Orchard,AR,Arkansas,5021,Clay,36.2812,-90.6608,125,46.0,polygon,False,True,America/Chicago,3,72453,1840014456
+25662,Higden,Higden,AR,Arkansas,5023,Cleburne,35.5666,-92.2047,122,93.0,polygon,False,True,America/Chicago,3,72067,1840015404
+25693,Ravenden Springs,Ravenden Springs,AR,Arkansas,5121,Randolph,36.3127,-91.2233,121,40.0,polygon,False,True,America/Chicago,3,72460,1840017713
+25773,Allport,Allport,AR,Arkansas,5085,Lonoke,34.5399,-91.784,118,219.0,polygon,False,True,America/Chicago,3,72046 72072,1840015503
+25774,Blue Mountain,Blue Mountain,AR,Arkansas,5083,Logan,35.1311,-93.7162,118,42.0,polygon,False,True,America/Chicago,3,72826 72943,1840015451
+25828,Jennette,Jennette,AR,Arkansas,5035,Crittenden,35.1639,-90.4092,116,19.0,polygon,False,True,America/Chicago,3,72327,1840016381
+25829,Banks,Banks,AR,Arkansas,5011,Bradley,33.5758,-92.2671,116,119.0,polygon,False,True,America/Chicago,3,71631,1840015695
+25830,Bluff City,Bluff City,AR,Arkansas,5099,Nevada,33.7224,-93.1316,116,19.0,polygon,False,True,America/Chicago,3,71857 71722,1840015650
+25880,Delaplaine,Delaplaine,AR,Arkansas,5055,Greene,36.2304,-90.7256,114,39.0,polygon,False,True,America/Chicago,3,72425,1840016121
+25899,St. Paul,St. Paul,AR,Arkansas,5087,Madison,35.8245,-93.7642,113,96.0,polygon,False,True,America/Chicago,3,72760,1840017724
+25900,Gum Springs,Gum Springs,AR,Arkansas,5019,Clark,34.0639,-93.0957,113,111.0,polygon,False,True,America/Chicago,3,71923,1840016692
+25986,Daisy,Daisy,AR,Arkansas,5109,Pike,34.2349,-93.7406,110,37.0,polygon,False,True,America/Chicago,3,71950,1840016691
+26015,Egypt,Egypt,AR,Arkansas,5031,Craighead,35.8676,-90.9457,109,125.0,polygon,False,True,America/Chicago,3,72427,1840016238
+26034,Antoine,Antoine,AR,Arkansas,5109,Pike,34.0343,-93.4226,108,81.0,polygon,False,True,America/Chicago,3,71922,1840015583
+26055,Minturn,Minturn,AR,Arkansas,5075,Lawrence,35.9766,-91.0272,107,72.0,polygon,False,True,America/Chicago,3,72433 72445,1840016134
+26115,Pindall,Pindall,AR,Arkansas,5129,Searcy,36.0637,-92.8622,105,14.0,polygon,False,True,America/Chicago,3,72675 72669,1840016191
+26140,Jericho,Jericho,AR,Arkansas,5035,Crittenden,35.2856,-90.2293,104,87.0,polygon,False,True,America/Chicago,3,72327,1840016382
+26141,Big Flat,Big Flat,AR,Arkansas,5005,Baxter,36.0056,-92.4066,104,37.0,polygon,False,True,America/Chicago,3,72617,1840015301
+26206,Zinc,Zinc,AR,Arkansas,5009,Boone,36.2836,-92.9147,101,51.0,polygon,False,True,America/Chicago,3,72601,1840016084
+26207,Lonsdale,Lonsdale,AR,Arkansas,5051,Garland,34.545,-92.8106,101,96.0,polygon,False,True,America/Chicago,3,72087,1840016597
+26285,South Lead Hill,South Lead Hill,AR,Arkansas,5009,Boone,36.3948,-92.9057,98,302.0,polygon,False,True,America/Chicago,3,72644,1840017714
+26308,McCaskill,McCaskill,AR,Arkansas,5057,Hempstead,33.9187,-93.6416,97,50.0,polygon,False,True,America/Chicago,3,71847,1840016759
+26309,Beedeville,Beedeville,AR,Arkansas,5067,Jackson,35.4292,-91.1107,97,32.0,polygon,False,True,America/Chicago,3,72014 72101,1840015376
+26310,Springtown,Springtown,AR,Arkansas,5007,Benton,36.2605,-94.4241,97,69.0,polygon,False,True,America/Chicago,3,72734,1840017711
+26329,Roe,Roe,AR,Arkansas,5095,Monroe,34.6311,-91.386,96,207.0,polygon,False,True,America/Chicago,3,72134,1840017893
+26349,Beaver,Beaver,AR,Arkansas,5015,Carroll,36.4752,-93.7727,95,116.0,polygon,False,True,America/Chicago,3,72631,1840015293
+26392,Coy,Coy,AR,Arkansas,5085,Lonoke,34.5405,-91.8713,93,53.0,polygon,False,True,America/Chicago,3,72037 72046,1840016497
+26393,Datto,Datto,AR,Arkansas,5021,Clay,36.3925,-90.7285,93,57.0,polygon,False,True,America/Chicago,3,72424,1840016087
+26394,Hunter,Hunter,AR,Arkansas,5147,Woodruff,35.0546,-91.1227,93,58.0,polygon,False,True,America/Chicago,3,72074,1840016379
+26424,Black Springs,Black Springs,AR,Arkansas,5097,Montgomery,34.4607,-93.7123,92,79.0,polygon,False,True,America/Chicago,3,71960,1840015546
+26479,Amagon,Amagon,AR,Arkansas,5067,Jackson,35.5632,-91.1094,90,312.0,polygon,False,True,America/Chicago,3,72005,1840015375
+26582,Vandervoort,Vandervoort,AR,Arkansas,5113,Polk,34.38,-94.3641,86,115.0,polygon,False,True,America/Chicago,3,71937 71972,1840016608
+26609,Whelen Springs,Whelen Springs,AR,Arkansas,5019,Clark,33.8331,-93.1259,85,140.0,polygon,False,True,America/Chicago,3,71772 71743,1840016693
+26670,Guion,Guion,AR,Arkansas,5065,Izard,35.9269,-91.939,83,57.0,polygon,False,True,America/Chicago,3,72540 72556,1840016128
+26730,Ozan,Ozan,AR,Arkansas,5057,Hempstead,33.848,-93.7203,81,95.0,polygon,False,True,America/Chicago,3,71855,1840016763
+26757,Williford,Williford,AR,Arkansas,5135,Sharp,36.2517,-91.3604,80,88.0,polygon,False,True,America/Chicago,3,72482,1840016078
+26758,Fargo,Fargo,AR,Arkansas,5095,Monroe,34.9537,-91.1764,80,67.0,polygon,False,True,America/Chicago,3,72021,1840016506
+26811,Morrison Bluff,Morrison Bluff,AR,Arkansas,5083,Logan,35.3828,-93.5228,78,22.0,polygon,False,True,America/Chicago,3,72863,1840016391
+26918,Sherrill,Sherrill,AR,Arkansas,5069,Jefferson,34.385,-91.9517,73,214.0,polygon,False,True,America/Chicago,3,72152,1840017949
+26969,Marie,Marie,AR,Arkansas,5093,Mississippi,35.613,-90.0829,71,186.0,polygon,False,True,America/Chicago,3,72395 72370,1840016225
+26970,LaGrange,LaGrange,AR,Arkansas,5077,Lee,34.6554,-90.735,71,180.0,polygon,False,True,America/Chicago,3,72355 72360,1840027850
+27024,Cale,Cale,AR,Arkansas,5099,Nevada,33.6279,-93.2348,69,27.0,polygon,False,True,America/Chicago,3,71858,1840015652
+27025,Smithville,Smithville,AR,Arkansas,5075,Lawrence,36.0799,-91.3027,69,39.0,polygon,False,True,America/Chicago,3,72466,1840017734
+27055,Weldon,Weldon,AR,Arkansas,5067,Jackson,35.4481,-91.2315,68,107.0,polygon,False,True,America/Chicago,3,72112,1840016257
+27075,Corinth,Corinth,AR,Arkansas,5149,Yell,35.0693,-93.4235,67,8.0,polygon,False,True,America/Chicago,3,72824,1840016436
+27106,McNab,McNab,AR,Arkansas,5057,Hempstead,33.6609,-93.8323,66,74.0,polygon,False,True,America/Chicago,3,71838,1840016760
+27140,Hindsville,Hindsville,AR,Arkansas,5087,Madison,36.1458,-93.8627,65,67.0,polygon,False,True,America/Chicago,3,72738,1840016107
+27166,Nimmons,Nimmons,AR,Arkansas,5021,Clay,36.3062,-90.0951,64,99.0,polygon,False,True,America/Chicago,3,72461,1840016089
+27200,Fourche,Fourche,AR,Arkansas,5105,Perry,34.9933,-92.6189,63,122.0,polygon,False,True,America/Chicago,3,72016,1840016490
+27201,Powhatan,Powhatan,AR,Arkansas,5075,Lawrence,36.0841,-91.1202,63,111.0,polygon,False,True,America/Chicago,3,72458,1840017731
+27267,Patmos,Patmos,AR,Arkansas,5057,Hempstead,33.5112,-93.5679,60,208.0,polygon,False,True,America/Chicago,3,71801,1840016764
+27295,Oakhaven,Oakhaven,AR,Arkansas,5057,Hempstead,33.7294,-93.6209,59,495.0,polygon,False,True,America/Chicago,3,71801,1840016762
+27323,Waldenburg,Waldenburg,AR,Arkansas,5111,Poinsett,35.5653,-90.9346,58,164.0,polygon,False,True,America/Chicago,3,72479 72475,1840016308
+27371,Hensley,Hensley,AR,Arkansas,5119,Pulaski,34.5068,-92.2069,56,21.0,polygon,False,False,America/Chicago,3,72065,1840013534
+27600,Wiederkehr Village,Wiederkehr Village,AR,Arkansas,5047,Franklin,35.4813,-93.7578,46,4.0,polygon,False,True,America/Chicago,3,72821 72949,1840015396
+27634,Tinsman,Tinsman,AR,Arkansas,5013,Calhoun,33.6291,-92.3533,44,32.0,polygon,False,True,America/Chicago,3,71744,1840016811
+27677,Cherokee City,Cherokee City,AR,Arkansas,5007,Benton,36.2947,-94.5769,42,34.0,polygon,False,False,America/Chicago,3,72734,1840022675
+27678,Birdsong,Birdsong,AR,Arkansas,5093,Mississippi,35.4612,-90.2597,42,80.0,polygon,False,True,America/Chicago,3,72386,1840015365
+27803,Blue Eye,Blue Eye,AR,Arkansas,5015,Carroll,36.4966,-93.3977,36,183.0,polygon,False,True,America/Chicago,3,72660,1840015294
+27842,Jerome,Jerome,AR,Arkansas,5043,Drew,33.3988,-91.4697,34,129.0,polygon,False,True,America/Chicago,3,71638,1840016812
+27882,Victoria,Victoria,AR,Arkansas,5093,Mississippi,35.7574,-90.0602,32,39.0,polygon,False,True,America/Chicago,3,72370 72315,1840016229
+27999,Gilbert,Gilbert,AR,Arkansas,5129,Searcy,35.9905,-92.7166,26,27.0,polygon,False,True,America/Chicago,3,72636 72675,1840016190
+28086,Scott,Scott,AR,Arkansas,5085,Lonoke,34.6966,-92.0938,22,2.0,polygon,False,False,America/Chicago,3,72142,1840013527

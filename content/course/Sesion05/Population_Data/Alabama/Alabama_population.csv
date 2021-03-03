@@ -1,0 +1,585 @@
+,city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+61,Birmingham,Birmingham,AL,Alabama,1073,Jefferson,33.5277,-86.7987,739573,553.0,polygon,False,True,America/Chicago,2,35218 35214 35215 35217 35210 35211 35212 35213 35243 35242 35224 35221 35222 35228 35203 35207 35206 35205 35204 35209 35208 35254 35068 35061 35234 35235 35233 35201 35202 35220 35232 35237 35238 35246 35249 35255 35259 35261 35270 35282 35283 35285 35287 35290 35291 35292 35294 35295 35297 35298,1840006507
+138,Huntsville,Huntsville,AL,Alabama,1089,Madison,34.6988,-86.6412,319249,361.0,polygon,False,True,America/Chicago,2,35801 35803 35802 35805 35806 35741 35824 35763 35757 35756 35810 35811 35816 35896 35762 35804 35807 35809 35814 35815 35893 35894 35895 35897 35899,1840005061
+140,Mobile,Mobile,AL,Alabama,1097,Mobile,30.6783,-88.1162,315502,522.0,polygon,False,True,America/Chicago,2,36606 36607 36604 36605 36602 36603 36608 36609 36688 36582 36615 36617 36611 36610 36619 36618 36695 36693 36571 36601 36628 36633 36640 36641 36644 36652 36660 36670 36675 36689 36691,1840006009
+180,Montgomery,Montgomery,AL,Alabama,1101,Montgomery,32.3473,-86.2666,254634,479.0,polygon,False,True,America/Chicago,2,36064 36112 36113 36110 36111 36117 36115 36116 36108 36105 36104 36106 36109 36107 36101 36114 36118 36120 36121 36123 36124 36125 36130 36131 36132 36135 36140 36141 36142 36177 36191,1840008353
+282,Tuscaloosa,Tuscaloosa,AL,Alabama,1125,Tuscaloosa,33.2348,-87.5267,155499,631.0,polygon,False,True,America/Chicago,2,35475 35476 35405 35404 35406 35401 35403 35407 35486 35487,1840005563
+503,Auburn,Auburn,AL,Alabama,1081,Lee,32.6087,-85.4899,92777,425.0,polygon,False,True,America/Chicago,3,36849 36832 36830 36831,1840013810
+540,Hoover,Hoover,AL,Alabama,1073,Jefferson,33.3754,-86.8064,85768,691.0,polygon,False,True,America/Chicago,3,35216 35244 35242 35080 35226 35236 35260,1840014795
+583,Florence,Florence,AL,Alabama,1077,Lauderdale,34.8303,-87.6654,79964,594.0,polygon,False,True,America/Chicago,3,35633 35630 35631 35632,1840002083
+656,Anniston,Anniston,AL,Alabama,1015,Calhoun,33.6712,-85.8136,73501,179.0,polygon,False,True,America/Chicago,3,36201 36206 36207 36205 36204,1840006563
+670,Dothan,Dothan,AL,Alabama,1069,Houston,31.2335,-85.4069,72396,296.0,polygon,False,True,America/Chicago,3,36303 36301 36305 36321 36302 36304,1840001518
+680,Daphne,Daphne,AL,Alabama,1003,Baldwin,30.6286,-87.8866,71484,603.0,polygon,False,True,America/Chicago,3,36527 36526,1840006178
+706,Decatur,Decatur,AL,Alabama,1103,Morgan,34.573,-86.9906,68867,388.0,polygon,False,True,America/Chicago,3,35603 35601 35602 35609,1840001403
+809,Gadsden,Gadsden,AL,Alabama,1055,Etowah,34.009,-86.0156,60944,362.0,polygon,False,True,America/Chicago,3,35901 35903 35904 35902,1840006332
+961,Madison,Madison,AL,Alabama,1089,Madison,34.7114,-86.7626,51593,657.0,polygon,False,True,America/Chicago,3,35758 35756,1840015524
+1266,Enterprise,Enterprise,AL,Alabama,1031,Coffee,31.3276,-85.8459,38914,357.0,polygon,False,True,America/Chicago,3,36330 36331,1840001548
+1296,Albertville,Albertville,AL,Alabama,1095,Marshall,34.2634,-86.2107,37775,313.0,polygon,False,True,America/Chicago,3,35951 35950,1840013599
+1327,Foley,Foley,AL,Alabama,1003,Baldwin,30.3983,-87.6649,36921,242.0,polygon,False,True,America/Chicago,3,36535 36530 36536,1840002084
+1337,Phenix City,Phenix City,AL,Alabama,1113,Russell,32.4588,-85.0251,36487,503.0,polygon,False,True,America/Chicago,3,36869 36867 36868,1840006012
+1360,Prattville,Prattville,AL,Alabama,1001,Autauga,32.4605,-86.4588,35957,410.0,polygon,False,True,America/Chicago,3,36066 36067 36068,1840004086
+1416,Vestavia Hills,Vestavia Hills,AL,Alabama,1073,Jefferson,33.4518,-86.7438,34413,668.0,polygon,False,True,America/Chicago,3,35216 35243 35242 35266 35288,1840015673
+1465,Alabaster,Alabaster,AL,Alabama,1117,Shelby,33.2198,-86.8225,33487,512.0,polygon,False,True,America/Chicago,3,35114 35007 35144,1840013756
+1550,Athens,Athens,AL,Alabama,1083,Limestone,34.7847,-86.951,31187,265.0,polygon,False,True,America/Chicago,3,35611 35613 35612,1840000935
+1563,Opelika,Opelika,AL,Alabama,1081,Lee,32.6612,-85.3769,30908,202.0,polygon,False,True,America/Chicago,3,36804 36801 36803,1840005210
+1812,Bessemer,Bessemer,AL,Alabama,1073,Jefferson,33.3709,-86.9713,26472,252.0,polygon,False,True,America/Chicago,3,35022 35020,1840013732
+1838,Northport,Northport,AL,Alabama,1125,Tuscaloosa,33.2589,-87.5984,26115,596.0,polygon,False,True,America/Chicago,3,35473 35475 35476 35452,1840014819
+1886,Homewood,Homewood,AL,Alabama,1073,Jefferson,33.4617,-86.8092,25377,1174.0,polygon,False,True,America/Chicago,3,35229 35209 35219 35293,1840014794
+2018,Pelham,Pelham,AL,Alabama,1117,Shelby,33.3114,-86.7573,23911,237.0,polygon,False,True,America/Chicago,3,35043 35124,1840014826
+2117,Fairhope,Fairhope,AL,Alabama,1003,Baldwin,30.5217,-87.8815,22677,626.0,polygon,False,True,America/Chicago,3,36532,1840002039
+2122,Trussville,Trussville,AL,Alabama,1073,Jefferson,33.6404,-86.5819,22635,254.0,polygon,False,True,America/Chicago,3,35235 35173,1840015672
+2225,Prichard,Prichard,AL,Alabama,1097,Mobile,30.7735,-88.1301,21428,326.0,polygon,False,True,America/Chicago,3,36616 36610 36613 36612 36663,1840014990
+2252,Oxford,Oxford,AL,Alabama,1015,Calhoun,33.5967,-85.8687,21225,257.0,polygon,False,True,America/Chicago,3,36260 36203 36253,1840014780
+2345,Mountain Brook,Mountain Brook,AL,Alabama,1073,Jefferson,33.4871,-86.74,20297,611.0,polygon,False,True,America/Chicago,3,35213 35243 35223 35253,1840014792
+2399,Valley,Valley,AL,Alabama,1017,Chambers,32.8088,-85.1809,19926,275.0,polygon,False,True,America/Chicago,3,36854 36872,1840015760
+2401,Helena,Helena,AL,Alabama,1117,Shelby,33.2845,-86.8756,19925,377.0,polygon,False,True,America/Chicago,3,35022 35080,1840014827
+2402,Cullman,Cullman,AL,Alabama,1043,Cullman,34.1777,-86.8407,19920,283.0,polygon,False,True,America/Chicago,3,35058 35057 35055 35056,1840001354
+2418,Selma,Selma,AL,Alabama,1047,Dallas,32.4166,-87.0336,19775,481.0,polygon,False,True,America/Chicago,3,36703 36701 36702,1840008329
+2633,Tillmans Corner,Tillmans Corner,AL,Alabama,1097,Mobile,30.5818,-88.2128,17814,530.0,polygon,False,False,America/Chicago,3,36582 36619,1840013896
+2743,Sylacauga,Sylacauga,AL,Alabama,1121,Talladega,33.1778,-86.2606,16982,229.0,polygon,False,True,America/Chicago,3,35151 35150,1840015700
+2781,Troy,Troy,AL,Alabama,1109,Pike,31.8021,-85.9665,16712,258.0,polygon,False,True,America/Chicago,3,36079 36081 36082,1840005558
+2864,Center Point,Center Point,AL,Alabama,1073,Jefferson,33.6446,-86.6851,16110,1005.0,polygon,False,True,America/Chicago,3,35215,1840014789
+2897,Millbrook,Millbrook,AL,Alabama,1051,Elmore,32.5028,-86.3737,15896,437.0,polygon,False,True,America/Chicago,3,36054 36022,1840014877
+2991,Hueytown,Hueytown,AL,Alabama,1073,Jefferson,33.4237,-87.022,15322,300.0,polygon,False,True,America/Chicago,3,35023 35061,1840014796
+3065,Calera,Calera,AL,Alabama,1117,Shelby,33.1249,-86.745,14717,235.0,polygon,False,True,America/Chicago,3,35040,1840013757
+3076,Saraland,Saraland,AL,Alabama,1097,Mobile,30.8478,-88.1004,14649,176.0,polygon,False,True,America/Chicago,3,36571,1840015886
+3089,Muscle Shoals,Muscle Shoals,AL,Alabama,1033,Colbert,34.7436,-87.6344,14575,340.0,polygon,False,True,America/Chicago,3,35661 35662,1840014657
+3101,Hartselle,Hartselle,AL,Alabama,1103,Morgan,34.4391,-86.94,14466,339.0,polygon,False,True,America/Chicago,3,35640,1840013593
+3149,Gardendale,Gardendale,AL,Alabama,1073,Jefferson,33.6678,-86.8069,14177,239.0,polygon,False,True,America/Chicago,3,35071 35119,1840002820
+3160,Chelsea,Chelsea,AL,Alabama,1117,Shelby,33.3255,-86.6299,14126,236.0,polygon,False,True,America/Chicago,3,35051 35043,1840014823
+3331,Talladega,Talladega,AL,Alabama,1121,Talladega,33.4329,-86.0976,13304,233.0,polygon,False,True,America/Chicago,3,35160 35161,1840008244
+3342,Jasper,Jasper,AL,Alabama,1127,Walker,33.8503,-87.2708,13248,178.0,polygon,False,True,America/Chicago,3,35503 35504 35501 35502,1840003778
+3385,Moody,Moody,AL,Alabama,1115,St. Clair,33.5986,-86.4963,13065,205.0,polygon,False,True,America/Chicago,3,35094 35173 35004 35120,1840014770
+3413,Irondale,Irondale,AL,Alabama,1073,Jefferson,33.544,-86.6599,12893,287.0,polygon,False,True,America/Chicago,3,35210 35015,1840014797
+3438,Gulf Shores,Gulf Shores,AL,Alabama,1003,Baldwin,30.2759,-87.7013,12757,174.0,polygon,False,True,America/Chicago,3,36542 36547,1840013886
+3489,Jacksonville,Jacksonville,AL,Alabama,1015,Calhoun,33.8088,-85.7545,12544,443.0,polygon,False,True,America/Chicago,3,36265,1840007433
+3550,Pell City,Pell City,AL,Alabama,1115,St. Clair,33.5609,-86.2669,12275,217.0,polygon,False,True,America/Chicago,3,35125 35128,1840014771
+3603,Leeds,Leeds,AL,Alabama,1073,Jefferson,33.5429,-86.5636,12040,206.0,polygon,False,True,America/Chicago,3,35094 35173,1840005106
+3727,Ozark,Ozark,AL,Alabama,1045,Dale,31.4508,-85.6473,11562,161.0,polygon,False,True,America/Chicago,3,36360 36361,1840005283
+3924,Saks,Saks,AL,Alabama,1015,Calhoun,33.7118,-85.8536,10763,341.0,polygon,False,False,America/Chicago,3,36201 36206 36202,1840013708
+3983,Fairfield,Fairfield,AL,Alabama,1073,Jefferson,33.4747,-86.9194,10568,1175.0,polygon,False,True,America/Chicago,3,35064,1840001883
+4086,Pike Road,Pike Road,AL,Alabama,1101,Montgomery,32.2934,-86.0902,10159,119.0,polygon,False,True,America/Chicago,3,36064 36013 36116,1840017000
+4143,Clay,Clay,AL,Alabama,1073,Jefferson,33.6976,-86.607,9923,381.0,polygon,False,True,America/Chicago,3,35173 35126,1840014790
+4163,Scottsboro,Scottsboro,AL,Alabama,1071,Jackson,34.6438,-86.0491,9841,110.0,polygon,False,True,America/Chicago,3,35768 35769,1840005605
+4170,Robertsdale,Robertsdale,AL,Alabama,1003,Baldwin,30.5534,-87.7023,9817,387.0,polygon,False,True,America/Chicago,3,36567,1840014981
+4183,Russellville,Russellville,AL,Alabama,1059,Franklin,34.5056,-87.7282,9772,280.0,polygon,False,True,America/Chicago,3,35654 35653,1840004247
+4206,Boaz,Boaz,AL,Alabama,1095,Marshall,34.1985,-86.1529,9704,257.0,polygon,False,True,America/Chicago,3,35957 35956,1840013602
+4233,Rainbow City,Rainbow City,AL,Alabama,1055,Etowah,33.9337,-86.0922,9611,146.0,polygon,False,True,America/Chicago,3,35906,1840014732
+4235,Pleasant Grove,Pleasant Grove,AL,Alabama,1073,Jefferson,33.4936,-86.9782,9604,375.0,polygon,False,True,America/Chicago,3,35127,1840014793
+4320,Meadowbrook,Meadowbrook,AL,Alabama,1117,Shelby,33.3932,-86.7041,9387,844.0,polygon,False,False,America/Chicago,3,35242,1840027633
+4360,Fultondale,Fultondale,AL,Alabama,1073,Jefferson,33.6177,-86.8015,9284,293.0,polygon,False,True,America/Chicago,3,35217 35119 35068,1840002481
+4365,Forestdale,Forestdale,AL,Alabama,1073,Jefferson,33.5737,-86.9002,9273,530.0,polygon,False,False,America/Chicago,3,35214 35005 35231,1840013723
+4387,Spanish Fort,Spanish Fort,AL,Alabama,1003,Baldwin,30.7257,-87.8601,9214,117.0,polygon,False,True,America/Chicago,3,36507 36527 36578 36577,1840015879
+4448,Alexander City,Alexander City,AL,Alabama,1123,Tallapoosa,32.9242,-85.9361,9046,131.0,polygon,False,True,America/Chicago,3,35010 35011,1840013788
+4502,Southside,Southside,AL,Alabama,1055,Etowah,33.9007,-86.0238,8905,181.0,polygon,False,True,America/Chicago,3,35907,1840015604
+4504,Sheffield,Sheffield,AL,Alabama,1033,Colbert,34.757,-87.6977,8901,494.0,polygon,False,True,America/Chicago,3,35660,1840015537
+4573,Bay Minette,Bay Minette,AL,Alabama,1003,Baldwin,30.893,-87.7912,8704,209.0,polygon,False,True,America/Chicago,3,36507,1840000959
+4635,Guntersville,Guntersville,AL,Alabama,1095,Marshall,34.367,-86.2638,8571,129.0,polygon,False,True,America/Chicago,3,35976,1840006456
+4653,Wetumpka,Wetumpka,AL,Alabama,1051,Elmore,32.5407,-86.2052,8538,295.0,polygon,False,True,America/Chicago,3,36093 36092,1840006013
+4671,Eufaula,Eufaula,AL,Alabama,1005,Barbour,31.9102,-85.1505,8484,75.0,polygon,False,True,America/Chicago,3,36027 36072,1840001685
+4678,Tuscumbia,Tuscumbia,AL,Alabama,1033,Colbert,34.7204,-87.7035,8461,354.0,polygon,False,True,America/Chicago,3,35674,1840005567
+4725,Arab,Arab,AL,Alabama,1095,Marshall,34.3309,-86.4991,8342,242.0,polygon,False,True,America/Chicago,3,35016,1840013600
+4934,Tuskegee,Tuskegee,AL,Alabama,1087,Macon,32.4395,-85.7139,7870,195.0,polygon,False,True,America/Chicago,3,36088 36083 36087,1840004337
+5303,Brook Highland,Brook Highland,AL,Alabama,1117,Shelby,33.4359,-86.6849,7116,979.0,polygon,False,False,America/Chicago,3,35242,1840027551
+5306,Pinson,Pinson,AL,Alabama,1073,Jefferson,33.7057,-86.6674,7106,257.0,polygon,False,True,America/Chicago,3,35215 35126 35123,1840022941
+5339,Fort Payne,Fort Payne,AL,Alabama,1049,DeKalb,34.4557,-85.6965,7049,96.0,polygon,False,True,America/Chicago,3,35967 35968,1840004822
+5462,Moores Mill,Moores Mill,AL,Alabama,1089,Madison,34.8491,-86.5222,6815,193.0,polygon,False,False,America/Chicago,3,35810 35811 35759,1840013547
+5478,Lincoln,Lincoln,AL,Alabama,1121,Talladega,33.5935,-86.1371,6781,104.0,polygon,False,True,America/Chicago,3,35160 35096,1840015698
+5489,Montevallo,Montevallo,AL,Alabama,1117,Shelby,33.1246,-86.8476,6738,203.0,polygon,False,True,America/Chicago,3,35115,1840014825
+5549,Brewton,Brewton,AL,Alabama,1053,Escambia,31.1111,-87.0737,6615,179.0,polygon,False,True,America/Chicago,3,36426 36427,1840006146
+5552,Meridianville,Meridianville,AL,Alabama,1089,Madison,34.8729,-86.5722,6609,164.0,polygon,False,False,America/Chicago,3,35773 35750 35759,1840013546
+5556,Hamilton,Hamilton,AL,Alabama,1093,Marion,34.1346,-87.9755,6606,67.0,polygon,False,True,America/Chicago,3,35570,1840003629
+5625,Theodore,Theodore,AL,Alabama,1097,Mobile,30.5408,-88.1884,6483,313.0,polygon,False,False,America/Chicago,3,36590 36582,1840013895
+5667,Andalusia,Andalusia,AL,Alabama,1039,Covington,31.3101,-86.4781,6407,170.0,polygon,False,True,America/Chicago,3,36420 36421,1840004591
+5761,Orange Beach,Orange Beach,AL,Alabama,1003,Baldwin,30.2941,-87.5851,6235,163.0,polygon,False,True,America/Chicago,3,36561 36530,1840014980
+5789,Satsuma,Satsuma,AL,Alabama,1097,Mobile,30.8577,-88.0632,6190,325.0,polygon,False,True,America/Chicago,3,36572,1840015887
+5814,Lanett,Lanett,AL,Alabama,1017,Chambers,32.8571,-85.2081,6151,380.0,polygon,False,True,America/Chicago,3,36863,1840014858
+5839,Tarrant,Tarrant,AL,Alabama,1073,Jefferson,33.5945,-86.7684,6109,369.0,polygon,False,True,America/Chicago,3,35217,1840015671
+5901,Grayson Valley,Grayson Valley,AL,Alabama,1073,Jefferson,33.6469,-86.6414,5986,1179.0,polygon,False,False,America/Chicago,3,35235,1840027631
+5952,Clanton,Clanton,AL,Alabama,1021,Chilton,32.844,-86.623,5901,148.0,polygon,False,True,America/Chicago,3,35045 35046,1840006157
+5986,Atmore,Atmore,AL,Alabama,1053,Escambia,31.0927,-87.4763,5864,160.0,polygon,False,True,America/Chicago,3,36502 36503 36504,1840013888
+6054,Attalla,Attalla,AL,Alabama,1055,Etowah,34.0049,-86.104,5771,319.0,polygon,False,True,America/Chicago,3,35954,1840013655
+6097,Chickasaw,Chickasaw,AL,Alabama,1097,Mobile,30.7714,-88.0793,5702,523.0,polygon,False,True,America/Chicago,3,36611 36671,1840014986
+6099,Demopolis,Demopolis,AL,Alabama,1091,Marengo,32.498,-87.8298,5701,143.0,polygon,False,True,America/Chicago,3,36732 36742,1840014897
+6100,Harvest,Harvest,AL,Alabama,1089,Madison,34.8558,-86.7521,5700,178.0,polygon,False,False,America/Chicago,3,35749,1840013544
+6158,Semmes,Semmes,AL,Alabama,1097,Mobile,30.7941,-88.2358,5594,176.0,polygon,False,True,America/Chicago,3,36613 36575,1840027491
+6215,Highland Lakes,Highland Lakes,AL,Alabama,1117,Shelby,33.397,-86.6497,5500,565.0,polygon,False,True,America/Chicago,3,35242,1840075149
+6229,Greenville,Greenville,AL,Alabama,1013,Butler,31.8437,-86.6379,5477,133.0,polygon,False,True,America/Chicago,3,36037,1840003498
+6291,Smiths Station,Smiths Station,AL,Alabama,1081,Lee,32.5284,-85.096,5391,300.0,polygon,False,True,America/Chicago,3,36877,1840015792
+6299,Oneonta,Oneonta,AL,Alabama,1009,Blount,33.9392,-86.4929,5382,161.0,polygon,False,True,America/Chicago,3,35121,1840005206
+6363,Brent,Brent,AL,Alabama,1007,Bibb,32.9421,-87.1753,5302,208.0,polygon,False,True,America/Chicago,3,35042 35034,1840013781
+6481,Margaret,Margaret,AL,Alabama,1115,St. Clair,33.6735,-86.468,5137,201.0,polygon,False,True,America/Chicago,3,35112 35120,1840016772
+6484,Fort Rucker,Fort Rucker,AL,Alabama,1045,Dale,31.3428,-85.7154,5134,182.0,polygon,True,True,America/Chicago,3,36362,1840073838
+6492,Rainsville,Rainsville,AL,Alabama,1049,DeKalb,34.4939,-85.8435,5123,95.0,polygon,False,True,America/Chicago,3,35986,1840014658
+6507,Daleville,Daleville,AL,Alabama,1045,Dale,31.2915,-85.7117,5102,139.0,polygon,False,True,America/Chicago,3,36322,1840014955
+6521,Glencoe,Glencoe,AL,Alabama,1055,Etowah,33.9449,-85.9319,5071,116.0,polygon,False,True,America/Chicago,3,35903 35905,1840003257
+6569,Midfield,Midfield,AL,Alabama,1073,Jefferson,33.4552,-86.9226,5002,727.0,polygon,False,True,America/Chicago,3,35221 35228,1840014791
+6700,Childersburg,Childersburg,AL,Alabama,1121,Talladega,33.2961,-86.3457,4837,151.0,polygon,False,True,America/Chicago,3,35044 35014,1840014813
+6816,Headland,Headland,AL,Alabama,1067,Henry,31.3501,-85.3523,4712,59.0,polygon,False,True,America/Chicago,3,36345,1840014949
+6843,Lake View,Lake View,AL,Alabama,1125,Tuscaloosa,33.2802,-87.1258,4679,490.0,polygon,False,True,America/Chicago,3,35111,1840016839
+6896,Opp,Opp,AL,Alabama,1039,Covington,31.2848,-86.257,4612,104.0,polygon,False,True,America/Chicago,3,36467,1840014960
+6938,Pine Level,Pine Level,AL,Alabama,1001,Autauga,32.5797,-86.4529,4574,71.0,polygon,False,False,America/Chicago,3,36067 36022,1840023046
+6961,Union Springs,Union Springs,AL,Alabama,1011,Bullock,32.1395,-85.7141,4547,198.0,polygon,False,True,America/Chicago,3,36089,1840004415
+6991,Winfield,Winfield,AL,Alabama,1093,Marion,33.9334,-87.7962,4519,98.0,polygon,False,True,America/Chicago,3,35594,1840015587
+7161,Argo,Argo,AL,Alabama,1073,Jefferson,33.6961,-86.5066,4348,156.0,polygon,False,True,America/Chicago,3,35173 35120,1840015668
+7233,Priceville,Priceville,AL,Alabama,1103,Morgan,34.5247,-86.8855,4291,251.0,polygon,False,True,America/Chicago,3,35603,1840017927
+7249,Adamsville,Adamsville,AL,Alabama,1073,Jefferson,33.6063,-86.9745,4281,65.0,polygon,False,True,America/Chicago,3,35214 35005 35060 35073,1840013724
+7276,Hokes Bluff,Hokes Bluff,AL,Alabama,1055,Etowah,33.9902,-85.8639,4257,137.0,polygon,False,True,America/Chicago,3,35903 35905,1840014733
+7288,Redland,Redland,AL,Alabama,1051,Elmore,32.4754,-86.1375,4242,67.0,polygon,False,True,America/Chicago,3,36093,1840037844
+7292,Monroeville,Monroeville,AL,Alabama,1099,Monroe,31.5162,-87.3279,4240,165.0,polygon,False,True,America/Chicago,3,36460 36461,1840005191
+7334,Woodstock,Woodstock,AL,Alabama,1007,Bibb,33.2193,-87.1489,4202,89.0,polygon,False,True,America/Chicago,3,35188 35111,1840016895
+7365,Roanoke,Roanoke,AL,Alabama,1111,Randolph,33.1454,-85.3694,4162,121.0,polygon,False,True,America/Chicago,3,36274,1840014834
+7371,Holt,Holt,AL,Alabama,1125,Tuscaloosa,33.2302,-87.4827,4159,507.0,polygon,False,False,America/Chicago,3,35404,1840013753
+7404,Holtville,Holtville,AL,Alabama,1051,Elmore,32.6314,-86.3268,4133,73.0,polygon,False,False,America/Chicago,3,36092 36022,1840023043
+7453,Grand Bay,Grand Bay,AL,Alabama,1097,Mobile,30.4717,-88.345,4090,182.0,polygon,False,False,America/Chicago,3,36541,1840013894
+7521,Mount Olive,Mount Olive,AL,Alabama,1073,Jefferson,33.6778,-86.8726,4021,168.0,polygon,False,False,America/Chicago,3,35117,1840013727
+7545,Alexandria,Alexandria,AL,Alabama,1015,Calhoun,33.7675,-85.8792,4000,138.0,polygon,False,False,America/Chicago,3,36265 36250,1840013707
+7653,Haleyville,Haleyville,AL,Alabama,1133,Winston,34.2331,-87.6175,3893,190.0,polygon,False,True,America/Chicago,3,35565,1840013644
+7654,Odenville,Odenville,AL,Alabama,1115,St. Clair,33.6987,-86.4225,3893,105.0,polygon,False,True,America/Chicago,3,35146 35120,1840016774
+7679,Citronelle,Citronelle,AL,Alabama,1097,Mobile,31.0952,-88.2468,3861,57.0,polygon,False,True,America/Chicago,3,36522,1840014987
+7737,Elba,Elba,AL,Alabama,1031,Coffee,31.4172,-86.0759,3811,95.0,polygon,False,True,America/Chicago,3,36323,1840001532
+7783,Tallassee,Tallassee,AL,Alabama,1051,Elmore,32.5314,-85.8902,3773,157.0,polygon,False,True,America/Chicago,3,36078,1840015790
+7799,Centre,Centre,AL,Alabama,1019,Cherokee,34.1551,-85.6699,3762,121.0,polygon,False,True,America/Chicago,3,35960,1840001099
+7820,Sumiton,Sumiton,AL,Alabama,1127,Walker,33.7503,-87.0483,3741,172.0,polygon,False,True,America/Chicago,3,35062 35148,1840015640
+7993,Kimberly,Kimberly,AL,Alabama,1073,Jefferson,33.776,-86.7968,3593,231.0,polygon,False,True,America/Chicago,3,35071 35091 35116,1840016799
+8018,Valley Grande,Valley Grande,AL,Alabama,1047,Dallas,32.4862,-87.0305,3570,41.0,polygon,False,True,America/Chicago,3,36703 36701,1840015794
+8154,Cottondale,Cottondale,AL,Alabama,1125,Tuscaloosa,33.1922,-87.4544,3469,387.0,polygon,False,False,America/Chicago,3,35404 35453,1840023723
+8176,Hazel Green,Hazel Green,AL,Alabama,1089,Madison,34.9237,-86.5671,3452,132.0,polygon,False,False,America/Chicago,3,35750,1840013545
+8193,Ladonia,Ladonia,AL,Alabama,1113,Russell,32.4609,-85.0877,3444,424.0,polygon,False,False,America/Chicago,3,36870 36869,1840013828
+8228,Hanceville,Hanceville,AL,Alabama,1043,Cullman,34.0634,-86.7651,3422,296.0,polygon,False,True,America/Chicago,3,35077,1840013642
+8252,Heflin,Heflin,AL,Alabama,1029,Cleburne,33.6471,-85.5698,3409,81.0,polygon,False,True,America/Chicago,3,36264,1840007380
+8253,Piedmont,Piedmont,AL,Alabama,1015,Calhoun,33.9268,-85.6148,3408,178.0,polygon,False,True,America/Chicago,3,36272,1840014781
+8338,West End-Cobb Town,West End-Cobb Town,AL,Alabama,1015,Calhoun,33.6526,-85.8742,3346,313.0,polygon,False,True,America/Chicago,3,36201,1840073855
+8349,Kinsey,Kinsey,AL,Alabama,1069,Houston,31.2926,-85.3353,3341,72.0,polygon,False,True,America/Chicago,3,36303 36345,1840017127
+8466,Livingston,Livingston,AL,Alabama,1119,Sumter,32.5982,-88.1891,3260,176.0,polygon,False,True,America/Chicago,3,35470,1840005153
+8530,Warrior,Warrior,AL,Alabama,1073,Jefferson,33.8153,-86.8153,3210,127.0,polygon,False,True,America/Chicago,3,35180,1840015674
+8547,Emerald Mountain,Emerald Mountain,AL,Alabama,1051,Elmore,32.4396,-86.0857,3200,76.0,polygon,False,True,America/Chicago,3,36093 36078,1840037820
+8552,Underwood-Petersville,Underwood-Petersville,AL,Alabama,1077,Lauderdale,34.877,-87.6975,3196,212.0,polygon,False,True,America/Chicago,3,35633,1840073851
+8617,Fayette,Fayette,AL,Alabama,1057,Fayette,33.6943,-87.8307,3154,193.0,polygon,False,True,America/Chicago,3,35555,1840006295
+8673,Marion,Marion,AL,Alabama,1105,Perry,32.6318,-87.3172,3123,114.0,polygon,False,True,America/Chicago,3,36756,1840008188
+8727,Red Bay,Red Bay,AL,Alabama,1059,Franklin,34.4358,-88.1362,3085,122.0,polygon,False,True,America/Chicago,3,35582,1840014682
+8760,Weaver,Weaver,AL,Alabama,1015,Calhoun,33.7602,-85.8117,3061,339.0,polygon,False,True,America/Chicago,3,36277,1840015646
+8769,Dadeville,Dadeville,AL,Alabama,1123,Tallapoosa,32.8326,-85.7675,3053,73.0,polygon,False,True,America/Chicago,3,36853,1840001397
+8775,Loxley,Loxley,AL,Alabama,1003,Baldwin,30.6813,-87.7418,3049,36.0,polygon,False,True,America/Chicago,3,36551 36527 36578,1840017123
+8852,Thomasville,Thomasville,AL,Alabama,1025,Clarke,31.9111,-87.7419,2993,169.0,polygon,False,True,America/Chicago,3,36784,1840015849
+8953,Springville,Springville,AL,Alabama,1115,St. Clair,33.7643,-86.4749,2927,186.0,polygon,False,True,America/Chicago,3,35146,1840015642
+8976,New Hope,New Hope,AL,Alabama,1089,Madison,34.537,-86.4128,2916,130.0,polygon,False,True,America/Chicago,3,35760,1840014646
+8991,La Fayette,La Fayette,AL,Alabama,1017,Chambers,32.8997,-85.4007,2910,126.0,polygon,False,True,America/Chicago,3,36862,1840008339
+9060,Columbiana,Columbiana,AL,Alabama,1117,Shelby,33.193,-86.6115,2864,101.0,polygon,False,True,America/Chicago,3,35051,1840006158
+9083,Clayton,Clayton,AL,Alabama,1005,Barbour,31.8822,-85.4604,2847,162.0,polygon,False,True,America/Chicago,3,36016,1840001251
+9197,Brighton,Brighton,AL,Alabama,1073,Jefferson,33.4393,-86.9454,2775,757.0,polygon,False,True,America/Chicago,3,35020,1840013734
+9247,Luverne,Luverne,AL,Alabama,1041,Crenshaw,31.7186,-86.2687,2744,67.0,polygon,False,True,America/Chicago,3,36049,1840004042
+9282,Moulton,Moulton,AL,Alabama,1079,Lawrence,34.4843,-87.2831,2726,208.0,polygon,False,True,America/Chicago,3,35650,1840008190
+9386,Jemison,Jemison,AL,Alabama,1021,Chilton,32.9696,-86.7339,2672,90.0,polygon,False,True,America/Chicago,3,35085,1840014862
+9513,Moundville,Moundville,AL,Alabama,1065,Hale,32.9968,-87.6272,2612,205.0,polygon,False,True,America/Chicago,3,35474,1840016942
+9520,Centreville,Centreville,AL,Alabama,1007,Bibb,32.9597,-87.1334,2609,106.0,polygon,False,True,America/Chicago,3,35042,1840007089
+9533,Eutaw,Eutaw,AL,Alabama,1063,Greene,32.8436,-87.8987,2603,84.0,polygon,False,True,America/Chicago,3,35462,1840001838
+9554,Jackson,Jackson,AL,Alabama,1025,Clarke,31.5318,-87.8915,2593,114.0,polygon,False,True,America/Chicago,3,36545,1840014935
+9586,Hartford,Hartford,AL,Alabama,1061,Geneva,31.1055,-85.6916,2578,159.0,polygon,False,True,America/Chicago,3,36344,1840013892
+9626,Abbeville,Abbeville,AL,Alabama,1067,Henry,31.5664,-85.2528,2560,63.0,polygon,False,True,America/Chicago,3,36310,1840000552
+9630,Indian Springs Village,Indian Springs Village,AL,Alabama,1117,Shelby,33.3591,-86.7493,2559,255.0,polygon,False,True,America/Chicago,3,35242 35124,1840014828
+9637,Geneva,Geneva,AL,Alabama,1061,Geneva,31.0437,-85.8763,2557,104.0,polygon,False,True,America/Chicago,3,36340,1840003161
+9780,Point Clear,Point Clear,AL,Alabama,1003,Baldwin,30.4902,-87.9105,2482,199.0,polygon,False,False,America/Chicago,3,36564 36532,1840013883
+9791,Bayou La Batre,Bayou La Batre,AL,Alabama,1097,Mobile,30.4126,-88.261,2479,127.0,polygon,False,True,America/Chicago,3,36544 36509,1840013897
+9797,Trinity,Trinity,AL,Alabama,1103,Morgan,34.6012,-87.0818,2477,193.0,polygon,False,True,America/Chicago,3,35673,1840016612
+9895,Taylor,Taylor,AL,Alabama,1069,Houston,31.1658,-85.4697,2428,129.0,polygon,False,True,America/Chicago,3,36301 36305,1840017133
+9965,Choccolocco,Choccolocco,AL,Alabama,1015,Calhoun,33.6683,-85.7129,2396,79.0,polygon,False,False,America/Chicago,3,36207 36254,1840022930
+9973,Carlisle-Rockledge,Carlisle-Rockledge,AL,Alabama,1055,Etowah,34.114,-86.1191,2391,57.0,polygon,False,True,America/Chicago,3,35956 35954,1840037805
+9997,Riverside,Riverside,AL,Alabama,1115,St. Clair,33.6171,-86.2042,2377,105.0,polygon,False,True,America/Chicago,3,35135 35125,1840017995
+10023,Ashville,Ashville,AL,Alabama,1115,St. Clair,33.8331,-86.2698,2365,47.0,polygon,False,True,America/Chicago,3,35953 35987,1840013697
+10025,Henagar,Henagar,AL,Alabama,1049,DeKalb,34.631,-85.7405,2363,40.0,polygon,False,True,America/Chicago,3,35978,1840014659
+10029,Good Hope,Good Hope,AL,Alabama,1043,Cullman,34.1098,-86.8651,2362,115.0,polygon,False,True,America/Chicago,3,35057 35055 35077,1840003328
+10035,Smoke Rise,Smoke Rise,AL,Alabama,1009,Blount,33.8789,-86.824,2360,157.0,polygon,False,False,America/Chicago,3,35180,1840013654
+10036,Midland City,Midland City,AL,Alabama,1045,Dale,31.3157,-85.4937,2358,150.0,polygon,False,True,America/Chicago,3,36350,1840017084
+10041,East Brewton,East Brewton,AL,Alabama,1053,Escambia,31.0906,-87.0556,2356,266.0,polygon,False,True,America/Chicago,3,36426,1840013889
+10050,Whitesboro,Whitesboro,AL,Alabama,1055,Etowah,34.1682,-86.0572,2352,51.0,polygon,False,False,America/Chicago,3,35956,1840022891
+10159,Bridgeport,Bridgeport,AL,Alabama,1071,Jackson,34.9495,-85.7243,2297,204.0,polygon,False,True,America/Chicago,3,35740,1840001007
+10205,Guin,Guin,AL,Alabama,1093,Marion,33.9832,-87.9023,2275,58.0,polygon,False,True,America/Chicago,3,35563,1840013640
+10207,Huguley,Huguley,AL,Alabama,1017,Chambers,32.8431,-85.2397,2273,106.0,polygon,False,False,America/Chicago,3,36863,1840013787
+10216,Greensboro,Greensboro,AL,Alabama,1065,Hale,32.7014,-87.595,2268,368.0,polygon,False,True,America/Chicago,3,36744,1840006442
+10239,Aliceville,Aliceville,AL,Alabama,1107,Pickens,33.1237,-88.1594,2254,190.0,polygon,False,True,America/Chicago,3,35442,1840013758
+10245,Evergreen,Evergreen,AL,Alabama,1035,Conecuh,31.4342,-86.9723,2253,68.0,polygon,False,True,America/Chicago,3,36401,1840001842
+10257,Lineville,Lineville,AL,Alabama,1027,Clay,33.313,-85.7508,2249,89.0,polygon,False,True,America/Chicago,3,36266,1840008076
+10277,York,York,AL,Alabama,1119,Sumter,32.4998,-88.2938,2239,125.0,polygon,False,True,America/Chicago,3,36925,1840015778
+10295,Uniontown,Uniontown,AL,Alabama,1105,Perry,32.449,-87.4958,2227,56.0,polygon,False,True,America/Chicago,3,36786,1840016959
+10329,Vincent,Vincent,AL,Alabama,1117,Shelby,33.3848,-86.4086,2213,41.0,polygon,False,True,America/Chicago,3,35178,1840016848
+10389,Ashford,Ashford,AL,Alabama,1069,Houston,31.1858,-85.2359,2181,135.0,polygon,False,True,America/Chicago,3,36312,1840000737
+10457,Morris,Morris,AL,Alabama,1073,Jefferson,33.7467,-86.8037,2149,270.0,polygon,False,True,America/Chicago,3,35071 35116,1840016801
+10488,Lipscomb,Lipscomb,AL,Alabama,1073,Jefferson,33.4261,-86.926,2139,703.0,polygon,False,True,America/Chicago,3,35020,1840015667
+10510,Owens Cross Roads,Owens Cross Roads,AL,Alabama,1089,Madison,34.5845,-86.4574,2129,99.0,polygon,False,True,America/Chicago,3,35763,1840016521
+10598,Graysville,Graysville,AL,Alabama,1073,Jefferson,33.6583,-86.9674,2092,47.0,polygon,False,True,America/Chicago,3,35073,1840003493
+10629,Cowarts,Cowarts,AL,Alabama,1069,Houston,31.2041,-85.3062,2079,107.0,polygon,False,True,America/Chicago,3,36303 36321,1840017131
+10687,Thorsby,Thorsby,AL,Alabama,1021,Chilton,32.917,-86.7203,2057,136.0,polygon,False,True,America/Chicago,3,35171,1840016920
+10688,Wilsonville,Wilsonville,AL,Alabama,1117,Shelby,33.2351,-86.4882,2056,75.0,polygon,False,True,America/Chicago,3,35186,1840016850
+10733,Selmont-West Selmont,Selmont-West Selmont,AL,Alabama,1047,Dallas,32.3784,-87.0074,2040,240.0,polygon,False,True,America/Chicago,3,36703 36701,1840035626
+10742,Creola,Creola,AL,Alabama,1097,Mobile,30.8903,-88.01,2036,55.0,polygon,False,True,America/Chicago,3,36525,1840014988
+10814,Collinsville,Collinsville,AL,Alabama,1049,DeKalb,34.267,-85.8652,2009,198.0,polygon,False,True,America/Chicago,3,35961,1840016553
+10829,Level Plains,Level Plains,AL,Alabama,1045,Dale,31.3071,-85.7687,2002,251.0,polygon,False,True,America/Chicago,3,36330 36322,1840017083
+10949,Stevenson,Stevenson,AL,Alabama,1071,Jackson,34.8487,-85.8437,1951,97.0,polygon,False,True,America/Chicago,3,35772,1840016526
+11059,Florala,Florala,AL,Alabama,1039,Covington,31.0176,-86.3138,1906,69.0,polygon,False,True,America/Chicago,3,36442,1840007209
+11061,Dora,Dora,AL,Alabama,1127,Walker,33.7292,-87.085,1905,97.0,polygon,False,True,America/Chicago,3,35130 35062,1840005829
+11070,Brundidge,Brundidge,AL,Alabama,1109,Pike,31.7182,-85.8177,1902,75.0,polygon,False,True,America/Chicago,3,36010,1840013848
+11083,Slocomb,Slocomb,AL,Alabama,1061,Geneva,31.1103,-85.5954,1898,77.0,polygon,False,True,America/Chicago,3,36375 36349,1840015884
+11094,Ashland,Ashland,AL,Alabama,1027,Clay,33.2704,-85.8337,1895,99.0,polygon,False,True,America/Chicago,3,36251,1840006738
+11096,Sylvania,Sylvania,AL,Alabama,1049,DeKalb,34.5619,-85.8046,1894,82.0,polygon,False,True,America/Chicago,3,35988 35968,1840016558
+11108,Carbon Hill,Carbon Hill,AL,Alabama,1127,Walker,33.8944,-87.5224,1892,132.0,polygon,False,True,America/Chicago,3,35549,1840014766
+11143,Linden,Linden,AL,Alabama,1091,Marengo,32.3001,-87.7926,1880,202.0,polygon,False,True,America/Chicago,3,36748,1840005138
+11219,Crossville,Crossville,AL,Alabama,1049,DeKalb,34.2853,-85.9997,1857,85.0,polygon,False,True,America/Chicago,3,35962,1840016554
+11229,Samson,Samson,AL,Alabama,1061,Geneva,31.1124,-86.0462,1854,197.0,polygon,False,True,America/Chicago,3,36477,1840015883
+11242,Vernon,Vernon,AL,Alabama,1075,Lamar,33.7588,-88.1143,1850,121.0,polygon,False,True,America/Chicago,3,35592,1840005593
+11243,Cordova,Cordova,AL,Alabama,1127,Walker,33.7613,-87.1925,1850,122.0,polygon,False,True,America/Chicago,3,35550,1840014767
+11248,Brookwood,Brookwood,AL,Alabama,1125,Tuscaloosa,33.2397,-87.3277,1848,85.0,polygon,False,True,America/Chicago,3,35444,1840015711
+11286,Sulligent,Sulligent,AL,Alabama,1075,Lamar,33.8912,-88.1266,1834,90.0,polygon,False,True,America/Chicago,3,35586,1840015636
+11311,Cedar Bluff,Cedar Bluff,AL,Alabama,1019,Cherokee,34.2217,-85.5877,1823,144.0,polygon,False,True,America/Chicago,3,35959,1840005812
+11362,Lookout Mountain,Lookout Mountain,AL,Alabama,1055,Etowah,34.1091,-85.9585,1805,45.0,polygon,False,True,America/Chicago,3,35904,1840075152
+11446,Sardis City,Sardis City,AL,Alabama,1055,Etowah,34.1749,-86.1125,1775,87.0,polygon,False,True,America/Chicago,3,35956,1840017967
+11474,Camden,Camden,AL,Alabama,1131,Wilcox,32.0007,-87.2967,1765,162.0,polygon,False,True,America/Chicago,3,36726,1840001060
+11524,Elberta,Elberta,AL,Alabama,1003,Baldwin,30.3855,-87.5888,1746,96.0,polygon,False,True,America/Chicago,3,36530,1840017125
+11554,Grove Hill,Grove Hill,AL,Alabama,1025,Clarke,31.7006,-87.7748,1738,88.0,polygon,False,True,America/Chicago,3,36451,1840005924
+11587,Harpersville,Harpersville,AL,Alabama,1117,Shelby,33.3184,-86.4287,1727,31.0,polygon,False,True,America/Chicago,3,35078,1840016847
+11592,Westover,Westover,AL,Alabama,1117,Shelby,33.3685,-86.5346,1726,34.0,polygon,False,True,America/Chicago,3,35078 35147 35185,1840016849
+11606,Ragland,Ragland,AL,Alabama,1115,St. Clair,33.7469,-86.1384,1722,39.0,polygon,False,True,America/Chicago,3,35131,1840017994
+11613,Butler,Butler,AL,Alabama,1023,Choctaw,32.0965,-88.2108,1721,98.0,polygon,False,True,America/Chicago,3,36904,1840015823
+11711,Concord,Concord,AL,Alabama,1073,Jefferson,33.4674,-87.0392,1690,193.0,polygon,False,False,America/Chicago,3,35023,1840013094
+11738,Summerdale,Summerdale,AL,Alabama,1003,Baldwin,30.4783,-87.6904,1681,64.0,polygon,False,True,America/Chicago,3,36535 36580,1840017126
+11775,Blountsville,Blountsville,AL,Alabama,1009,Blount,34.0814,-86.5867,1670,118.0,polygon,False,True,America/Chicago,3,35031,1840015600
+11796,Coaling,Coaling,AL,Alabama,1125,Tuscaloosa,33.1641,-87.3534,1663,128.0,polygon,False,True,America/Chicago,3,35453 35449,1840016840
+11813,Rehobeth,Rehobeth,AL,Alabama,1069,Houston,31.1242,-85.4382,1657,85.0,polygon,False,True,America/Chicago,3,36301,1840018195
+11827,Vance,Vance,AL,Alabama,1125,Tuscaloosa,33.1745,-87.2313,1654,62.0,polygon,False,True,America/Chicago,3,35188 35490,1840016842
+11913,Stewartville,Stewartville,AL,Alabama,1037,Coosa,33.0725,-86.2658,1627,26.0,polygon,False,False,America/Chicago,3,35151 35183,1840023022
+11953,Gordo,Gordo,AL,Alabama,1107,Pickens,33.322,-87.904,1614,191.0,polygon,False,True,America/Chicago,3,35466,1840003367
+11972,Georgiana,Georgiana,AL,Alabama,1013,Butler,31.6391,-86.7468,1608,99.0,polygon,False,True,America/Chicago,3,36033,1840003191
+11985,Blue Ridge,Blue Ridge,AL,Alabama,1051,Elmore,32.501,-86.1839,1602,79.0,polygon,False,False,America/Chicago,3,36093,1840013806
+11993,Coats Bend,Coats Bend,AL,Alabama,1055,Etowah,34.0774,-85.8742,1600,72.0,polygon,False,True,America/Chicago,3,35901,1840075147
+12090,Marbury,Marbury,AL,Alabama,1001,Autauga,32.6793,-86.4607,1573,26.0,polygon,False,False,America/Chicago,3,36022 36051,1840023045
+12150,Reform,Reform,AL,Alabama,1107,Pickens,33.3788,-88.0173,1552,74.0,polygon,False,True,America/Chicago,3,35481,1840018010
+12359,Mount Vernon,Mount Vernon,AL,Alabama,1097,Mobile,31.0889,-88.0137,1495,105.0,polygon,False,True,America/Chicago,3,36560,1840017140
+12372,Sylvan Springs,Sylvan Springs,AL,Alabama,1073,Jefferson,33.5287,-87.0312,1492,66.0,polygon,False,True,America/Chicago,3,35118,1840016803
+12427,Webb,Webb,AL,Alabama,1069,Houston,31.2572,-85.2896,1477,50.0,polygon,False,True,America/Chicago,3,36376 36321,1840017134
+12441,Axis,Axis,AL,Alabama,1097,Mobile,30.9296,-88.0179,1473,145.0,polygon,False,False,America/Chicago,3,36505,1840025979
+12494,Ardmore,Ardmore,AL,Alabama,1083,Limestone,34.9847,-86.8373,1463,276.0,polygon,False,True,America/Chicago,3,35739,1840015515
+12495,Malvern,Malvern,AL,Alabama,1061,Geneva,31.1428,-85.521,1463,40.0,polygon,False,True,America/Chicago,3,36375 36301 36305,1840017137
+12512,Ballplay,Ballplay,AL,Alabama,1055,Etowah,34.0179,-85.7853,1458,23.0,polygon,False,False,America/Chicago,3,35903 36272,1840022887
+12520,Newton,Newton,AL,Alabama,1045,Dale,31.3423,-85.5893,1456,39.0,polygon,False,True,America/Chicago,3,36371 36352 36360,1840017088
+12614,Fayetteville,Fayetteville,AL,Alabama,1121,Talladega,33.1643,-86.4411,1432,31.0,polygon,False,False,America/Chicago,3,35151 35044,1840022953
+12677,Redstone Arsenal,Redstone Arsenal,AL,Alabama,1089,Madison,34.6843,-86.647,1414,70.0,polygon,True,True,America/Chicago,3,35808,1840035873
+12737,Shoal Creek,Shoal Creek,AL,Alabama,1117,Shelby,33.4328,-86.6071,1398,107.0,polygon,False,True,America/Chicago,3,35242 35094,1840075164
+12768,Flomaton,Flomaton,AL,Alabama,1053,Escambia,31.0127,-87.2541,1393,105.0,polygon,False,True,America/Chicago,3,36441,1840006309
+12851,Rock Creek,Rock Creek,AL,Alabama,1073,Jefferson,33.4772,-87.0812,1369,175.0,polygon,False,False,America/Chicago,3,35023,1840027632
+12937,Elmore,Elmore,AL,Alabama,1051,Elmore,32.5552,-86.3425,1348,82.0,polygon,False,True,America/Chicago,3,36022 36025,1840016966
+12938,Munford,Munford,AL,Alabama,1121,Talladega,33.5259,-85.9554,1348,203.0,polygon,False,True,America/Chicago,3,36268,1840022952
+12958,Hayden,Hayden,AL,Alabama,1009,Blount,33.8822,-86.7839,1343,129.0,polygon,False,True,America/Chicago,3,35180 35079,1840015601
+12996,Dauphin Island,Dauphin Island,AL,Alabama,1097,Mobile,30.2525,-88.1438,1335,82.0,polygon,False,True,America/Chicago,3,36528,1840017141
+13015,Lillian,Lillian,AL,Alabama,1003,Baldwin,30.4122,-87.432,1330,268.0,polygon,False,False,America/Chicago,3,36549,1840025228
+13017,Brookside,Brookside,AL,Alabama,1073,Jefferson,33.638,-86.9014,1329,80.0,polygon,False,True,America/Chicago,3,35214 35117 35036,1840015669
+13070,Goodwater,Goodwater,AL,Alabama,1037,Coosa,33.0608,-86.0516,1315,78.0,polygon,False,True,America/Chicago,3,35072,1840007377
+13115,Cleveland,Cleveland,AL,Alabama,1009,Blount,33.9965,-86.5671,1306,64.0,polygon,False,True,America/Chicago,3,35049 35121,1840016718
+13121,Shelby,Shelby,AL,Alabama,1117,Shelby,33.1068,-86.5825,1305,26.0,polygon,False,False,America/Chicago,3,35051 35143,1840022965
+13154,Coosada,Coosada,AL,Alabama,1051,Elmore,32.4983,-86.3279,1298,72.0,polygon,False,True,America/Chicago,3,36054 36020,1840016963
+13265,Clio,Clio,AL,Alabama,1005,Barbour,31.7085,-85.6109,1274,48.0,polygon,False,True,America/Chicago,3,36017,1840014926
+13331,New Brockton,New Brockton,AL,Alabama,1031,Coffee,31.3784,-85.9228,1261,60.0,polygon,False,True,America/Chicago,3,36351,1840017091
+13342,Hackleburg,Hackleburg,AL,Alabama,1093,Marion,34.2693,-87.8303,1258,31.0,polygon,False,True,America/Chicago,3,35564,1840016697
+13349,Falkville,Falkville,AL,Alabama,1103,Morgan,34.3793,-86.9086,1257,128.0,polygon,False,True,America/Chicago,3,35622,1840002079
+13361,Cottonwood,Cottonwood,AL,Alabama,1069,Houston,31.0552,-85.3007,1255,83.0,polygon,False,True,America/Chicago,3,36320,1840017130
+13371,West Blocton,West Blocton,AL,Alabama,1007,Bibb,33.1186,-87.1253,1252,100.0,polygon,False,True,America/Chicago,3,35184,1840016894
+13378,Rogersville,Rogersville,AL,Alabama,1077,Lauderdale,34.8251,-87.2821,1251,159.0,polygon,False,True,America/Chicago,3,35652,1840017891
+13440,Tidmore Bend,Tidmore Bend,AL,Alabama,1055,Etowah,34.0324,-85.9254,1237,49.0,polygon,False,True,America/Chicago,3,35901,1840075168
+13441,Deatsville,Deatsville,AL,Alabama,1051,Elmore,32.5863,-86.3918,1237,99.0,polygon,False,True,America/Chicago,3,36054 36022,1840016964
+13600,New Market,New Market,AL,Alabama,1089,Madison,34.8892,-86.4226,1205,26.0,polygon,False,False,America/Chicago,3,35761,1840013548
+13638,Locust Fork,Locust Fork,AL,Alabama,1009,Blount,33.8957,-86.6301,1197,119.0,polygon,False,True,America/Chicago,3,35097,1840016717
+13640,Stapleton,Stapleton,AL,Alabama,1003,Baldwin,30.7394,-87.7943,1196,42.0,polygon,False,False,America/Chicago,3,36578,1840027497
+13703,Chatom,Chatom,AL,Alabama,1129,Washington,31.4691,-88.246,1182,42.0,polygon,False,True,America/Chicago,3,36518,1840001112
+13765,Silverhill,Silverhill,AL,Alabama,1003,Baldwin,30.5455,-87.7505,1170,359.0,polygon,False,True,America/Chicago,3,36576,1840018194
+13843,Fort Deposit,Fort Deposit,AL,Alabama,1085,Lowndes,31.9863,-86.5664,1155,78.0,polygon,False,True,America/Chicago,3,36032,1840002146
+13851,Frisco City,Frisco City,AL,Alabama,1099,Monroe,31.4353,-87.4037,1153,110.0,polygon,False,True,America/Chicago,3,36445,1840005003
+13852,Ohatchee,Ohatchee,AL,Alabama,1015,Calhoun,33.7877,-86.028,1153,75.0,polygon,False,True,America/Chicago,3,36271,1840016782
+14128,Berry,Berry,AL,Alabama,1057,Fayette,33.6623,-87.6079,1095,39.0,polygon,False,True,America/Chicago,3,35546,1840015661
+14147,New Union,New Union,AL,Alabama,1055,Etowah,34.1422,-86.2218,1091,34.0,polygon,False,True,America/Chicago,3,35956,1840075158
+14155,Steele,Steele,AL,Alabama,1115,St. Clair,33.937,-86.2004,1089,62.0,polygon,False,True,America/Chicago,3,35987,1840016773
+14245,Minor,Minor,AL,Alabama,1073,Jefferson,33.5389,-86.9402,1074,591.0,polygon,False,False,America/Chicago,3,35224,1840013726
+14253,Phil Campbell,Phil Campbell,AL,Alabama,1059,Franklin,34.3519,-87.7062,1071,101.0,polygon,False,True,America/Chicago,3,35581,1840016626
+14267,Bear Creek,Bear Creek,AL,Alabama,1093,Marion,34.2651,-87.7164,1068,30.0,polygon,False,True,America/Chicago,3,35581 35543,1840015585
+14298,Double Springs,Double Springs,AL,Alabama,1133,Winston,34.1502,-87.3912,1062,80.0,polygon,False,True,America/Chicago,3,35553,1840007127
+14388,Fyffe,Fyffe,AL,Alabama,1049,DeKalb,34.4496,-85.9049,1045,91.0,polygon,False,True,America/Chicago,3,35971,1840004830
+14416,Town Creek,Town Creek,AL,Alabama,1079,Lawrence,34.6718,-87.4063,1039,149.0,polygon,False,True,America/Chicago,3,35672,1840016591
+14543,Vandiver,Vandiver,AL,Alabama,1117,Shelby,33.4601,-86.5251,1016,19.0,polygon,False,False,America/Chicago,3,35147 35176,1840022967
+14557,Leesburg,Leesburg,AL,Alabama,1019,Cherokee,34.1839,-85.775,1013,62.0,polygon,False,True,America/Chicago,3,35983,1840016636
+14558,Eclectic,Eclectic,AL,Alabama,1051,Elmore,32.6387,-86.0386,1013,95.0,polygon,False,True,America/Chicago,3,36024,1840016965
+14567,Bon Secour,Bon Secour,AL,Alabama,1003,Baldwin,30.3222,-87.7271,1011,90.0,polygon,False,False,America/Chicago,3,36511 36535,1840027557
+14584,Cherokee,Cherokee,AL,Alabama,1033,Colbert,34.7577,-87.967,1008,175.0,polygon,False,True,America/Chicago,3,35616,1840016548
+14691,Littleville,Littleville,AL,Alabama,1033,Colbert,34.5951,-87.6719,992,77.0,polygon,False,True,America/Chicago,3,35674 35654,1840016547
+14719,Brantleyville,Brantleyville,AL,Alabama,1117,Shelby,33.2196,-86.882,987,173.0,polygon,False,False,America/Chicago,3,35114,1840022963
+14740,Hollywood,Hollywood,AL,Alabama,1071,Jackson,34.719,-85.965,984,42.0,polygon,False,True,America/Chicago,3,35769 35752,1840016522
+14767,Millport,Millport,AL,Alabama,1075,Lamar,33.5586,-88.0817,980,68.0,polygon,False,True,America/Chicago,3,35576,1840016756
+14808,Mignon,Mignon,AL,Alabama,1121,Talladega,33.1948,-86.2651,974,187.0,polygon,False,False,America/Chicago,3,35150,1840027518
+14846,Powell,Powell,AL,Alabama,1049,DeKalb,34.5325,-85.8979,967,75.0,polygon,False,True,America/Chicago,3,35986 35971,1840017914
+14870,Coker,Coker,AL,Alabama,1125,Tuscaloosa,33.2446,-87.6799,964,190.0,polygon,False,True,America/Chicago,3,35452,1840016841
+14924,Calvert,Calvert,AL,Alabama,1129,Washington,31.154,-88.0169,957,158.0,polygon,False,False,America/Chicago,3,36513 36560,1840025955
+14940,Killen,Killen,AL,Alabama,1077,Lauderdale,34.8607,-87.5269,955,182.0,polygon,False,True,America/Chicago,3,35645,1840016503
+14972,Camp Hill,Camp Hill,AL,Alabama,1123,Tallapoosa,32.8002,-85.6536,950,40.0,polygon,False,True,America/Chicago,3,36850,1840015761
+14978,Triana,Triana,AL,Alabama,1089,Madison,34.5904,-86.7418,949,299.0,polygon,False,True,America/Chicago,3,35756,1840016520
+15009,Carrollton,Carrollton,AL,Alabama,1107,Pickens,33.2619,-88.0951,943,176.0,polygon,False,True,America/Chicago,3,35447,1840004806
+15042,Parrish,Parrish,AL,Alabama,1127,Walker,33.7323,-87.2802,937,172.0,polygon,False,True,America/Chicago,3,35580,1840016770
+15197,Grant,Grant,AL,Alabama,1095,Marshall,34.5189,-86.2492,916,191.0,polygon,False,True,America/Chicago,3,35747,1840016620
+15208,Dunnavant,Dunnavant,AL,Alabama,1117,Shelby,33.5006,-86.538,914,19.0,polygon,False,True,America/Chicago,3,35094 35176,1840037812
+15216,Altoona,Altoona,AL,Alabama,1055,Etowah,34.031,-86.3181,913,81.0,polygon,False,True,America/Chicago,3,35952,1840000720
+15319,Geraldine,Geraldine,AL,Alabama,1049,DeKalb,34.3577,-86.0037,898,88.0,polygon,False,True,America/Chicago,3,35974,1840004919
+15363,Hollins,Hollins,AL,Alabama,1027,Clay,33.1213,-86.129,892,29.0,polygon,False,False,America/Chicago,3,35072,1840022973
+15399,Ivalee,Ivalee,AL,Alabama,1055,Etowah,34.0372,-86.1472,886,45.0,polygon,False,False,America/Chicago,3,35954,1840022890
+15475,Mosses,Mosses,AL,Alabama,1085,Lowndes,32.1801,-86.6888,874,71.0,polygon,False,True,America/Chicago,3,36040,1840017006
+15482,Brilliant,Brilliant,AL,Alabama,1093,Marion,34.0256,-87.7691,873,31.0,polygon,False,True,America/Chicago,3,35594 35548,1840015586
+15500,Autaugaville,Autaugaville,AL,Alabama,1001,Autauga,32.432,-86.6579,871,42.0,polygon,False,True,America/Chicago,3,36003,1840015797
+15531,Sterrett,Sterrett,AL,Alabama,1117,Shelby,33.449,-86.4645,866,14.0,polygon,False,False,America/Chicago,3,35147 35178,1840022966
+15637,Pine Hill,Pine Hill,AL,Alabama,1131,Wilcox,31.9858,-87.5875,852,86.0,polygon,False,True,America/Chicago,3,36769,1840017026
+15744,Skyline,Skyline,AL,Alabama,1071,Jackson,34.7987,-86.1229,838,81.0,polygon,False,True,America/Chicago,3,35768 35776,1840017900
+15745,Snead,Snead,AL,Alabama,1009,Blount,34.1162,-86.3901,838,58.0,polygon,False,True,America/Chicago,3,35952,1840017964
+15844,Jacksons' Gap,Jacksons' Gap,AL,Alabama,1123,Tallapoosa,32.8831,-85.815,827,37.0,polygon,False,True,America/Chicago,3,36861,1840025222
+15854,Holly Pond,Holly Pond,AL,Alabama,1043,Cullman,34.1696,-86.6125,826,71.0,polygon,False,True,America/Chicago,3,35055 35083,1840016698
+15880,Magnolia Springs,Magnolia Springs,AL,Alabama,1003,Baldwin,30.4003,-87.7748,823,353.0,polygon,False,True,America/Chicago,3,36535 36555,1840017124
+15881,Notasulga,Notasulga,AL,Alabama,1087,Macon,32.5569,-85.6695,823,23.0,polygon,False,True,America/Chicago,3,36866,1840016981
+15948,Gurley,Gurley,AL,Alabama,1089,Madison,34.7072,-86.3768,812,88.0,polygon,False,True,America/Chicago,3,35748,1840016519
+15967,Mulga,Mulga,AL,Alabama,1073,Jefferson,33.5534,-86.9735,810,487.0,polygon,False,True,America/Chicago,3,35005 35118,1840016802
+16091,Wedowee,Wedowee,AL,Alabama,1111,Randolph,33.3077,-85.4864,794,87.0,polygon,False,True,America/Chicago,3,36278,1840005602
+16164,Hayneville,Hayneville,AL,Alabama,1085,Lowndes,32.1822,-86.5787,784,162.0,polygon,False,True,America/Chicago,3,36040,1840003774
+16217,Douglas,Douglas,AL,Alabama,1095,Marshall,34.1705,-86.3224,778,88.0,polygon,False,True,America/Chicago,3,35957 35980 35964,1840016619
+16238,Susan Moore,Susan Moore,AL,Alabama,1009,Blount,34.0799,-86.4234,776,57.0,polygon,False,True,America/Chicago,3,35952 35031 35121,1840016720
+16255,Egypt,Egypt,AL,Alabama,1055,Etowah,34.0759,-86.1651,774,33.0,polygon,False,False,America/Chicago,3,35952 35956,1840022888
+16262,Somerville,Somerville,AL,Alabama,1103,Morgan,34.4676,-86.7935,773,97.0,polygon,False,True,America/Chicago,3,35670 35640,1840004313
+16292,White Plains,White Plains,AL,Alabama,1015,Calhoun,33.7603,-85.688,770,23.0,polygon,False,False,America/Chicago,3,36207,1840022932
+16298,Bristow Cove,Bristow Cove,AL,Alabama,1055,Etowah,34.1092,-86.241,769,27.0,polygon,False,True,America/Chicago,3,35956,1840037800
+16309,Brantley,Brantley,AL,Alabama,1041,Crenshaw,31.5822,-86.2569,768,95.0,polygon,False,True,America/Chicago,3,36009,1840015844
+16364,New Site,New Site,AL,Alabama,1123,Tallapoosa,33.0283,-85.7801,760,29.0,polygon,False,True,America/Chicago,3,36256,1840016915
+16391,Leighton,Leighton,AL,Alabama,1033,Colbert,34.6941,-87.5282,756,135.0,polygon,False,True,America/Chicago,3,35646,1840016546
+16400,Hobson City,Hobson City,AL,Alabama,1015,Calhoun,33.6148,-85.8561,755,278.0,polygon,False,True,America/Chicago,3,36203 36201,1840016781
+16435,White Hall,White Hall,AL,Alabama,1085,Lowndes,32.2993,-86.7148,751,18.0,polygon,False,True,America/Chicago,3,36785 36752 36040,1840017009
+16436,Perdido,Perdido,AL,Alabama,1003,Baldwin,31.0033,-87.6324,751,26.0,polygon,False,False,America/Chicago,3,36562,1840027534
+16495,South Vinemont,South Vinemont,AL,Alabama,1043,Cullman,34.2348,-86.8642,745,330.0,polygon,False,True,America/Chicago,3,35058 35179,1840017959
+16513,Edgewater,Edgewater,AL,Alabama,1073,Jefferson,33.5286,-86.9574,743,236.0,polygon,False,False,America/Chicago,3,35224,1840013093
+16514,Gallant,Gallant,AL,Alabama,1055,Etowah,34.0013,-86.2304,743,19.0,polygon,False,False,America/Chicago,3,35972,1840022889
+16537,Section,Section,AL,Alabama,1071,Jackson,34.5816,-85.9849,740,62.0,polygon,False,True,America/Chicago,3,35771,1840017899
+16545,Ariton,Ariton,AL,Alabama,1045,Dale,31.5978,-85.7131,739,56.0,polygon,False,True,America/Chicago,3,36311,1840004920
+16570,Columbia,Columbia,AL,Alabama,1069,Houston,31.2968,-85.1103,737,72.0,polygon,False,True,America/New_York,3,36319,1840017129
+16673,Oakman,Oakman,AL,Alabama,1127,Walker,33.7141,-87.389,724,90.0,polygon,False,True,America/Chicago,3,35579,1840016769
+16683,Woodville,Woodville,AL,Alabama,1071,Jackson,34.6256,-86.2792,723,42.0,polygon,False,True,America/Chicago,3,35776,1840016527
+16734,Ider,Ider,AL,Alabama,1049,DeKalb,34.7022,-85.6691,718,51.0,polygon,False,True,America/Chicago,3,35981 35978,1840016550
+16735,Addison,Addison,AL,Alabama,1133,Winston,34.2017,-87.1765,718,73.0,polygon,False,True,America/Chicago,3,35540,1840015589
+16766,Wadley,Wadley,AL,Alabama,1111,Randolph,33.1239,-85.5683,714,189.0,polygon,False,True,America/Chicago,3,36276,1840016864
+16801,Lexington,Lexington,AL,Alabama,1077,Lauderdale,34.9652,-87.3735,709,84.0,polygon,False,True,America/Chicago,3,35648,1840016504
+16802,Stockton,Stockton,AL,Alabama,1003,Baldwin,30.9946,-87.86,709,29.0,polygon,False,False,America/Chicago,3,36507 36579,1840027498
+16864,Maplesville,Maplesville,AL,Alabama,1021,Chilton,32.7867,-86.8783,700,82.0,polygon,False,True,America/Chicago,3,36750,1840016919
+16865,Walnut Grove,Walnut Grove,AL,Alabama,1055,Etowah,34.0641,-86.2863,700,53.0,polygon,False,True,America/Chicago,3,35952 35990,1840016722
+16923,Pisgah,Pisgah,AL,Alabama,1071,Jackson,34.6844,-85.846,692,55.0,polygon,False,True,America/Chicago,3,35765,1840016529
+16941,Joppa,Joppa,AL,Alabama,1043,Cullman,34.2982,-86.5506,690,137.0,polygon,False,False,America/Chicago,3,35016 35087,1840025862
+16978,Leroy,Leroy,AL,Alabama,1129,Washington,31.4952,-87.969,685,22.0,polygon,False,False,America/Chicago,3,36548,1840025960
+17012,Wilton,Wilton,AL,Alabama,1117,Shelby,33.0813,-86.8799,681,274.0,polygon,False,True,America/Chicago,3,35187 35115,1840016851
+17101,St. Florian,St. Florian,AL,Alabama,1077,Lauderdale,34.8714,-87.6224,670,68.0,polygon,False,True,America/Chicago,3,35634,1840017892
+17274,Allgood,Allgood,AL,Alabama,1009,Blount,33.9064,-86.5178,650,241.0,polygon,False,True,America/Chicago,3,35013 35121,1840015599
+17284,Perdido Beach,Perdido Beach,AL,Alabama,1003,Baldwin,30.3554,-87.5036,649,211.0,polygon,False,True,America/Chicago,3,36530,1840023131
+17412,Lynn,Lynn,AL,Alabama,1133,Winston,34.0548,-87.5555,635,23.0,polygon,False,True,America/Chicago,3,35565 35575,1840016709
+17426,McDonald Chapel,McDonald Chapel,AL,Alabama,1073,Jefferson,33.5189,-86.9385,633,227.0,polygon,False,False,America/Chicago,3,35224,1840013725
+17440,Excel,Excel,AL,Alabama,1099,Monroe,31.4264,-87.3433,632,148.0,polygon,False,True,America/Chicago,3,36460 36439,1840004979
+17454,Pinckard,Pinckard,AL,Alabama,1045,Dale,31.3173,-85.543,630,45.0,polygon,False,True,America/Chicago,3,36371,1840017089
+17483,Reece City,Reece City,AL,Alabama,1055,Etowah,34.0772,-86.0345,627,68.0,polygon,False,True,America/Chicago,3,35954,1840017965
+17522,Dodge City,Dodge City,AL,Alabama,1043,Cullman,34.0453,-86.8837,623,69.0,polygon,False,True,America/Chicago,3,35057 35077,1840016700
+17560,North Courtland,North Courtland,AL,Alabama,1079,Lawrence,34.6788,-87.3083,620,361.0,polygon,False,True,America/Chicago,3,35618,1840016592
+17571,Baileyton,Baileyton,AL,Alabama,1043,Cullman,34.2609,-86.6082,619,45.0,polygon,False,True,America/Chicago,3,35019,1840015588
+17592,Trafford,Trafford,AL,Alabama,1073,Jefferson,33.8194,-86.7467,617,97.0,polygon,False,True,America/Chicago,3,35180 35172,1840016804
+17659,West Point,West Point,AL,Alabama,1043,Cullman,34.2401,-86.9626,609,68.0,polygon,False,True,America/Chicago,3,35057 35179,1840016704
+17804,Babbie,Babbie,AL,Alabama,1039,Covington,31.3022,-86.3229,596,20.0,polygon,False,True,America/Chicago,3,36467 36421,1840015865
+17869,Hollis Crossroads,Hollis Crossroads,AL,Alabama,1029,Cleburne,33.5231,-85.6437,591,18.0,polygon,False,False,America/Chicago,3,36264 36258,1840022933
+17890,Hurtsboro,Hurtsboro,AL,Alabama,1113,Russell,32.2401,-85.4147,589,220.0,polygon,False,True,America/Chicago,3,36860,1840016999
+17901,Courtland,Courtland,AL,Alabama,1079,Lawrence,34.6703,-87.3262,588,76.0,polygon,False,True,America/Chicago,3,35618,1840016590
+17902,Forkland,Forkland,AL,Alabama,1063,Greene,32.6489,-87.8671,588,64.0,polygon,False,True,America/Chicago,3,36740,1840002097
+17936,Clayhatchee,Clayhatchee,AL,Alabama,1045,Dale,31.2434,-85.7136,585,83.0,polygon,False,True,America/Chicago,3,36322,1840017086
+18002,Pickensville,Pickensville,AL,Alabama,1107,Pickens,33.2336,-88.2743,578,28.0,polygon,False,True,America/Chicago,3,35447,1840005373
+18086,Sand Rock,Sand Rock,AL,Alabama,1019,Cherokee,34.2308,-85.7712,569,53.0,polygon,False,True,America/Chicago,3,35983,1840017941
+18237,Grimes,Grimes,AL,Alabama,1045,Dale,31.2999,-85.4502,556,171.0,polygon,False,True,America/Chicago,3,36303 36350,1840003500
+18329,Valley Head,Valley Head,AL,Alabama,1049,DeKalb,34.5575,-85.6214,549,61.0,polygon,False,True,America/Chicago,3,35989,1840016559
+18355,Kinston,Kinston,AL,Alabama,1031,Coffee,31.22,-86.1705,547,43.0,polygon,False,True,America/Chicago,3,36453,1840017090
+18417,Castleberry,Castleberry,AL,Alabama,1035,Conecuh,31.3001,-87.027,540,121.0,polygon,False,True,America/Chicago,3,36432,1840017079
+18467,River Falls,River Falls,AL,Alabama,1039,Covington,31.3524,-86.5412,535,30.0,polygon,False,True,America/Chicago,3,36474 36476 36421,1840018177
+18491,Belle Fontaine,Belle Fontaine,AL,Alabama,1097,Mobile,30.492,-88.1131,532,132.0,polygon,False,True,America/Chicago,3,36582,1840023701
+18611,Hillsboro,Hillsboro,AL,Alabama,1079,Lawrence,34.6408,-87.1837,521,106.0,polygon,False,True,America/Chicago,3,35643,1840016589
+18612,Oak Grove,Oak Grove,AL,Alabama,1121,Talladega,33.1928,-86.3036,521,113.0,polygon,False,True,America/Chicago,3,35151 35150,1840016831
+18637,Our Town,Our Town,AL,Alabama,1123,Tallapoosa,32.8304,-85.9687,519,16.0,polygon,False,False,America/Chicago,3,35010,1840023017
+18709,Franklin,Franklin,AL,Alabama,1087,Macon,32.4514,-85.7864,512,13.0,polygon,False,True,America/Chicago,3,36083,1840016980
+18710,Newville,Newville,AL,Alabama,1067,Henry,31.4206,-85.3367,512,49.0,polygon,False,True,America/Chicago,3,36353,1840017073
+18733,Elkmont,Elkmont,AL,Alabama,1083,Limestone,34.9289,-86.9765,510,119.0,polygon,False,True,America/Chicago,3,35620,1840016511
+18734,Avon,Avon,AL,Alabama,1069,Houston,31.1799,-85.2802,510,76.0,polygon,False,True,America/Chicago,3,36312,1840015881
+18800,Lockhart,Lockhart,AL,Alabama,1039,Covington,31.0128,-86.3505,504,178.0,polygon,False,True,America/Chicago,3,36442 36455,1840017095
+18836,Garden City,Garden City,AL,Alabama,1043,Cullman,34.0152,-86.752,501,64.0,polygon,False,True,America/Chicago,3,35077 35070,1840002685
+18867,Eva,Eva,AL,Alabama,1103,Morgan,34.3274,-86.7614,499,46.0,polygon,False,True,America/Chicago,3,35621,1840001840
+18896,Millry,Millry,AL,Alabama,1129,Washington,31.6256,-88.3191,497,25.0,polygon,False,True,America/Chicago,3,36558,1840017081
+18911,Hammondville,Hammondville,AL,Alabama,1049,DeKalb,34.5685,-85.6397,495,38.0,polygon,False,True,America/Chicago,3,35989,1840016557
+18919,Nances Creek,Nances Creek,AL,Alabama,1015,Calhoun,33.8588,-85.6733,494,32.0,polygon,False,False,America/Chicago,3,36265 36272,1840022931
+18934,Lisman,Lisman,AL,Alabama,1023,Choctaw,32.1792,-88.3002,493,73.0,polygon,False,True,America/Chicago,3,36912,1840017015
+18944,McKenzie,McKenzie,AL,Alabama,1013,Butler,31.5428,-86.7246,492,51.0,polygon,False,True,America/Chicago,3,36456,1840017055
+19015,Rock Mills,Rock Mills,AL,Alabama,1111,Randolph,33.1563,-85.2861,486,29.0,polygon,False,False,America/Chicago,3,36274,1840013762
+19098,Glen Allen,Glen Allen,AL,Alabama,1057,Fayette,33.8922,-87.7328,480,28.0,polygon,False,True,America/Chicago,3,35559 35594 35554,1840005839
+19122,Red Level,Red Level,AL,Alabama,1039,Covington,31.4055,-86.6084,478,96.0,polygon,False,True,America/Chicago,3,36474,1840018176
+19278,Midway,Midway,AL,Alabama,1011,Bullock,32.0764,-85.5244,466,54.0,polygon,False,True,America/Chicago,3,36053,1840017020
+19325,Fairview,Fairview,AL,Alabama,1043,Cullman,34.2477,-86.6843,463,66.0,polygon,False,True,America/Chicago,3,35058,1840002078
+19337,Louisville,Louisville,AL,Alabama,1005,Barbour,31.781,-85.5583,462,64.0,polygon,False,True,America/Chicago,3,36048,1840003795
+19353,Hissop,Hissop,AL,Alabama,1037,Coosa,32.8746,-86.1159,461,9.0,polygon,False,False,America/Chicago,3,35010 35089,1840023019
+19368,Berlin,Berlin,AL,Alabama,1043,Cullman,34.1868,-86.7442,460,214.0,polygon,False,True,America/Chicago,3,35055,1840146895
+19505,Rutledge,Rutledge,AL,Alabama,1041,Crenshaw,31.724,-86.302,449,29.0,polygon,False,True,America/Chicago,3,36049 36071,1840005396
+19685,Rockford,Rockford,AL,Alabama,1037,Coosa,32.8896,-86.215,436,50.0,polygon,False,True,America/Chicago,3,35136,1840005393
+19766,Silas,Silas,AL,Alabama,1023,Choctaw,31.7678,-88.3258,430,31.0,polygon,False,True,America/Chicago,3,36919,1840018123
+19887,Hytop,Hytop,AL,Alabama,1071,Jackson,34.8965,-86.088,422,47.0,polygon,False,True,America/Chicago,3,35768,1840016523
+19900,Kennedy,Kennedy,AL,Alabama,1075,Lamar,33.5809,-87.9862,421,52.0,polygon,False,True,America/Chicago,3,35574,1840016755
+19901,West Jefferson,West Jefferson,AL,Alabama,1073,Jefferson,33.652,-87.0569,421,90.0,polygon,False,True,America/Chicago,3,35130 35005 35062,1840016805
+20051,Highland Lake,Highland Lake,AL,Alabama,1009,Blount,33.8876,-86.4244,410,97.0,polygon,False,True,America/Chicago,3,35121,1840015602
+20138,Pleasant Groves,Pleasant Groves,AL,Alabama,1071,Jackson,34.735,-86.2054,404,42.0,polygon,False,True,America/Chicago,3,35776,1840073888
+20184,Sipsey,Sipsey,AL,Alabama,1127,Walker,33.8225,-87.0834,401,322.0,polygon,False,True,America/Chicago,3,35584 35063,1840017992
+20236,Ranburne,Ranburne,AL,Alabama,1029,Cleburne,33.5259,-85.339,398,96.0,polygon,False,True,America/Chicago,3,36273,1840017996
+20271,Shorter,Shorter,AL,Alabama,1087,Macon,32.4076,-85.9412,395,33.0,polygon,False,True,America/Chicago,3,36075,1840018092
+20285,St. Stephens,St. Stephens,AL,Alabama,1129,Washington,31.5474,-88.0555,394,15.0,polygon,False,False,America/Chicago,3,36569,1840004299
+20310,Twin,Twin,AL,Alabama,1093,Marion,33.9978,-87.8497,392,44.0,polygon,False,True,America/Chicago,3,35563 35548,1840022874
+20459,Thomaston,Thomaston,AL,Alabama,1091,Marengo,32.2683,-87.6237,381,73.0,polygon,False,True,America/Chicago,3,36783,1840016998
+20471,Bellamy,Bellamy,AL,Alabama,1119,Sumter,32.4582,-88.1277,380,38.0,polygon,False,False,America/Chicago,3,35470 36901,1840025886
+20604,Maytown,Maytown,AL,Alabama,1073,Jefferson,33.5489,-86.9999,371,53.0,polygon,False,True,America/Chicago,3,35005 35118,1840016800
+20653,Mentone,Mentone,AL,Alabama,1049,DeKalb,34.5663,-85.5842,368,30.0,polygon,False,True,America/Chicago,3,35984,1840016552
+20812,Malcolm,Malcolm,AL,Alabama,1129,Washington,31.1945,-88.0016,358,58.0,polygon,False,False,America/Chicago,3,36553 36556,1840025961
+20849,Vina,Vina,AL,Alabama,1059,Franklin,34.3757,-88.0602,356,28.0,polygon,False,True,America/Chicago,3,35593,1840016625
+21006,Arley,Arley,AL,Alabama,1133,Winston,34.0886,-87.2074,345,35.0,polygon,False,True,America/Chicago,3,35541,1840006641
+21027,Napier Field,Napier Field,AL,Alabama,1045,Dale,31.3149,-85.4549,344,519.0,polygon,False,True,America/Chicago,3,36303,1840017085
+21083,Nectar,Nectar,AL,Alabama,1009,Blount,33.9686,-86.6346,341,72.0,polygon,False,True,America/Chicago,3,35049 35079,1840016721
+21139,Hackneyville,Hackneyville,AL,Alabama,1123,Tallapoosa,33.0567,-85.9312,337,14.0,polygon,False,False,America/Chicago,3,35072 35010,1840023016
+21258,Epes,Epes,AL,Alabama,1119,Sumter,32.6906,-88.1405,329,19.0,polygon,False,True,America/Chicago,3,35460,1840016949
+21275,Akron,Akron,AL,Alabama,1065,Hale,32.8785,-87.7429,328,184.0,polygon,False,True,America/Chicago,3,35441,1840015775
+21321,Gordon,Gordon,AL,Alabama,1069,Houston,31.1436,-85.0925,325,42.0,polygon,False,True,America/Chicago,3,36343,1840006413
+21368,Coffeeville,Coffeeville,AL,Alabama,1025,Clarke,31.7666,-88.0861,322,27.0,polygon,False,True,America/Chicago,3,36524,1840017049
+21384,Gulfcrest,Gulfcrest,AL,Alabama,1097,Mobile,30.9925,-88.2399,321,81.0,polygon,False,False,America/Chicago,3,36521,1840025982
+21402,Dozier,Dozier,AL,Alabama,1041,Crenshaw,31.5031,-86.3694,320,41.0,polygon,False,True,America/Chicago,3,36028,1840017043
+21425,Rosa,Rosa,AL,Alabama,1009,Blount,33.9885,-86.5037,319,32.0,polygon,False,True,America/Chicago,3,35121,1840017963
+21498,Dutton,Dutton,AL,Alabama,1071,Jackson,34.6062,-85.9119,314,140.0,polygon,False,True,America/Chicago,3,35744,1840016525
+21611,Uriah,Uriah,AL,Alabama,1099,Monroe,31.3073,-87.4992,307,73.0,polygon,False,False,America/Chicago,3,36480,1840025944
+21634,Reeltown,Reeltown,AL,Alabama,1123,Tallapoosa,32.5788,-85.8189,306,15.0,polygon,False,False,America/Chicago,3,36078 36866,1840023018
+21728,Weogufka,Weogufka,AL,Alabama,1037,Coosa,33.0267,-86.3169,301,14.0,polygon,False,False,America/Chicago,3,35183,1840023023
+21828,Carolina,Carolina,AL,Alabama,1039,Covington,31.2337,-86.5227,295,102.0,polygon,False,True,America/Chicago,3,36420,1840015866
+21913,Madrid,Madrid,AL,Alabama,1069,Houston,31.0356,-85.3992,290,64.0,polygon,False,True,America/Chicago,3,36375 36320,1840017128
+21914,Cuba,Cuba,AL,Alabama,1119,Sumter,32.441,-88.3755,290,27.0,polygon,False,True,America/Chicago,3,36907,1840016947
+21915,Vredenburgh,Vredenburgh,AL,Alabama,1099,Monroe,31.8237,-87.3178,290,74.0,polygon,False,True,America/Chicago,3,36481,1840017067
+21941,Colony,Colony,AL,Alabama,1043,Cullman,33.9413,-86.9016,289,49.0,polygon,False,True,America/Chicago,3,35077,1840073883
+22030,Pine Ridge,Pine Ridge,AL,Alabama,1049,DeKalb,34.449,-85.7808,284,84.0,polygon,False,True,America/Chicago,3,35968,1840016560
+22041,Hodges,Hodges,AL,Alabama,1059,Franklin,34.334,-87.9299,283,26.0,polygon,False,True,America/Chicago,3,35571,1840016624
+22084,Shiloh,Shiloh,AL,Alabama,1049,DeKalb,34.4638,-85.878,281,63.0,polygon,False,True,America/Chicago,3,35986,1840017915
+22102,Fruithurst,Fruithurst,AL,Alabama,1029,Cleburne,33.7297,-85.4312,280,108.0,polygon,False,True,America/Chicago,3,36262,1840002170
+22103,Boligee,Boligee,AL,Alabama,1063,Greene,32.7699,-88.0264,280,27.0,polygon,False,True,America/Chicago,3,35443,1840015759
+22139,Gordonville,Gordonville,AL,Alabama,1085,Lowndes,32.1489,-86.6994,278,19.0,polygon,False,True,America/Chicago,3,36040,1840017008
+22140,Beatrice,Beatrice,AL,Alabama,1099,Monroe,31.7332,-87.209,278,79.0,polygon,False,True,America/Chicago,3,36425,1840015858
+22248,Waldo,Waldo,AL,Alabama,1121,Talladega,33.3892,-86.036,272,37.0,polygon,False,True,America/Chicago,3,35160,1840016830
+22337,Anderson,Anderson,AL,Alabama,1077,Lauderdale,34.9147,-87.2716,267,79.0,polygon,False,True,America/Chicago,3,35610,1840015513
+22370,County Line,County Line,AL,Alabama,1009,Blount,33.821,-86.7198,265,105.0,polygon,False,True,America/Chicago,3,35172,1840016719
+22434,Langston,Langston,AL,Alabama,1071,Jackson,34.5374,-86.0899,262,20.0,polygon,False,True,America/Chicago,3,35755,1840016524
+22510,Repton,Repton,AL,Alabama,1035,Conecuh,31.4097,-87.2393,258,104.0,polygon,False,True,America/Chicago,3,36475,1840018171
+22526,Ray,Ray,AL,Alabama,1037,Coosa,32.879,-86.035,257,12.0,polygon,False,False,America/Chicago,3,35010,1840023021
+22539,Heath,Heath,AL,Alabama,1039,Covington,31.3579,-86.4673,256,111.0,polygon,False,True,America/Chicago,3,36421,1840015867
+22557,Goshen,Goshen,AL,Alabama,1109,Pike,31.7182,-86.1242,255,38.0,polygon,False,True,America/Chicago,3,36035,1840003403
+22584,Sanford,Sanford,AL,Alabama,1039,Covington,31.3006,-86.3975,254,23.0,polygon,False,True,America/Chicago,3,36420 36421,1840018178
+22611,Morrison Crossroads,Morrison Crossroads,AL,Alabama,1111,Randolph,33.4198,-85.4903,253,18.0,polygon,False,True,America/Chicago,3,36280,1840037831
+22631,Bakerhill,Bakerhill,AL,Alabama,1005,Barbour,31.7769,-85.2955,252,35.0,polygon,False,False,America/Chicago,3,36027,1840027556
+22728,Vinegar Bend,Vinegar Bend,AL,Alabama,1129,Washington,31.2594,-88.3712,247,10.0,polygon,False,False,America/Chicago,3,36584,1840025964
+22749,Fulton,Fulton,AL,Alabama,1025,Clarke,31.7916,-87.7397,246,38.0,polygon,False,True,America/Chicago,3,36446 36451,1840002425
+22790,Sweet Water,Sweet Water,AL,Alabama,1091,Marengo,32.1046,-87.8619,244,40.0,polygon,False,True,America/Chicago,3,36782,1840016997
+22901,Eunola,Eunola,AL,Alabama,1061,Geneva,31.0326,-85.8409,239,50.0,polygon,False,False,America/Chicago,3,36340,1840001835
+23090,Horn Hill,Horn Hill,AL,Alabama,1039,Covington,31.2382,-86.3211,229,34.0,polygon,False,True,America/Chicago,3,36467,1840017093
+23203,Fruitdale,Fruitdale,AL,Alabama,1129,Washington,31.3429,-88.4109,224,19.0,polygon,False,False,America/Chicago,3,36539,1840025958
+23291,Detroit,Detroit,AL,Alabama,1075,Lamar,34.0274,-88.1678,220,64.0,polygon,False,True,America/Chicago,3,35552,1840016757
+23292,Fredonia,Fredonia,AL,Alabama,1017,Chambers,32.9861,-85.2912,220,7.0,polygon,False,False,America/Chicago,3,36855 36863,1840023013
+23318,Delta,Delta,AL,Alabama,1027,Clay,33.447,-85.6746,219,10.0,polygon,False,False,America/Chicago,3,36258,1840022972
+23334,Abanda,Abanda,AL,Alabama,1017,Chambers,33.0926,-85.5253,218,28.0,polygon,False,False,America/Chicago,3,36276,1840023012
+23404,McIntosh,McIntosh,AL,Alabama,1129,Washington,31.2649,-88.0284,215,83.0,polygon,False,True,America/Chicago,3,36553,1840005189
+23405,Gantt,Gantt,AL,Alabama,1039,Covington,31.4092,-86.4842,215,127.0,polygon,False,True,America/Chicago,3,36038 36421,1840002554
+23424,Coffee Springs,Coffee Springs,AL,Alabama,1061,Geneva,31.1664,-85.9102,214,105.0,polygon,False,True,America/Chicago,3,36318,1840017138
+23485,Kansas,Kansas,AL,Alabama,1127,Walker,33.9029,-87.5568,211,80.0,polygon,False,True,America/Chicago,3,35549 35501 35573,1840016766
+23510,Daviston,Daviston,AL,Alabama,1123,Tallapoosa,33.0556,-85.6371,210,8.0,polygon,False,True,America/Chicago,3,36256,1840016913
+23529,Union,Union,AL,Alabama,1063,Greene,32.9938,-87.9071,209,98.0,polygon,False,True,America/Chicago,3,35462,1840016909
+23654,Pennington,Pennington,AL,Alabama,1023,Choctaw,32.1994,-88.0494,204,40.0,polygon,False,True,America/Chicago,3,36916,1840017019
+23655,Belk,Belk,AL,Alabama,1057,Fayette,33.6516,-87.9286,204,56.0,polygon,False,True,America/Chicago,3,35545 35574 35555,1840015660
+23679,Black,Black,AL,Alabama,1061,Geneva,31.0102,-85.7428,203,25.0,polygon,False,True,America/Chicago,3,36314,1840015882
+23705,Nauvoo,Nauvoo,AL,Alabama,1127,Walker,33.9873,-87.4876,202,78.0,polygon,False,True,America/Chicago,3,35578,1840016768
+23706,Yellow Bluff,Yellow Bluff,AL,Alabama,1131,Wilcox,31.9622,-87.4808,202,168.0,polygon,False,True,America/Chicago,3,36769,1840017023
+23802,Kellyton,Kellyton,AL,Alabama,1037,Coosa,32.9791,-86.0358,198,79.0,polygon,False,True,America/Chicago,3,35089,1840016916
+23803,Loachapoka,Loachapoka,AL,Alabama,1081,Lee,32.6049,-85.5948,198,67.0,polygon,False,True,America/Chicago,3,36832 36865,1840016969
+23804,Broomtown,Broomtown,AL,Alabama,1019,Cherokee,34.3657,-85.5322,198,16.0,polygon,False,False,America/Chicago,3,35973,1840022843
+23839,Macedonia,Macedonia,AL,Alabama,1107,Pickens,33.4031,-88.2392,197,19.0,polygon,False,False,America/Chicago,3,35461,1840026992
+23840,Paint Rock,Paint Rock,AL,Alabama,1071,Jackson,34.6602,-86.3307,197,175.0,polygon,False,True,America/Chicago,3,35764 35776,1840016528
+23841,Providence,Providence,AL,Alabama,1091,Marengo,32.3424,-87.7762,197,43.0,polygon,False,True,America/Chicago,3,36748 36742,1840018105
+23842,Waterloo,Waterloo,AL,Alabama,1077,Lauderdale,34.9173,-88.0654,197,101.0,polygon,False,True,America/Chicago,3,35677,1840016505
+23871,Edwardsville,Edwardsville,AL,Alabama,1029,Cleburne,33.8411,-85.4523,196,4.0,polygon,False,True,America/Chicago,3,36262 36272 36261,1840007129
+23930,Gilbertown,Gilbertown,AL,Alabama,1023,Choctaw,31.8758,-88.3195,193,95.0,polygon,False,True,America/Chicago,3,36908,1840003209
+24045,Beaverton,Beaverton,AL,Alabama,1075,Lamar,33.9354,-88.0218,187,15.0,polygon,False,True,America/Chicago,3,35544,1840015635
+24065,Onycha,Onycha,AL,Alabama,1039,Covington,31.2246,-86.2785,186,90.0,polygon,False,True,America/Chicago,3,36467,1840017098
+24088,Spring Garden,Spring Garden,AL,Alabama,1019,Cherokee,33.973,-85.5558,185,31.0,polygon,False,False,America/Chicago,3,36272 36275,1840022844
+24142,Glenwood,Glenwood,AL,Alabama,1041,Crenshaw,31.6675,-86.173,183,96.0,polygon,False,True,America/Chicago,3,36034,1840003300
+24143,Gainesville,Gainesville,AL,Alabama,1119,Sumter,32.8149,-88.1608,183,41.0,polygon,False,True,America/Chicago,3,35464,1840006339
+24166,Woodland,Woodland,AL,Alabama,1111,Randolph,33.3756,-85.3975,182,45.0,polygon,False,True,America/Chicago,3,36280,1840016866
+24192,Riverview,Riverview,AL,Alabama,1053,Escambia,31.0587,-87.0709,181,48.0,polygon,False,True,America/Chicago,3,36426,1840018196
+24260,Whatley,Whatley,AL,Alabama,1025,Clarke,31.6463,-87.7108,178,53.0,polygon,False,False,America/Chicago,3,36482,1840025933
+24356,Gu-Win,Gu-Win,AL,Alabama,1093,Marion,33.9443,-87.8704,174,34.0,polygon,False,True,America/Chicago,3,35563 35594,1840016696
+24381,Newbern,Newbern,AL,Alabama,1065,Hale,32.592,-87.5331,173,57.0,polygon,False,True,America/Chicago,3,36765,1840016943
+24495,Orrville,Orrville,AL,Alabama,1047,Dallas,32.3068,-87.2454,168,62.0,polygon,False,True,America/Chicago,3,36767,1840016970
+24586,Banks,Banks,AL,Alabama,1109,Pike,31.8132,-85.8364,164,31.0,polygon,False,True,America/Chicago,3,36005,1840015841
+24707,Talladega Springs,Talladega Springs,AL,Alabama,1121,Talladega,33.1191,-86.4421,159,49.0,polygon,False,True,America/Chicago,3,35151,1840016829
+24729,Millerville,Millerville,AL,Alabama,1027,Clay,33.1926,-85.9303,158,9.0,polygon,False,False,America/Chicago,3,35072 36251 36267,1840022974
+24794,Cullomburg,Cullomburg,AL,Alabama,1023,Choctaw,31.7131,-88.2917,155,11.0,polygon,False,False,America/Chicago,3,36919,1840025919
+24852,Standing Rock,Standing Rock,AL,Alabama,1017,Chambers,33.0863,-85.2449,153,18.0,polygon,False,False,America/Chicago,3,36855,1840023015
+24904,Geiger,Geiger,AL,Alabama,1119,Sumter,32.8698,-88.313,151,61.0,polygon,False,True,America/Chicago,3,35459,1840003029
+24957,Spruce Pine,Spruce Pine,AL,Alabama,1059,Franklin,34.3928,-87.7294,149,62.0,polygon,False,False,America/Chicago,3,35585 35581,1840025850
+25016,Hobson,Hobson,AL,Alabama,1129,Washington,31.4836,-88.1513,147,19.0,polygon,False,False,America/Chicago,3,36518,1840025959
+25071,North Johns,North Johns,AL,Alabama,1073,Jefferson,33.368,-87.1008,145,275.0,polygon,False,True,America/Chicago,3,35006,1840016806
+25092,Waverly,Waverly,AL,Alabama,1017,Chambers,32.7333,-85.5761,144,20.0,polygon,False,True,America/Chicago,3,36879,1840016911
+25123,Five Points,Five Points,AL,Alabama,1017,Chambers,33.0173,-85.3516,143,53.0,polygon,False,True,America/Chicago,3,36855,1840016910
+25151,Billingsley,Billingsley,AL,Alabama,1001,Autauga,32.661,-86.7087,142,46.0,polygon,False,True,America/Chicago,3,36006,1840015798
+25152,Chunchula,Chunchula,AL,Alabama,1097,Mobile,30.9237,-88.2072,142,30.0,polygon,False,False,America/Chicago,3,36521,1840025981
+25177,Gaylesville,Gaylesville,AL,Alabama,1019,Cherokee,34.2681,-85.5586,141,158.0,polygon,False,True,America/Chicago,3,35973,1840002987
+25216,Peterman,Peterman,AL,Alabama,1099,Monroe,31.5837,-87.2631,139,126.0,polygon,False,False,America/Chicago,3,36471,1840025943
+25286,Pollard,Pollard,AL,Alabama,1053,Escambia,31.0236,-87.1736,136,47.0,polygon,False,True,America/Chicago,3,36441,1840004074
+25336,Boykin,Boykin,AL,Alabama,1131,Wilcox,32.0701,-87.2914,134,19.0,polygon,False,False,America/Chicago,3,36720 36723,1840025922
+25337,Deer Park,Deer Park,AL,Alabama,1129,Washington,31.2198,-88.3226,134,16.0,polygon,False,False,America/Chicago,3,36584 36529,1840025956
+25400,Pine Apple,Pine Apple,AL,Alabama,1131,Wilcox,31.8721,-86.9891,132,16.0,polygon,False,True,America/Chicago,3,36768,1840017025
+25423,Lester,Lester,AL,Alabama,1083,Limestone,34.9877,-87.1515,131,27.0,polygon,False,True,America/Chicago,3,35647,1840016509
+25602,Cusseta,Cusseta,AL,Alabama,1017,Chambers,32.7877,-85.3057,124,18.0,polygon,False,True,America/Chicago,3,36852,1840023011
+25603,Toxey,Toxey,AL,Alabama,1023,Choctaw,31.9107,-88.3091,124,69.0,polygon,False,True,America/Chicago,3,36921,1840017017
+25633,Eldridge,Eldridge,AL,Alabama,1127,Walker,33.922,-87.6201,123,67.0,polygon,False,True,America/Chicago,3,35554,1840016767
+25827,Myrtlewood,Myrtlewood,AL,Alabama,1091,Marengo,32.2521,-87.9492,116,17.0,polygon,False,True,America/Chicago,3,36763,1840016994
+25898,Libertyville,Libertyville,AL,Alabama,1039,Covington,31.2428,-86.46,113,83.0,polygon,False,True,America/Chicago,3,36420,1840017094
+25984,Bon Air,Bon Air,AL,Alabama,1121,Talladega,33.2621,-86.3319,110,32.0,polygon,False,True,America/Chicago,3,35150 35044 35032,1840015699
+25985,Ridgeville,Ridgeville,AL,Alabama,1055,Etowah,34.0569,-86.1029,110,51.0,polygon,False,True,America/Chicago,3,35954,1840017966
+26083,Hatton,Hatton,AL,Alabama,1079,Lawrence,34.561,-87.4136,106,30.0,polygon,False,False,America/Chicago,3,35672,1840025845
+26234,Haleburg,Haleburg,AL,Alabama,1067,Henry,31.4099,-85.1381,100,10.0,polygon,False,True,America/Chicago,3,36319,1840017072
+26307,East Point,East Point,AL,Alabama,1043,Cullman,34.1859,-86.7927,97,39.0,polygon,False,False,America/Chicago,3,35058 35055,1840025861
+26391,Lowndesboro,Lowndesboro,AL,Alabama,1085,Lowndes,32.2764,-86.6108,93,45.0,polygon,False,True,America/Chicago,3,36752,1840017005
+26423,Faunsdale,Faunsdale,AL,Alabama,1091,Marengo,32.4576,-87.5938,92,128.0,polygon,False,True,America/Chicago,3,36738,1840002081
+26524,Movico,Movico,AL,Alabama,1097,Mobile,31.0628,-88.0266,88,43.0,polygon,False,False,America/Chicago,3,36560,1840025983
+26556,Blue Springs,Blue Springs,AL,Alabama,1005,Barbour,31.6635,-85.5035,87,11.0,polygon,False,True,America/Chicago,3,36374 36017,1840015839
+26607,Needham,Needham,AL,Alabama,1023,Choctaw,31.987,-88.3366,85,57.0,polygon,False,True,America/Chicago,3,36915 36921,1840017018
+26608,Sims Chapel,Sims Chapel,AL,Alabama,1129,Washington,31.2365,-88.1435,85,5.0,polygon,False,False,America/Chicago,3,36553,1840027005
+26641,Graham,Graham,AL,Alabama,1111,Randolph,33.4552,-85.3231,84,5.0,polygon,False,False,America/Chicago,3,36263,1840022971
+26780,Union Grove,Union Grove,AL,Alabama,1095,Marshall,34.4025,-86.4483,79,54.0,polygon,False,True,America/Chicago,3,35175,1840016621
+26851,Belgreen,Belgreen,AL,Alabama,1059,Franklin,34.4767,-87.8653,76,23.0,polygon,False,False,America/Chicago,3,35653,1840005612
+26916,Ethelsville,Ethelsville,AL,Alabama,1107,Pickens,33.4141,-88.2161,73,49.0,polygon,False,True,America/Chicago,3,35461,1840001617
+26917,Tibbie,Tibbie,AL,Alabama,1129,Washington,31.3628,-88.2471,73,16.0,polygon,False,False,America/Chicago,3,36583,1840025963
+27053,Penton,Penton,AL,Alabama,1017,Chambers,33.009,-85.4722,68,2.0,polygon,False,False,America/Chicago,3,36862,1840023014
+27054,Bucks,Bucks,AL,Alabama,1097,Mobile,31.017,-88.0249,68,67.0,polygon,False,False,America/Chicago,3,36512 36560,1840025980
+27165,Fairford,Fairford,AL,Alabama,1129,Washington,31.178,-88.0728,64,8.0,polygon,False,False,America/Chicago,3,36553,1840025957
+27249,Mooresville,Mooresville,AL,Alabama,1083,Limestone,34.627,-86.8799,61,198.0,polygon,False,True,America/Chicago,3,35649,1840016510
+27266,Putnam,Putnam,AL,Alabama,1091,Marengo,32.0181,-88.0331,60,2.0,polygon,False,False,America/Chicago,3,36784,1840025911
+27370,Petrey,Petrey,AL,Alabama,1041,Crenshaw,31.8495,-86.2057,56,29.0,polygon,False,True,America/Chicago,3,36049 36062,1840017045
+27390,Cardiff,Cardiff,AL,Alabama,1073,Jefferson,33.6472,-86.9307,55,84.0,polygon,False,True,America/Chicago,3,35073,1840015670
+27417,Goldville,Goldville,AL,Alabama,1123,Tallapoosa,33.0841,-85.7831,54,21.0,polygon,False,True,America/Chicago,3,36255 36256,1840006026
+27544,Emelle,Emelle,AL,Alabama,1119,Sumter,32.7287,-88.3165,48,87.0,polygon,False,True,America/Chicago,3,35459,1840016948
+27599,Dayton,Dayton,AL,Alabama,1091,Marengo,32.3509,-87.6416,46,17.0,polygon,False,True,America/Chicago,3,36738 36748,1840016995
+27676,Nanafalia,Nanafalia,AL,Alabama,1091,Marengo,32.1114,-87.9957,42,7.0,polygon,False,False,America/Chicago,3,36782 36764,1840025910
+27703,Benton,Benton,AL,Alabama,1085,Lowndes,32.3078,-86.818,41,52.0,polygon,False,True,America/Chicago,3,36785 36752,1840015812
+27704,Fitzpatrick,Fitzpatrick,AL,Alabama,1011,Bullock,32.2113,-85.8784,41,3.0,polygon,False,False,America/Chicago,3,36029,1840025920
+27802,Carlton,Carlton,AL,Alabama,1025,Clarke,31.343,-87.8378,36,3.0,polygon,False,False,America/Chicago,3,36545,1840025932
+27824,Natural Bridge,Natural Bridge,AL,Alabama,1133,Winston,34.0904,-87.6014,35,31.0,polygon,False,True,America/Chicago,3,35575 35577,1840016711
+27866,Panola,Panola,AL,Alabama,1119,Sumter,32.9478,-88.2674,33,17.0,polygon,False,False,America/Chicago,3,35477,1840025887
+27998,Memphis,Memphis,AL,Alabama,1107,Pickens,33.1369,-88.3008,26,25.0,polygon,False,True,America/Chicago,3,35442,1840016852
+28061,Oak Hill,Oak Hill,AL,Alabama,1131,Wilcox,31.9216,-87.0852,23,15.0,polygon,False,True,America/Chicago,3,36768 36766,1840017024
+28105,Catherine,Catherine,AL,Alabama,1131,Wilcox,32.1861,-87.4699,21,3.0,polygon,False,False,America/Chicago,3,36728,1840025923
+28189,Rockville,Rockville,AL,Alabama,1025,Clarke,31.4059,-87.8442,16,2.0,polygon,False,False,America/Chicago,3,36545,1840027002
+28259,Megargel,Megargel,AL,Alabama,1099,Monroe,31.3781,-87.4307,12,6.0,polygon,False,False,America/Chicago,3,36445,1840025942
+28295,McMullen,McMullen,AL,Alabama,1107,Pickens,33.1481,-88.1757,9,31.0,polygon,False,True,America/Chicago,3,35442,1840027517

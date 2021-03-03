@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Book Template
+title: Curos Introducción a Python
 hero_media: book.svg
 design:
   background:
@@ -10,22 +10,10 @@ design:
     gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: docs/
-  label: Get Started
+  url: course/
+  label: Ver curso
   icon_pack: fas
-  icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      Show your product version here:<!-- Automatically filled based on data-repo value -->
-    </span>
+  icon: book
 ---
 
 Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.
-
-Write something interesting about your project here.
-
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-book" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Book template">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script>

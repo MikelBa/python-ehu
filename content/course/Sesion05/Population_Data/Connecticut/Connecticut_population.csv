@@ -1,0 +1,111 @@
+,city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+51,Bridgeport,Bridgeport,CT,Connecticut,9001,Fairfield,41.1918,-73.1953,924449,3470.0,polygon,False,True,America/New_York,2,06605 06604 06607 06606 06608 06610 06601 06602,1840004836
+54,Hartford,Hartford,CT,Connecticut,9003,Hartford,41.7661,-72.6834,905152,2712.0,polygon,False,True,America/New_York,2,06106 06105 06103 06120 06112 06160 06114 06101 06102 06104 06115 06123 06126 06127 06132 06133 06134 06140 06141 06142 06143 06144 06145 06146 06147 06150 06151 06152 06154 06167 06176 06183,1840004773
+81,New Haven,New Haven,CT,Connecticut,9009,New Haven,41.3112,-72.9246,564830,2690.0,polygon,False,True,America/New_York,2,06519 06511 06510 06513 06512 06515 06501 06502 06503 06505 06506 06507 06508 06509 06520 06521 06530 06531 06532 06533 06534 06535 06536 06540,1840004850
+224,Norwich,Norwich,CT,Connecticut,9011,New London,41.5495,-72.0882,200289,533.0,polygon,False,True,America/New_York,2,06380 06389 06360,1840004828
+236,Waterbury,Waterbury,CT,Connecticut,9009,New Haven,41.5583,-73.0361,189614,1456.0,polygon,False,True,America/New_York,2,06708 06702 06704 06706 06705 06710 06701 06703 06720 06721 06722 06723 06724 06725 06726,1840004851
+256,Danbury,Danbury,CT,Connecticut,9001,Fairfield,41.4016,-73.471,176030,779.0,polygon,False,True,America/New_York,2,06810 06811 06813,1840004837
+348,Stamford,Stamford,CT,Connecticut,9001,Fairfield,41.1035,-73.5583,129638,1330.0,polygon,False,True,America/New_York,2,06906 06907 06905 06902 06903 06901 06904 06910 06911 06912 06913 06914 06926 06927,1840004841
+522,Norwalk,Norwalk,CT,Connecticut,9001,Fairfield,41.1144,-73.4215,88816,1498.0,polygon,False,True,America/New_York,3,06854 06855 06856 06850 06851 06853 06852 06857 06858,1840004839
+666,New Britain,New Britain,CT,Connecticut,9003,Hartford,41.6758,-72.7862,72495,2095.0,polygon,False,True,America/New_York,2,06052 06053 06051 06050,1840004774
+821,Bristol,Bristol,CT,Connecticut,9003,Hartford,41.6812,-72.9407,59947,876.0,polygon,False,True,America/New_York,3,06010 06011,1840004772
+833,Meriden,Meriden,CT,Connecticut,9009,New Haven,41.5367,-72.7944,59395,963.0,polygon,False,True,America/New_York,3,06451 06450,1840004848
+917,West Haven,West Haven,CT,Connecticut,9009,New Haven,41.2739,-72.9672,54620,1961.0,polygon,False,True,America/New_York,3,06516 06504,1840004852
+924,Milford,Milford,CT,Connecticut,9009,New Haven,41.2256,-73.0616,54047,940.0,polygon,False,True,America/New_York,3,06461 06460,1840028594
+939,Milford city ,Milford city ,CT,Connecticut,9009,New Haven,41.2256,-73.0625,53195,937.0,polygon,False,True,America/New_York,3,06461 06460,1840028605
+1080,Middletown,Middletown,CT,Connecticut,9007,Middlesex,41.5476,-72.6549,46258,435.0,polygon,False,True,America/New_York,3,06457 06459,1840004844
+1188,Shelton,Shelton,CT,Connecticut,9001,Fairfield,41.306,-73.1383,41129,518.0,polygon,False,True,America/New_York,3,06484,1840004840
+1225,Torrington,Torrington,CT,Connecticut,9005,Litchfield,41.8349,-73.1281,40003,330.0,polygon,False,True,America/New_York,3,06790,1840004770
+1553,Naugatuck,Naugatuck,CT,Connecticut,9009,New Haven,41.489,-73.0518,31108,736.0,polygon,False,True,America/New_York,3,06770,1840004849
+1786,New London,New London,CT,Connecticut,9011,New London,41.3502,-72.1023,26858,1844.0,polygon,False,True,America/New_York,3,06320,1840004827
+2529,Ansonia,Ansonia,CT,Connecticut,9009,New Haven,41.3443,-73.0689,18654,1196.0,polygon,False,True,America/New_York,3,06401,1840004846
+2561,Wallingford Center,Wallingford Center,CT,Connecticut,9009,New Haven,41.4499,-72.8189,18322,974.0,polygon,False,True,America/New_York,3,06492 06493 06494 06495,1840073312
+2717,Willimantic,Willimantic,CT,Connecticut,9015,Windham,41.7153,-72.2173,17184,1508.0,polygon,False,False,America/New_York,3,06226,1840003284
+2804,Storrs,Storrs,CT,Connecticut,9013,Tolland,41.8045,-72.2552,16516,1140.0,polygon,False,False,America/New_York,3,06269 06268,1840003276
+3532,Derby,Derby,CT,Connecticut,9009,New Haven,41.3265,-73.0833,12339,942.0,polygon,False,True,America/New_York,3,06418,1840004847
+4195,Jewett City,Jewett City,CT,Connecticut,9011,New London,41.607,-71.9807,9749,1840.0,polygon,False,True,America/New_York,3,06351,1840004826
+4196,Conning Towers Nautilus Park,Conning Towers Nautilus Park,CT,Connecticut,9011,New London,41.3855,-72.0686,9749,753.0,polygon,True,True,America/New_York,3,06340,1840073288
+4490,Oakville,Oakville,CT,Connecticut,9005,Litchfield,41.5923,-73.0858,8929,1062.0,polygon,False,False,America/New_York,3,06779 06795,1840003260
+4684,Thompsonville,Thompsonville,CT,Connecticut,9003,Hartford,41.9916,-72.5965,8439,1600.0,polygon,False,False,America/New_York,3,06082,1840003267
+4694,Riverside,Riverside,CT,Connecticut,9001,Fairfield,41.0319,-73.5827,8414,1341.0,polygon,False,False,America/New_York,3,06878,1840026286
+4797,Kensington,Kensington,CT,Connecticut,9003,Hartford,41.6298,-72.7714,8190,604.0,polygon,False,False,America/New_York,3,06037,1840000505
+4996,Glastonbury Center,Glastonbury Center,CT,Connecticut,9003,Hartford,41.7019,-72.6001,7742,629.0,polygon,False,False,America/New_York,3,06033,1840000503
+5006,Southwood Acres,Southwood Acres,CT,Connecticut,9003,Hartford,41.961,-72.5719,7715,732.0,polygon,False,False,America/New_York,3,06082,1840028602
+5177,Winsted,Winsted,CT,Connecticut,9005,Litchfield,41.9268,-73.0675,7367,615.0,polygon,False,False,America/New_York,3,06098,1840003262
+5198,Rockville,Rockville,CT,Connecticut,9013,Tolland,41.8667,-72.4528,7332,1674.0,polygon,False,False,America/New_York,3,06066,1840003274
+5375,Cos Cob,Cos Cob,CT,Connecticut,9001,Fairfield,41.0513,-73.5931,6959,1294.0,polygon,False,False,America/New_York,3,06807,1840026281
+5458,Old Greenwich,Old Greenwich,CT,Connecticut,9001,Fairfield,41.0253,-73.5691,6819,1319.0,polygon,False,False,America/New_York,3,06870,1840026284
+5624,Cheshire Village,Cheshire Village,CT,Connecticut,9009,New Haven,41.5026,-72.8993,6484,743.0,polygon,False,True,America/New_York,3,06410 06408 06411,1840073562
+5662,Branford Center,Branford Center,CT,Connecticut,9009,New Haven,41.2779,-72.8148,6413,1314.0,polygon,False,True,America/New_York,3,06405,1840073557
+5847,Simsbury Center,Simsbury Center,CT,Connecticut,9003,Hartford,41.8808,-72.8111,6091,515.0,polygon,False,True,America/New_York,3,06070,1840034967
+6255,Sherwood Manor,Sherwood Manor,CT,Connecticut,9003,Hartford,42.0125,-72.566,5438,669.0,polygon,False,False,America/New_York,3,06082,1840028600
+6399,Pawcatuck,Pawcatuck,CT,Connecticut,9011,New London,41.3774,-71.8492,5249,593.0,polygon,False,False,America/New_York,3,06379,1840003353
+6611,Stafford Springs,Stafford Springs,CT,Connecticut,9013,Tolland,41.9595,-72.3105,4947,299.0,polygon,False,False,America/New_York,3,06076,1840003275
+6645,Terryville,Terryville,CT,Connecticut,9005,Litchfield,41.6784,-73.0064,4900,685.0,polygon,False,False,America/New_York,3,06786,1840003261
+6650,Hazardville,Hazardville,CT,Connecticut,9003,Hartford,41.9899,-72.5256,4896,574.0,polygon,False,False,America/New_York,3,06082,1840000504
+6763,Broad Brook,Broad Brook,CT,Connecticut,9003,Hartford,41.9097,-72.5426,4766,310.0,polygon,False,False,America/New_York,3,06016,1840004776
+7312,Mystic,Mystic,CT,Connecticut,9011,New London,41.3573,-71.9548,4221,486.0,polygon,False,False,America/New_York,3,06355,1840003349
+7318,Byram,Byram,CT,Connecticut,9001,Fairfield,41.0011,-73.6528,4216,2040.0,polygon,False,False,America/New_York,2,06830,1840026280
+7344,Long Hill,Long Hill,CT,Connecticut,9011,New London,41.3536,-72.0517,4191,1052.0,polygon,False,False,America/New_York,3,06340,1840003348
+7385,Heritage Village,Heritage Village,CT,Connecticut,9009,New Haven,41.4845,-73.2351,4143,651.0,polygon,False,False,America/New_York,3,06488,1840028598
+7425,Pemberwick,Pemberwick,CT,Connecticut,9001,Fairfield,41.0224,-73.6564,4114,2340.0,polygon,False,False,America/New_York,2,06831,1840026285
+7528,Danielson,Danielson,CT,Connecticut,9015,Windham,41.8086,-71.8854,4012,1416.0,polygon,False,True,America/New_York,3,06239,1840004781
+7595,Moosup,Moosup,CT,Connecticut,9015,Windham,41.717,-71.875,3943,659.0,polygon,False,False,America/New_York,3,06354,1840003277
+8086,Collinsville,Collinsville,CT,Connecticut,9003,Hartford,41.819,-72.922,3514,432.0,polygon,False,False,America/New_York,3,06019,1840004779
+8087,Old Mystic,Old Mystic,CT,Connecticut,9011,New London,41.3854,-71.985,3513,318.0,polygon,False,False,America/New_York,3,06355 06372,1840003352
+8248,Lake Pocotopaug,Lake Pocotopaug,CT,Connecticut,9007,Middlesex,41.5961,-72.5124,3413,415.0,polygon,False,False,America/New_York,3,06424,1840028596
+8491,Northwest Harwinton,Northwest Harwinton,CT,Connecticut,9005,Litchfield,41.7769,-73.0794,3244,144.0,polygon,False,True,America/New_York,3,06791 06792,1840073302
+9005,Oxoboxo River,Oxoboxo River,CT,Connecticut,9011,New London,41.4441,-72.125,2906,262.0,polygon,False,True,America/New_York,3,06353 06382,1840073305
+9049,Niantic,Niantic,CT,Connecticut,9011,New London,41.3265,-72.1949,2872,748.0,polygon,False,False,America/New_York,3,06357,1840003350
+9179,Weatogue,Weatogue,CT,Connecticut,9003,Hartford,41.8459,-72.8294,2788,359.0,polygon,False,False,America/New_York,3,06070 06089,1840003268
+9237,Blue Hills,Blue Hills,CT,Connecticut,9003,Hartford,41.8134,-72.6954,2753,912.0,polygon,False,False,America/New_York,3,06002,1840004775
+9241,Coventry Lake,Coventry Lake,CT,Connecticut,9013,Tolland,41.7736,-72.3287,2749,363.0,polygon,False,False,America/New_York,3,06238,1840028597
+9493,Guilford Center,Guilford Center,CT,Connecticut,9009,New Haven,41.2818,-72.6763,2618,460.0,polygon,False,True,America/New_York,3,06437,1840073296
+9546,Essex Village,Essex Village,CT,Connecticut,9007,Middlesex,41.3552,-72.391,2595,284.0,polygon,False,True,America/New_York,3,06426,1840073295
+9705,West Simsbury,West Simsbury,CT,Connecticut,9003,Hartford,41.8747,-72.8448,2523,224.0,polygon,False,False,America/New_York,3,06092 06070,1840003270
+9714,Madison Center,Madison Center,CT,Connecticut,9009,New Haven,41.2794,-72.6003,2519,475.0,polygon,False,True,America/New_York,3,06443,1840073297
+9748,Glenville,Glenville,CT,Connecticut,9001,Fairfield,41.0349,-73.6656,2499,1305.0,polygon,False,False,America/New_York,3,06831,1840026282
+9862,Poquonock Bridge,Poquonock Bridge,CT,Connecticut,9011,New London,41.3379,-72.0175,2450,704.0,polygon,False,False,America/New_York,3,06340,1840003354
+9865,Deep River Center,Deep River Center,CT,Connecticut,9007,Middlesex,41.3823,-72.4386,2448,368.0,polygon,False,True,America/New_York,3,06417,1840073290
+9881,Salmon Brook,Salmon Brook,CT,Connecticut,9003,Hartford,41.9567,-72.7931,2438,313.0,polygon,False,False,America/New_York,3,06035,1840028599
+10289,Crystal Lake,Crystal Lake,CT,Connecticut,9013,Tolland,41.9343,-72.3756,2231,110.0,polygon,False,False,America/New_York,3,06029,1840000506
+10544,Plainfield Village,Plainfield Village,CT,Connecticut,9015,Windham,41.6766,-71.925,2113,478.0,polygon,False,True,America/New_York,3,06374,1840073306
+10640,Westbrook Center,Westbrook Center,CT,Connecticut,9007,Middlesex,41.2811,-72.4424,2075,474.0,polygon,False,True,America/New_York,3,06498,1840073313
+11139,Old Saybrook Center,Old Saybrook Center,CT,Connecticut,9007,Middlesex,41.2918,-72.3682,1881,368.0,polygon,False,True,America/New_York,3,06475,1840073303
+11309,Georgetown,Georgetown,CT,Connecticut,9001,Fairfield,41.2494,-73.4343,1824,245.0,polygon,False,False,America/New_York,3,06896 06897 06829,1840000575
+11392,Bethlehem Village,Bethlehem Village,CT,Connecticut,9005,Litchfield,41.6401,-73.2031,1798,89.0,polygon,False,True,America/New_York,3,06751,1840073556
+11593,Plantsville,Plantsville,CT,Connecticut,9003,Hartford,41.5832,-72.8915,1726,714.0,polygon,False,False,America/New_York,3,06479,1840028595
+11795,Southport,Southport,CT,Connecticut,9001,Fairfield,41.135,-73.2874,1664,748.0,polygon,False,False,America/New_York,3,06890,1840026287
+11814,North Granby,North Granby,CT,Connecticut,9003,Hartford,42.0152,-72.844,1657,76.0,polygon,False,False,America/New_York,3,06060,1840003265
+11831,Chester Center,Chester Center,CT,Connecticut,9007,Middlesex,41.4014,-72.4523,1653,319.0,polygon,False,True,America/New_York,3,06412,1840073563
+11967,Moodus,Moodus,CT,Connecticut,9007,Middlesex,41.5043,-72.449,1610,214.0,polygon,False,False,America/New_York,3,06469,1840003369
+12152,Woodmont,Woodmont,CT,Connecticut,9009,New Haven,41.2282,-72.993,1552,2182.0,polygon,False,True,America/New_York,2,06460,1840004853
+12223,South Windham,South Windham,CT,Connecticut,9015,Windham,41.685,-72.1845,1533,189.0,polygon,False,False,America/New_York,3,06226 06266,1840003281
+12247,Canton Valley,Canton Valley,CT,Connecticut,9003,Hartford,41.8316,-72.8978,1525,334.0,polygon,False,False,America/New_York,3,06019,1840004777
+12356,Higganum,Higganum,CT,Connecticut,9007,Middlesex,41.49,-72.5562,1496,117.0,polygon,False,False,America/New_York,3,06438 06441,1840000583
+12392,Noank,Noank,CT,Connecticut,9011,New London,41.334,-71.9978,1487,376.0,polygon,False,False,America/New_York,3,06355 06340,1840003351
+12550,Woodbury Center,Woodbury Center,CT,Connecticut,9005,Litchfield,41.5445,-73.2047,1449,287.0,polygon,False,True,America/New_York,3,06798,1840034972
+12774,Tariffville,Tariffville,CT,Connecticut,9003,Hartford,41.9076,-72.7682,1391,896.0,polygon,False,False,America/New_York,3,06081,1840003266
+12923,East Brooklyn,East Brooklyn,CT,Connecticut,9015,Windham,41.7948,-71.8992,1350,306.0,polygon,False,False,America/New_York,3,06234,1840000508
+12999,Suffield Depot,Suffield Depot,CT,Connecticut,9003,Hartford,41.983,-72.6463,1334,261.0,polygon,False,False,America/New_York,3,06078 06080,1840028603
+13023,Quinebaug,Quinebaug,CT,Connecticut,9015,Windham,42.0107,-71.937,1327,117.0,polygon,False,False,America/New_York,3,06255 06262 06245,1840003280
+13047,Wauregan,Wauregan,CT,Connecticut,9015,Windham,41.75,-71.9091,1321,553.0,polygon,False,False,America/New_York,3,06374 06387 06239,1840003283
+13288,North Grosvenor Dale,North Grosvenor Dale,CT,Connecticut,9015,Windham,41.9862,-71.9034,1271,216.0,polygon,False,False,America/New_York,3,06255,1840003278
+13496,Canaan,Canaan,CT,Connecticut,9005,Litchfield,42.0347,-73.3323,1227,271.0,polygon,False,False,America/New_York,3,06018,1840034218
+13705,Baltic,Baltic,CT,Connecticut,9011,New London,41.614,-72.0866,1182,366.0,polygon,False,False,America/New_York,3,06330,1840026270
+13711,South Woodstock,South Woodstock,CT,Connecticut,9015,Windham,41.9275,-71.9627,1181,87.0,polygon,False,False,America/New_York,3,06281 06267,1840003282
+13848,Lakeville,Lakeville,CT,Connecticut,9005,Litchfield,41.9594,-73.4467,1154,141.0,polygon,False,False,America/New_York,3,06039 06068,1840026222
+13949,Terramuggus,Terramuggus,CT,Connecticut,9003,Hartford,41.6342,-72.4692,1136,381.0,polygon,False,False,America/New_York,3,06447,1840028604
+14032,South Coventry,South Coventry,CT,Connecticut,9013,Tolland,41.7695,-72.3064,1117,133.0,polygon,False,False,America/New_York,3,06238,1840028601
+14095,Saybrook Manor,Saybrook Manor,CT,Connecticut,9007,Middlesex,41.2825,-72.4063,1103,551.0,polygon,False,False,America/New_York,3,06475,1840003371
+14300,New Hartford Center,New Hartford Center,CT,Connecticut,9005,Litchfield,41.8802,-72.9753,1061,128.0,polygon,False,True,America/New_York,3,06057 06061,1840073298
+15217,Mansfield Center,Mansfield Center,CT,Connecticut,9013,Tolland,41.7618,-72.1944,913,114.0,polygon,False,False,America/New_York,3,06250,1840003273
+15253,New Preston,New Preston,CT,Connecticut,9005,Litchfield,41.6813,-73.3523,908,47.0,polygon,False,False,America/New_York,3,06777,1840003259
+15565,Gales Ferry,Gales Ferry,CT,Connecticut,9011,New London,41.4212,-72.0859,862,380.0,polygon,False,False,America/New_York,3,06335,1840026271
+15874,Wilton Center,Wilton Center,CT,Connecticut,9001,Fairfield,41.188,-73.4298,824,1153.0,polygon,False,True,America/New_York,3,06897,1840043233
+16651,Bantam,Bantam,CT,Connecticut,9005,Litchfield,41.7247,-73.2422,727,277.0,polygon,False,True,America/New_York,3,06750,1840004768
+18774,Groton Long Point,Groton Long Point,CT,Connecticut,9011,New London,41.3145,-72.0087,507,458.0,polygon,False,True,America/New_York,3,06340,1840004825
+19129,Falls Village,Falls Village,CT,Connecticut,9005,Litchfield,41.9576,-73.3562,478,115.0,polygon,False,False,America/New_York,3,06031 06018,1840026221
+23384,Mashantucket,Mashantucket,CT,Connecticut,9011,New London,41.4645,-71.9746,216,32.0,polygon,False,True,America/New_York,3,06339,1840043322
+27618,Fenwick,Fenwick,CT,Connecticut,9007,Middlesex,41.2711,-72.3546,45,44.0,polygon,False,True,America/New_York,3,06475,1840004843
+27940,Cannondale,Cannondale,CT,Connecticut,9001,Fairfield,41.2161,-73.4248,29,36.0,polygon,False,False,America/New_York,3,06897,1840026279
