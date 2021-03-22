@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Curos Introducción a Python
-hero_media: book.svg
+title: Curso Introducción a Python
+hero_media: python-logo-black.svg
 design:
   background:
     gradient_start: '#4bb4e3'
@@ -16,4 +16,4 @@ cta:
   icon: book
 ---
 
-Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.
+Impartido por Mikel Barrenetxea & Iker Lasa.
