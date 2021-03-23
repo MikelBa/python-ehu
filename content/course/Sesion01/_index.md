@@ -10,6 +10,8 @@ title: Introducción a Python
 type: book  # Do not modify.
 ---
 
+<a href="https://colab.research.google.com/gist/MikelBa/0a437cba38fb0a68ee3025796b6e8c3f/clase01.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## 1- Python en modo interprete (calculadora)
 
  - En jupyter notebooks escribimos código en cada **celda**.
@@ -418,7 +420,7 @@ jupyter[3] = 'A' # Esto nos devuelve un error (TypeError)
 
     TypeError                                 Traceback (most recent call last)
 
-    <ipython-input-30-76ddbd2c5ec1> in <module>
+    <ipython-input-30-76ddbd2c5ec1> in <module>()
     ----> 1 jupyter[3] = 'A' # Esto nos devuelve un error (TypeError)
           2 #                    devido a la propiedad inmutable de las tuplas
     
