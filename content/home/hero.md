@@ -10,7 +10,7 @@ hero_media: python-logo-notext-big.svg
 #     gradient_end: '#2b94c3'
 #     text_color_light: true
 cta:
-  url: https://github.com/MikelBa/python-ehu/raw/main/static/curso-de-python-mimec-master.zip
+  url: curso-de-python-mimec-master.zip
   label: Descargar curso
   icon_pack: fas
   icon: download
