@@ -20,3 +20,4 @@ cta_alt:
 ---
 
 Impartido por Mikel Barrenetxea & Iker Lasa.
+[<i class="fab fa-youtube"></i> Lista de reproducción de las sesiones](https://youtube.com/playlist?list=PLkD_vyS68Ftjjz7S1P2TzXQ5Rty8-Ye7R)
