@@ -12,6 +12,12 @@ type: book  # Do not modify.
 
 <a href="https://colab.research.google.com/gist/MikelBa/0a437cba38fb0a68ee3025796b6e8c3f/clase01.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+{{< youtube LDYXxguwI3Q >}}
+
+<br>
+
+{{< youtube rlQOO6D_Sz8 >}}
+
 ## 1- Python en modo interprete (calculadora)
 
  - En jupyter notebooks escribimos código en cada **celda**.

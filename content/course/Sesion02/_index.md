@@ -10,6 +10,10 @@ title: Scientific computing in Python
 type: book  # Do not modify.
 ---
 
+{{< youtube GbfydqUdICw >}}
+<br>
+{{< youtube qkSMqwg8ldg >}}
+
 ### Instalar paquetes/librerias
 
 Los paquetes que vamos a usar en este curso ya los tenenemos instalados con Anaconda en el entorno `base`. Para ver que paquetes tenemos instalados en el entorno `base` podemos mirarlo por el entorno gráfico que nos proporciona Anaconda, o a traves de la linea de comandos con el siguiente comando:

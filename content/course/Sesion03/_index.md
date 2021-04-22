@@ -10,6 +10,8 @@ title: Visualizaciones con Matplotlib
 type: book  # Do not modify.
 ---
 
+{{< youtube 21w_mb2cuD4 >}}
+
 El primer paso es cargar ('importar') la libreria
 
 

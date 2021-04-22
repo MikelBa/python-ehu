@@ -10,6 +10,7 @@ title: "Algunas cosas"
 type: book  # Do not modify.
 ---
     
+{{< youtube 8M7HPLNgtxI >}}
 
 # `os` module
 

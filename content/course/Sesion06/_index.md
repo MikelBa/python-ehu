@@ -10,6 +10,7 @@ title: "Scikit-Learn"
 type: book  # Do not modify.
 ---
 
+{{< youtube tyi5qrAdNv0 >}}
 
 ## Machine Learning en Python
 
